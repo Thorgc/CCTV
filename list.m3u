@@ -89,7 +89,8 @@ http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 http://ivi.bupt.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-
+#EXTINF:-1, 徐州2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 #EXTINF:-1 ,超级电影   
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 
