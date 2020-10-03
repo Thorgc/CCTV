@@ -177,3 +177,151 @@ http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
 #EXTINF:-1,Newtv精品记录
 http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1,歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10037&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=Q894B3E8EEZ3T19UG09L8B03GSWB&amp;ts=1553493266
+#EXTINF:-1,亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
+#EXTINF:-1,爆谷台
+https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
+#EXTINF:-1,峨眉电影HD
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1,周口影视
+http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
+#EXTINF:-1,CBN每日影院
+http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=71&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+#EXTINF:-1,新视觉HD
+http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=75&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+#EXTINF:-1,TVBS新聞台HD
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 民视新闻
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 华视新闻
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 壹新闻台
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1,日本 ‖ 全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1,台湾 ‖ 东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 东森财经新闻
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,台湾 ‖ 三立直播新闻
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1,民視新聞fq
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1,民視新聞fq
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1,MTV频道
+http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=202&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+
+#EXTINF:-1,NHK-World
+http://125.227.210.37:8931/VideoInput/play.ts
+#EXTINF:-1,Bloomberg (EN)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
+#EXTINF:-1,FOX Sport HD1-USA
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1,CHANNEL NEWS ASIA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1,耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,耀才財經台2
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1,求索科学
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1,求索一
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,民視第一
+http://520574.xyz/dl/gt.php?id=fmtv
+#EXTINF:-1,民視台湾
+http://520574.xyz/dl/gt.php?id=fttv
+#EXTINF:-1,民視影剧
+http://520574.xyz/dl/gt.php?id=ftvdrama
+#EXTINF:-1,民視新闻
+http://520574.xyz/dl/gt.php?id=ftvnews
+#EXTINF:-1,民視旅游
+http://520574.xyz/dl/gt.php?id=ftvtravel
+#EXTINF:-1,民視综艺
+http://520574.xyz/dl/gt.php?id=ftvvariety
+
+#EXTINF:-1,墨西哥卫视蓝光
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+
+#EXTINF:-1,亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1,迪拜赛马
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1,耀才財經台1
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,上德電視台
+http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
+#EXTINF:-1,亚洲旅游
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
+#EXTINF:-1,新唐人美西台
+http://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1,彭博财经(美)Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1,奥林匹克蓝光
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,皇马足球
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:-1,MTV音乐
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1,FOXSports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1,5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1,5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1,亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
+
+#EXTINF:-1,新唐人美东臺
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1,新唐人加东台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1,新唐人旧金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+
+
+#EXTINF:-1,NHK英语新闻
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1,日本NHK WORLD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
