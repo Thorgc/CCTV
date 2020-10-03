@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,凤凰资讯 HD
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1,凤凰香港 HD
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1,CCTV1 3M1080
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
@@ -29,8 +35,8 @@ http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1,中国教育1 3M1080
 http://ivi.bupt.edu.cn/hls/cetv1.m3u8
-#EXTINF:-1,中国教育1 3M1080
-http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1,厦门卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1,东南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1,东方卫视 3M1080
@@ -145,4 +151,29 @@ http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 
 #EXTINF:-1,极速汽车蓝光
 http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
-
+#EXTINF:-1,Newtv动作电影
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1,Newtv惊悚悬疑
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1,Newtv明星大片
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1,Newtv家庭剧场
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1,Newtv精品大剧
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1,Newtv古装剧场
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1,Newtv爱情喜剧
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1,Newtv军旅剧场
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1,Newtv军事评论
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1,Newtv金牌综艺
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1,Newtv精品体育
+http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
+#EXTINF:-1,Newtv精品体育
+http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1,Newtv精品记录
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
