@@ -211,3 +211,44 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1,CCTV4K
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1,Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canada",Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
+#EXTINF:0 tvg-id="ext" group-title="China",包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
+#EXTINF:0 tvg-id="ext" group-title="China",包头经济频道
+http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
+#EXTINF:0 tvg-id="ext" group-title="China",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",厦视综合
+http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",厦门海峡
+http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",厦门生活
+http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",德州新闻
+http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",恩施公共频道
+http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",恩施新闻综合
+http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",黄冈公共频道
+http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",黄冈新闻频道
+http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
+#EXTINF:0 tvg-id="france24" group-title="France",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:0 tvg-id="france24" group-title="France",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 tvg-id="HR.de" group-title="Germany",HR HD
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0 tvg-id="HR.de" group-title="Germany",HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
+
+
+
