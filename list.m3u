@@ -31,6 +31,8 @@ http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1,CCTV14 3M1080
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1,CCTV-15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1,CCTV17 3M1080
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1,中国教育1 3M1080
@@ -135,7 +137,6 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&authCode=3a&stbId=005303FF0002189018212C1875540E0E&version=1.0&owaccmark=5000000010000030951&owchid=bestzb&owsid=5275181579530295306&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B%2FwyUq8npJ58oVaJUzBhF9PPt3njBIzWc%2Fam35vTsnvW6JhDYuiodydLTeMKHTm0L2zYfQnHdO1Iw0VU34c0CqRBZ788c%2Fr%2FVjoxJ5D0QVcG
 #EXTINF:-1,第一财经蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
-
 #EXTINF:-1,生活时尚蓝光
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=9384351579529030195&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzfvIfeh1IeRuYy1UKStuEqgLEq69vAaIVm8yJ1Bv9Ubfc12nlc%2FSga%2FjQ8%2F3mwUrQxWfqFwePA0JQWqj9IZCH10
 #EXTINF:-1,上海都市蓝光
@@ -207,16 +208,9 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1,彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1,CCTV-15
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+
 #EXTINF:-1,CCTV4K
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1,Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1,Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1,Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1,包头新闻综合
 http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 #EXTINF:-1,包头生活服务
@@ -241,14 +235,15 @@ http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1,France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1,France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,HR HD
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1,HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-
-
-
+#EXTINF:-1,浙江-杭州HTV-1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1,浙江-杭州HTV-2
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1,浙江-杭州HTV-3
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1,浙江-杭州HTV-4
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1,浙江-杭州HTV-5
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
