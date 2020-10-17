@@ -248,15 +248,10 @@ http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 #EXTINF:-1 ,蓝光影视台7
 http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-
-#EXTINF:-1 ,蓝光影视台10
-http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 ,蓝光影视台11
+#EXTINF:-1 ,蓝光影视台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 ,CCTV-15蓝光
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
-
-
 #EXTINF:-1 ,民視影剧
 http://520574.xyz/dl/gt.php?id=ftvdrama
 #EXTINF:-1,鳳梨直擊
