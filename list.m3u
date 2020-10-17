@@ -235,8 +235,7 @@ http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1,HR HD
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+
 #EXTINF:-1,浙江-杭州HTV-1
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
 #EXTINF:-1,浙江-杭州HTV-2
