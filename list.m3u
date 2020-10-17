@@ -244,4 +244,26 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
 #EXTINF:-1,浙江-杭州HTV-4
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 ,蓝光影视台1
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 ,蓝光影视台2
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 ,蓝光影视台3
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 ,蓝光影视台4
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 ,蓝光影视台5
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 ,蓝光影视台6
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 ,蓝光影视台7
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 ,蓝光影视台8
+http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 ,蓝光影视台9
+http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 ,蓝光影视台10
+http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 ,蓝光影视台11
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
