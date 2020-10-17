@@ -189,10 +189,6 @@ https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1,周口影视
 http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
-#EXTINF:-1,CBN每日影院
-http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=71&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
-#EXTINF:-1,新视觉HD
-http://116.199.5.51:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=75&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
 
 #EXTINF:-1,求索科学
 http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
@@ -209,8 +205,6 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1,彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1,CCTV4K
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1,包头新闻综合
 http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 #EXTINF:-1,包头生活服务
@@ -236,15 +230,6 @@ http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 
-#EXTINF:-1,浙江-杭州HTV-1
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1,浙江-杭州HTV-2
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1,浙江-杭州HTV-3
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1,浙江-杭州HTV-4
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 ,蓝光影视台1
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 ,蓝光影视台2
@@ -259,10 +244,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 #EXTINF:-1 ,蓝光影视台7
 http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 ,蓝光影视台8
-http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 ,蓝光影视台9
-http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+
 #EXTINF:-1 ,蓝光影视台10
 http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 ,蓝光影视台11
