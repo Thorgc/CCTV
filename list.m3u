@@ -358,5 +358,22 @@ http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India",Santhora TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana 1 FAMILY
+http://51.15.229.209/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Italy",AB Channel
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+#EXTINF:0 tvg-id="CompanyTV.it" group-title="Italy",Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+
+
 
 
