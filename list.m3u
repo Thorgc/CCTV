@@ -372,8 +372,63 @@ http://51.15.229.209/hls/stream.m3u8
 https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
 #EXTINF:0 tvg-id="CompanyTV.it" group-title="Italy",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-
-
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="Italy",LaC TV
+https://StreamCdnC3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Japan",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Japan",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Japan",NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Japan",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Jordan",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",KTV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",KTV 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lithuania",KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Macau",澳門-MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:0 tvg-id="ntv7" group-title="Malaysia",NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Mexico",Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Mexico",Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 tvg-id="moldova1" group-title="Moldova",Moldova1
+rtsp://212.0.209.209:1935/live/_definst_/mp4:MoldovaUnu1
+#EXTINF:0 tvg-id="ext" group-title="Netherlands",Den Haag TV
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:0 tvg-id="Flevoland.nl" group-title="Netherlands",Omroep Flevoland
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands",Regio TV Nieuws
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:0 tvg-id="RTVOost.nl" group-title="Netherlands",RTV Oost
+https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Netherlands",RTV Rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Zealand",Māori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="North Macedonia",Sky Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman",Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman",Oman TV Cultural
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Peru",BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Portugal",Caçavision (HQ)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Romania",TVR 1 HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="Russia",RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
