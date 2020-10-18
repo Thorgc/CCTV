@@ -111,12 +111,7 @@ http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1,纯享4K源码
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
-#EXTINF:-1 ,爱美食
-http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
-#EXTINF:-1 ,爱旅行
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 ,爱谍战
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+
 #EXTINF:-1,蓝光影视1台
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1,蓝光影视2台
@@ -282,3 +277,60 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1,Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brunei",RTB Sukmaindera
+
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Cambodia",Fresh News TV
+
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canada",BBC Toronto Gaunda Punjab
+
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canada",Canada One
+
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canada",Global Calgary
+
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Chile",El Pinguino TV
+
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:0 tvg-id="france24" group-title="France",France 24 English
+
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Turkey",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Turkey",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-id="112ukr" group-title="Ukraine",112 Украина [FHD]
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France",Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="France",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:0 tvg-id="france24" group-title="France",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 tvg-id="shansontv" group-title="Georgia",TV 24
+http://tv.cdn.xsg.ge/tv24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Germany",Offener Kanal Dessau
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:0 tvg-id="ext" group-title="Germany",Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Germany",OK-Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:0 tvg-id="OKTO.at" group-title="Germany",Okto
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
