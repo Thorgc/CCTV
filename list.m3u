@@ -2,7 +2,7 @@
 #EXTINF:-1,凤凰资讯 HD
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,凤凰卫视中文台
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1,CCTV1 3M1080
@@ -334,3 +334,19 @@ http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
 #EXTINF:0 tvg-id="OKTO.at" group-title="Germany",Okto
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Germany",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece",Baraza TV Classic Hits
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Greece",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Honduras",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hong Kong",A1台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hong Kong",鳳凰衛視中文台
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hong Kong",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hong Kong",香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
