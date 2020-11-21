@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,凤凰资讯 HD
-http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1,CCTV1 3M1080
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
@@ -96,6 +90,10 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1,湖南金鹰纪实 3M1080
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 
+#EXTINF:-1,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1, 徐州2
