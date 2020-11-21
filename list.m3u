@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,凤凰卫视高清
-tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
 #EXTINF:-1,CCTV1 3M1080
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
