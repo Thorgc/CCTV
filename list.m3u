@@ -159,6 +159,30 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1,彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,ABC News HD
+http://listamy.com:8080/stream12/stream12/328650
+#EXTINF:-1 , CineMax 5 Star Max FHD	
+http://listamy.com:8080/stream12/stream12/328656	
+#EXTINF:-1 ,CNN FHD
+http://listamy.com:8080/stream12/stream12/328629
+#EXTINF:-1 , Boston 7 NEWS(M(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35788
+#EXTINF:-1 , Action Max (tr)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/59955	
+#EXTINF:-1 ,Cinemax 5 Star Max (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53891
+#EXTINF:-1 ,Cinemax Action 2(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1574
+#EXTINF:-1 ,Cinemax Action Max (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53890
+#EXTINF:-1 ,Cinemax East (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53889
+#EXTINF:-1 ,Starz Cinema (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53879
+#EXTINF:-1 , CNN FHD
+http://listamy.com:8080/stream12/stream12/328629	
+
+
 #EXTINF:-1 ,5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1 ,BBC AME HD (ENG)
