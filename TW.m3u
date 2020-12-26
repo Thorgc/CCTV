@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Bloomberg
-https://www.youtube.com/watch?v=dp8PhLsUcFE
+#EXTINF:-1,sky
+https://www.youtube.com/watch?v=9Auq9mYxFEEcFE
 #EXTINF:-1,ABC News
 https://www.youtube.com/watch?v=w_Ma8oQLmSM
 #EXTINF:-1,cna
@@ -21,26 +21,26 @@ https://www.youtube.com/watch?v=XWq5kBlakcQ
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1,HK
 https://www.youtube.com/watch?v=dp8PhLsUcFE
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/15.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/16.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/17.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/18.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/19.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/20.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/21.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/22.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/23.ts
-#EXTINF:-1,HK
-http://tv.wakds.xyz:8080/live/tangyuan/12345678/24.ts
+#EXTINF:-1,dw
+https://www.youtube.com/watch?v=gOoTbPssAo4
+#EXTINF:-1,欧洲
+https://www.youtube.com/watch?v=oaugY_Yn6Yw
+#EXTINF:-1,rt
+https://www.youtube.com/watch?v=NvCSr7qzAAM
+#EXTINF:-1,cnn
+https://www.youtube.com/watch?v=2dp2QvDdw50
+#EXTINF:-1,nbc2
+https://www.youtube.com/watch?v=tPeUHECNLKs
+#EXTINF:-1,日本
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1,泰国
+https://www.youtube.com/watch?v=-IYfy_tBmQo
+#EXTINF:-1,华视
+https://www.youtube.com/watch?v=-pvROC_MdYM
+#EXTINF:-1,Al Jazeera English | Live
+https://www.youtube.com/watch?v=Btv7G0BV45g
+#EXTINF:-1,LIVE News 
+https://www.youtube.com/watch?v=f0-Y-eMhS1A
 #EXTINF:-1,HK
 http://tv.wakds.xyz:8080/live/tangyuan/12345678/25.ts
 #EXTINF:-1,HK
