@@ -57,10 +57,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 #EXTINF:-1 ,TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 ,NFLREDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
 #EXTINF:-1 ,A&E ENG HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
-#EXTINF:-1 ,ABC7CHICAGO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 #EXTINF:-1 ,CBS2CHICAGO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
 #EXTINF:-1 ,COOKING
@@ -125,6 +125,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 #EXTINF:-1 ,UNIVERSO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:-1 ,UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 #EXTINF:-1 ,XITE
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
 #EXTINF:-1 ,XITEROCK
@@ -239,6 +241,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 ,DISCOVERY SCIENCE
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1 ,NFL GAMEPASS REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
 #EXTINF:-1 ,goltv esp
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 #EXTINF:-1 ,FXX
@@ -255,12 +259,58 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 #EXTINF:-1 ,FORMULA 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1 ,NBA-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
+#EXTINF:-1 ,NBA-10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133
+#EXTINF:-1 ,NBA-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
+#EXTINF:-1 ,NBA-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131
+#EXTINF:-1 ,NBA-13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130
+#EXTINF:-1 ,NBA-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129
+#EXTINF:-1 ,NBA-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128
+#EXTINF:-1 ,NBA-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127
+#EXTINF:-1 ,NBA-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
+#EXTINF:-1 ,NBA-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140
+#EXTINF:-1 ,NBA-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139
+#EXTINF:-1 ,NBA-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138
+#EXTINF:-1 ,NBA-6
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137
+#EXTINF:-1 ,NBA-7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136
+#EXTINF:-1 ,NBA-8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135
 #EXTINF:-1 ,ABC Miami
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
 #EXTINF:-1 ,NHL-1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
 #EXTINF:-1 ,NHL-2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+#EXTINF:-1 ,NBA-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+#EXTINF:-1 ,NBA-20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
+#EXTINF:-1 ,NBA-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+#EXTINF:-1 ,NBA-23
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
+#EXTINF:-1 ,NBA-27
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+#EXTINF:-1 ,NBA-28
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+#EXTINF:-1 ,NBA-29
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+#EXTINF:-1 ,NBA-30
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
 #EXTINF:-1 ,Comet-TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
 #EXTINF:-1 ,Fox-Sports-Kansas
@@ -279,131 +329,245 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 #EXTINF:-1 ,ESPN U
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
-#EXTINF:-1 ,VIP USA HD : Baby TV
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/180
-#EXTINF:-1 ,VIP USA HD : A &amp;amp;amp; E
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/14
-#EXTINF:-1 ,VIP USA HD : ABC
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/188
-#EXTINF:-1 ,VIP USA HD : AMC
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/87
-#EXTINF:-1 ,#039;s Channel
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/155
-#EXTINF:-1 ,VIP USA HD : Animal Planet
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/111
-#EXTINF:-1 ,VIP USA HD : Antenna TV
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/112
-#EXTINF:-1 ,VIP USA HD : BBC America
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/157
-#EXTINF:-1 ,VIP USA HD : BET
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/24
-#EXTINF:-1 ,VIP USA HD : BET HER
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/2
-#EXTINF:-1 ,VIP USA HD : Bravo
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/39
-#EXTINF:-1 ,VIP USA HD : CBS East
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/68
-#EXTINF:-1 ,VIP USA HD : Cinemax East
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/25
-#EXTINF:-1 ,VIP USA HD : Cinemax Action Max East
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/8
-#EXTINF:-1 ,VIP USA HD : Cinemaxx More Maxx
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/120
-#EXTINF:-1 ,VIP USA HD : Cinemax Outermax
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/90
-#EXTINF:-1 ,VIP USA HD : Cinemax Thrillermax
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/96
-#EXTINF:-1 ,VIP USA HD : CMT
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/88
-#EXTINF:-1 ,VIP USA HD : CNN
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/4
-#EXTINF:-1 ,VIP USA HD : Comedy Central
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/124
-#EXTINF:-1 ,VIP USA HD : Cooking Channel
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/55
-#EXTINF:-1 ,VIP USA HD : Crime And Investigation
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/152
-#EXTINF:-1 ,VIP USA HD : Destination America
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/110
-#EXTINF:-1 ,VIP USA HD : Discovery Channel
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/62
-#EXTINF:-1 ,VIP USA HD : Discovery Science
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/23
-#EXTINF:-1 ,VIP USA HD : Disney Jr
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/12
-#EXTINF:-1 ,VIP USA HD : DIY Network
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/11
-#EXTINF:-1 ,VIP USA HD : E!
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/175
-#EXTINF:-1 ,VIP USA HD : EPIX
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/107
-#EXTINF:-1 ,VIP USA HD : EPIX 2
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/159
-#EXTINF:-1 ,VIP USA HD : EPIX Hits
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/30
-#EXTINF:-1 ,VIP USA HD : Food Network
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/27
-#EXTINF:-1 ,VIP USA HD : Fox 5
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/81
-#EXTINF:-1 ,VIP USA HD : Fox Business
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/193
-#EXTINF:-1 ,VIP USA HD : Fox News
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/2
-#EXTINF:-1 ,VIP USA HD : Freeform
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/103
-#EXTINF:-1 ,VIP USA HD : FX HD
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/63
-#EXTINF:-1 ,VIP USA HD : FXM
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/192
-#EXTINF:-1 ,VIP USA HD : FXX
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/138
-#EXTINF:-1 ,VIP USA HD : FYI Network
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/131
-#EXTINF:-1 ,VIP USA HD : GSN
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/52
-#EXTINF:-1 ,VIP USA HD : Hallmark Movies &amp; Mysteries
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/132
-#EXTINF:-1 ,VIP USA HD : HBO
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/103
-#EXTINF:-1 ,VIP USA HD : HBO 2
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/51
-#EXTINF:-1 ,VIP USA HD : HBO Comedy
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/119
-#EXTINF:-1 ,VIP USA HD : HBO Family
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/110
-#EXTINF:-1 ,VIP USA HD : HBO Signature
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/44
-#EXTINF:-1 ,VIP USA HD : HBO Zone
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/82
-#EXTINF:-1 ,VIP USA HD : HGTV
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/23
-#EXTINF:-1 ,VIP USA HD : H2
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/172
-#EXTINF:-1 ,VIP USA HD : History Channel
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/42
-#EXTINF:-1 ,VIP USA HD : HLN
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/170
-#EXTINF:-1 ,VIP USA HD : IFC
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/186
-#EXTINF:-1 ,VIP USA HD : Investigation Discovery
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/21
-#EXTINF:-1 ,VIP USA HD : ION TV
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/49
-#EXTINF:-1 ,VIP USA HD : Lifetime
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/27
-#EXTINF:-1 ,VIP USA HD : LMN
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/22
-#EXTINF:-1 ,VIP USA HD : ME TV
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/47
-#EXTINF:-1 ,VIP USA HD : MSNBC
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/15
-#EXTINF:-1 ,VIP USA HD : MTV
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/14
-#EXTINF:-1 ,VIP USA HD : Motor Trend
-http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/44
-#EXTINF:-1 ,VIP USA HD : Nat Geo USA
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/143
-#EXTINF:-1 ,VIP USA HD :  Nat Geo Wild
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/108
-#EXTINF:-1 ,VIP USA HD : Oxygen
-http://104.218.61.161:83/directline76598/35222AM0203021421468352020/10
+#EXTINF:-1 ,Comet
+http://redcoliptv.com:8090/concert/concert/15907
+#EXTINF:-1 ,Discovery Life
+http://redcoliptv.com:8090/concert/concert/15908
+#EXTINF:-1 ,Ginx eSports
+http://redcoliptv.com:8090/concert/concert/15909
+#EXTINF:-1 ,Logo
+http://redcoliptv.com:8090/concert/concert/15910
+#EXTINF:-1 ,Paramount
+http://redcoliptv.com:8090/concert/concert/15911
+#EXTINF:-1 ,TCM
+http://redcoliptv.com:8090/concert/concert/15912
+#EXTINF:-1 ,Bet Her
+http://redcoliptv.com:8090/concert/concert/15914
+#EXTINF:-1 ,Bet Jams
+http://redcoliptv.com:8090/concert/concert/15915
+#EXTINF:-1 ,Bet Soul
+http://redcoliptv.com:8090/concert/concert/15916
+#EXTINF:-1 ,MTV 2
+http://redcoliptv.com:8090/concert/concert/15917
+#EXTINF:-1 ,MTV Classic
+http://redcoliptv.com:8090/concert/concert/15918
+#EXTINF:-1 ,MTV Live
+http://redcoliptv.com:8090/concert/concert/15919
+#EXTINF:-1 ,MTV U
+http://redcoliptv.com:8090/concert/concert/15920
+#EXTINF:-1 ,Boomerang
+http://redcoliptv.com:8090/concert/concert/15921
+#EXTINF:-1 ,Nick Music
+http://redcoliptv.com:8090/concert/concert/15922
+#EXTINF:-1 ,Bravo HD
+http://redcoliptv.com:8090/concert/concert/15934
+#EXTINF:-1 ,BTN HD
+http://redcoliptv.com:8090/concert/concert/15935
+#EXTINF:-1 ,Cinemax
+http://redcoliptv.com:8090/concert/concert/15959
+#EXTINF:-1 ,CW
+http://redcoliptv.com:8090/concert/concert/15969
+#EXTINF:-1 ,ESPN 2
+http://redcoliptv.com:8090/concert/concert/15984
+#EXTINF:-1 ,ESPN 3
+http://redcoliptv.com:8090/concert/concert/15985
+#EXTINF:-1 ,Fightnet HD
+http://redcoliptv.com:8090/concert/concert/15986
+#EXTINF:-1 ,Food Network HD
+http://redcoliptv.com:8090/concert/concert/15987
+#EXTINF:-1 ,Fox 10 KSAZ
+http://redcoliptv.com:8090/concert/concert/15988
+#EXTINF:-1 ,Fox Atlanta HD
+http://redcoliptv.com:8090/concert/concert/15994
+#EXTINF:-1 ,Fox Baltimore
+http://redcoliptv.com:8090/concert/concert/15995
+#EXTINF:-1 ,Fox Chicago
+http://redcoliptv.com:8090/concert/concert/15998
+#EXTINF:-1 ,Fox KDFW
+http://redcoliptv.com:8090/concert/concert/16002
+#EXTINF:-1 ,Fox Sports 1 HD
+http://redcoliptv.com:8090/concert/concert/16011
+#EXTINF:-1 ,Fox Sports 2 HD
+http://redcoliptv.com:8090/concert/concert/16012
+#EXTINF:-1 ,Fox Sports Tenness
+http://redcoliptv.com:8090/concert/concert/16013
+#EXTINF:-1 ,Fox Sports Florida HD
+http://redcoliptv.com:8090/concert/concert/16017
+#EXTINF:-1 ,Fox Sports Southeast
+http://redcoliptv.com:8090/concert/concert/16022
+#EXTINF:-1 ,Hallmark HD
+http://redcoliptv.com:8090/concert/concert/16034
+#EXTINF:-1 ,Hallmark Movies & Mysteries HD
+http://redcoliptv.com:8090/concert/concert/16035
+#EXTINF:-1 ,HBO East
+http://redcoliptv.com:8090/concert/concert/16038
+#EXTINF:-1 ,HBO Zone
+http://redcoliptv.com:8090/concert/concert/16040
+#EXTINF:-1 ,HGTV HD
+http://redcoliptv.com:8090/concert/concert/16041
+#EXTINF:-1 ,LA_Fox Life HD
+http://redcoliptv.com:8090/concert/concert/16054
+#EXTINF:-1 ,LA_Galavision HD
+http://redcoliptv.com:8090/concert/concert/16055
+#EXTINF:-1 ,LA_Más Chic HD
+http://redcoliptv.com:8090/concert/concert/16056
+#EXTINF:-1 ,LA_Telemundo Los Angeles KVEA
+http://redcoliptv.com:8090/concert/concert/16065
+#EXTINF:-1 ,LA_Telemundo Miami
+http://redcoliptv.com:8090/concert/concert/16066
+#EXTINF:-1 ,LA_Telemundo Miami WSCV
+http://redcoliptv.com:8090/concert/concert/16067
+#EXTINF:-1 ,LA_Telemundo New York WNJU
+http://redcoliptv.com:8090/concert/concert/16068
+#EXTINF:-1 ,LA_Telemundo San Fransico KSTS
+http://redcoliptv.com:8090/concert/concert/16070
+#EXTINF:-1 ,LA_Telemundo Washington WZDC
+http://redcoliptv.com:8090/concert/concert/16071
+#EXTINF:-1 ,LA_Telenovelas
+http://redcoliptv.com:8090/concert/concert/16072
+#EXTINF:-1 ,LA_Unimas HD
+http://redcoliptv.com:8090/concert/concert/16073
+#EXTINF:-1 ,LA_Univision TDN HD
+http://redcoliptv.com:8090/concert/concert/16074
+#EXTINF:-1 ,Lifetime HD
+http://redcoliptv.com:8090/concert/concert/16075
+#EXTINF:-1 ,Liftime Movies HD
+http://redcoliptv.com:8090/concert/concert/16076
+#EXTINF:-1 ,Longhorn Network
+http://redcoliptv.com:8090/concert/concert/16077
+#EXTINF:-1 ,Motorsport HD
+http://redcoliptv.com:8090/concert/concert/16080
+#EXTINF:-1 ,MSG
+http://redcoliptv.com:8090/concert/concert/16081
+#EXTINF:-1 ,MSG 2
+http://redcoliptv.com:8090/concert/concert/16082
+#EXTINF:-1 ,NBC 10 Philadelphia
+http://redcoliptv.com:8090/concert/concert/16088
+#EXTINF:-1 ,NBC 12 KPNX
+http://redcoliptv.com:8090/concert/concert/16089
+#EXTINF:-1 ,NBC Carolinas
+http://redcoliptv.com:8090/concert/concert/16092
+#EXTINF:-1 ,NBC Chicago
+http://redcoliptv.com:8090/concert/concert/16093
+#EXTINF:-1 ,NBC Kansas
+http://redcoliptv.com:8090/concert/concert/16094
+#EXTINF:-1 ,NBC Michigan
+http://redcoliptv.com:8090/concert/concert/16098
+#EXTINF:-1 ,NBC New Orleans
+http://redcoliptv.com:8090/concert/concert/16099
+#EXTINF:-1 ,NBC New York
+http://redcoliptv.com:8090/concert/concert/16100
+#EXTINF:-1 ,NBC Portland
+http://redcoliptv.com:8090/concert/concert/16101
+#EXTINF:-1 ,NBC San Fransisco
+http://redcoliptv.com:8090/concert/concert/16102
+#EXTINF:-1 ,NBC SN Bay Area
+http://redcoliptv.com:8090/concert/concert/16103
+#EXTINF:-1 ,NBC SN Philadelphia HD
+http://redcoliptv.com:8090/concert/concert/16111
+#EXTINF:-1 ,NBC SN Philadelphia Plus HD
+http://redcoliptv.com:8090/concert/concert/16112
+#EXTINF:-1 ,NBC SN Washington HD
+http://redcoliptv.com:8090/concert/concert/16113
+#EXTINF:-1 ,NBC SN Washington Plus HD
+http://redcoliptv.com:8090/concert/concert/16114
+#EXTINF:-1 ,NBC Universo HD
+http://redcoliptv.com:8090/concert/concert/16115
+#EXTINF:-1 ,NBC Washington
+http://redcoliptv.com:8090/concert/concert/16116
+#EXTINF:-1 ,NESN Plus
+http://redcoliptv.com:8090/concert/concert/16125
+#EXTINF:-1 ,NFL Network HD
+http://redcoliptv.com:8090/concert/concert/16126
+#EXTINF:-1 ,People TV
+http://redcoliptv.com:8090/concert/concert/16141
+#EXTINF:-1 ,POP HD
+http://redcoliptv.com:8090/concert/concert/16142
+#EXTINF:-1 ,Reelz
+http://redcoliptv.com:8090/concert/concert/16143
+#EXTINF:-1 ,Showtime
+http://redcoliptv.com:8090/concert/concert/16144
+#EXTINF:-1 ,MovieMax
+http://redcoliptv.com:8090/concert/concert/16155
+#EXTINF:-1 ,Starz Cinema
+http://redcoliptv.com:8090/concert/concert/16156
+#EXTINF:-1 ,Starz Comedy
+http://redcoliptv.com:8090/concert/concert/16157
+#EXTINF:-1 ,Starz East
+http://redcoliptv.com:8090/concert/concert/16158
+#EXTINF:-1 ,Starz Encore
+http://redcoliptv.com:8090/concert/concert/16159
+#EXTINF:-1 ,Starz Encore Action
+http://redcoliptv.com:8090/concert/concert/16160
+#EXTINF:-1 ,Starz Encore Westerns
+http://redcoliptv.com:8090/concert/concert/16161
+#EXTINF:-1 ,Starz HD
+http://redcoliptv.com:8090/concert/concert/16162
+#EXTINF:-1 ,Starz In Black
+http://redcoliptv.com:8090/concert/concert/16163
+#EXTINF:-1 ,Starz Kidz & Family
+http://redcoliptv.com:8090/concert/concert/16164
+#EXTINF:-1 ,Sundance HD
+http://redcoliptv.com:8090/concert/concert/16165
+#EXTINF:-1 ,SYFY HD
+http://redcoliptv.com:8090/concert/concert/16166
+#EXTINF:-1 ,TBS
+http://redcoliptv.com:8090/concert/concert/16167
+#EXTINF:-1 ,Yes Network
+http://redcoliptv.com:8090/concert/concert/16168
+#EXTINF:-1 ,Universal Kids HD
+http://redcoliptv.com:8090/concert/concert/16179
+#EXTINF:-1 ,TV One
+http://redcoliptv.com:8090/concert/concert/16180
+#EXTINF:-1 ,PASIONES
+http://redcoliptv.com:8090/concert/concert/16204
+#EXTINF:-1 ,NICKELODEON
+http://redcoliptv.com:8090/concert/concert/16205
+#EXTINF:-1 ,NESN
+http://redcoliptv.com:8090/concert/concert/16206
+#EXTINF:-1 ,NBC
+http://redcoliptv.com:8090/concert/concert/16208
+#EXTINF:-1 ,HBO FAMILY USA
+http://redcoliptv.com:8090/concert/concert/16215
+#EXTINF:-1 ,HBO COMEDY USA
+http://redcoliptv.com:8090/concert/concert/16216
+#EXTINF:-1 ,HBO 2 USA
+http://redcoliptv.com:8090/concert/concert/16217
+#EXTINF:-1 ,FOX ACTION Latino
+http://redcoliptv.com:8090/concert/concert/16218
+#EXTINF:-1 ,FOX 25
+http://redcoliptv.com:8090/concert/concert/16219
+#EXTINF:-1 ,ESPN Deportes
+http://redcoliptv.com:8090/concert/concert/16220
+#EXTINF:-1 ,Action Max
+http://redcoliptv.com:8090/concert/concert/16236
+#EXTINF:-1 ,Telemundo Boston
+http://redcoliptv.com:8090/concert/concert/16237
+#EXTINF:-1 ,Telemundo Chicago
+http://redcoliptv.com:8090/concert/concert/16238
+#EXTINF:-1 ,Telemundo Dallas
+http://redcoliptv.com:8090/concert/concert/16239
+#EXTINF:-1 ,Telemundo Denver
+http://redcoliptv.com:8090/concert/concert/16240
+#EXTINF:-1 ,Telemundo Houston
+http://redcoliptv.com:8090/concert/concert/16242
+#EXTINF:-1 ,Telemundo Las Vegas
+http://redcoliptv.com:8090/concert/concert/16243
+#EXTINF:-1 ,Telemundo Los Angeles
+http://redcoliptv.com:8090/concert/concert/16244
+#EXTINF:-1 ,Telemundo San Antonio
+http://redcoliptv.com:8090/concert/concert/16245
+#EXTINF:-1 ,5 StarMax HD_1080P
+http://redcoliptv.com:8090/concert/concert/16246
+#EXTINF:-1 ,Cinemax Action 2 HD_1080P
+http://redcoliptv.com:8090/concert/concert/16286
+#EXTINF:-1 ,HBO 2 HD_1080P
+http://redcoliptv.com:8090/concert/concert/16287
+#EXTINF:-1 ,HBO 2 West HD_1080P
+http://redcoliptv.com:8090/concert/concert/16288
+#EXTINF:-1 ,RetroPlex HD_1080P
+http://redcoliptv.com:8090/concert/concert/16294
+#EXTINF:-1 ,Starz Cinema East HD_1080P
+http://redcoliptv.com:8090/concert/concert/16295
+#EXTINF:-1 ,Starz Cinema HD_1080P
+http://redcoliptv.com:8090/concert/concert/16296
