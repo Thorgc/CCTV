@@ -133,12 +133,10 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 #EXTINF:-1,亚洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1,cc1
-https://kspullhls.cc.netease.com/pushstation/c444f843bf3cdca87fa216448911/index.m3u8?k=34e0fc2cb928d15f7bb24c4fb17d6805&t=1608464280
+
 #EXTINF:-1,cc2
 https://m3u8.cc.netease.com/pushstation/1bde454ce05234c8e8ea282597748/playlist.m3u8?wsSecret=aef6da723791939bd331e89ec0aa5583&wsTime=5fdf384d
-#EXTINF:-1,cc3
-https://kspullhls.cc.netease.com/pushstation/c63f26484b402354ed29238556864/index.m3u8?k=66819490adb47a45e9ec9fb10c56fa3a&t=1608464540
+
 #EXTINF:-1,cc4
 https://m3u8.cc.netease.com/pushstation/f5ed8066bebb54087b4832052570/playlist.m3u8?wsSecret=7980958b6c4c64e88537925767745012&wsTime=5fdf38c5
 #EXTINF:-1,CHC台
