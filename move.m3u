@@ -117,54 +117,10 @@ http://tx2play1.douyucdn.cn/live/263824rHHQJRPyGO.flv?uuid=
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1, 徐州2
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1, HY1
-https://tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8?wsSecret=bb039006882ef8ead006091f0d7d6e7b&wsTime=5fe06bdb&u=0&seqid=16084567958455314&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-#EXTINF:-1, HY2
-https://txdirect.hls.huya.com/huyalive/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsSecret=74374950ceebc47d4feb419639965192&wsTime=5fe06f0b&u=0&seqid=16084576113374044&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY3
-https://tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8?wsSecret=60a54888b3001c831a718b311923e901&wsTime=5fe07000&u=0&seqid=16084578807762166&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-#EXTINF:-1, HY4
-https://txdirect.hls.huya.com/huyalive/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1.m3u8?wsSecret=2f3af4081b50d8e4a7be92977801539b&wsTime=5fe0703e&u=0&seqid=16084579471576970&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY5
-https://txdirect.hls.huya.com/huyalive/1199556586264-1199556586264-5414711140317921280-2399113295984-10057-A-0-1.m3u8?wsSecret=9eca572fb5c89c1ef2b1aca7df1acd90&wsTime=5fe07170&u=0&seqid=16084582246846610&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY6
-https://txdirect.hls.huya.com/huyalive/1199556520236-1199556520236-5414427552217300992-2399113163928-10057-A-0-1.m3u8?wsSecret=11ba9056adbba7b444587373fcef749b&wsTime=5fe071a3&u=0&seqid=16084582756402060&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY7
-https://txdirect.hls.huya.com/src/1199556529730-1199556529730-5414468328636809216-2399113182916-10057-A-0-1.m3u8?wsSecret=b94ac59325c42e497df6fb2d4a91aa79&wsTime=5fe071dc&u=0&seqid=16084583362308788&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:-1, HY8
-https://txdirect.hls.huya.com/huyalive/1199556528729-1199556528729-5414464029374545920-2399113180914-10057-A-0-1.m3u8?wsSecret=0389172863b2f4e635d66ceeebcf89f2&wsTime=5fe07214&u=0&seqid=16084583894079216&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY
-https://txdirect.hls.huya.com/huyalive/1199556523173-1199556523173-5414440166536249344-2399113169802-10057-A-0-1.m3u8?wsSecret=77e7dfd30f7c035f7e49c442ce6f0ca6&wsTime=5fe07242&u=0&seqid=16084584393392602&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY10
-https://txdirect.hls.huya.com/huyalive/1199556515553-1199556515553-5414407438885453824-2399113154562-10057-A-0-1.m3u8?wsSecret=857ae8e5255139083f63c6a20b7cb840&wsTime=5fe0728e&u=0&seqid=16084585112433788&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1, HY11水浒传
-https://tx.hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1-imgplus.m3u8?wsSecret=10516edaf1c96922c95165f37a5a40ad&wsTime=5fe0747f&u=0&seqid=16084590346806894&ctype=tars_mobile&txyp=o%3Aq5%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-#EXTINF:-1, HY12
-https://txdirect.hls.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=e0ac7ac6e8feae9cbd3cfedc23b47608&wsTime=5fe074e5&u=0&seqid=16084591216027710&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-#EXTINF:-1, HY13
-https://txdirect.hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8?wsSecret=1321ff38feb2f4745ba525ce08413118&wsTime=5fe07582&u=0&seqid=16084592810743682&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-#EXTINF:-1, HY父母
-https://tx.hls.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1-imgplus.m3u8?wsSecret=caf578e92a9f94bae235a346960e68e0&wsTime=5fe075df&u=0&seqid=16084593731346312&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
 
-#EXTINF:-1, QQ1
-http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=312a50d377644697fed94e712fc17586&txTime=5fe41eaf
-#EXTINF:-1, QQ2
-http://3954-out.liveplay.myqcloud.com/live/3954_775895323.flv?bizid=3954&txSecret=01752edbee1be3b4d336a3f8a2adfe1c&txTime=5fe7ed42
-#EXTINF:-1, QQ3
-http://3954-out.liveplay.myqcloud.com/live/3954_490905763.flv?bizid=3954&txSecret=4ee71e2f054a23186f0e85980ba6aab6&txTime=5fe74831
-#EXTINF:-1, QQ4
-http://3954-out.liveplay.myqcloud.com/live/3954_612212440.flv?bizid=3954&txSecret=4ae34dfc7dc0eda3f4ac41199239a66c&txTime=5fe8217d
 #EXTINF:-1, QQ5庆余年
 http://3954-out.liveplay.myqcloud.com/live/3954_422349131.flv?bizid=3954&txSecret=53b7448784ae162d827c3ea4c880838a&txTime=5fe860c7
-#EXTINF:-1, QQ5庆余年
-#EXTINF:-1, QQ郭德纲
-http://3954-out.liveplay.myqcloud.com/live/3954_620346223.flv?bizid=3954&txSecret=b6148d3aacd23997df1937f03af4b75e&txTime=5fe274dd
-#EXTINF:-1, QQ杀人
-http://3954-out.liveplay.myqcloud.com/live/3954_56914220.flv?bizid=3954&txSecret=c305762a10a601d34eac0a273bd2aecf&txTime=5fe85d9e
-#EXTINF:-1, QQ
-http://3954-out.liveplay.myqcloud.com/live/3954_511553134.flv?bizid=3954&txSecret=4bf3b9fb744044b292986ca45aec98bd&txTime=5fe62e26
-#EXTINF:-1, QQ
-http://3954-out.liveplay.myqcloud.com/live/3954_246900691.flv?bizid=3954&txSecret=251d8b3f62af223e3d80d47c44bf816e&txTime=5fe85385
+
 #EXTINF:-1 ,爱科幻 
 http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,爱都市   
