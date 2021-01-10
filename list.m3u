@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CCTV-13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1,CCTV1 3M1080
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
@@ -21,8 +23,7 @@ http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1,CCTV12 3M1080
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1,CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+
 #EXTINF:-1,CCTV14 3M1080
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1,CCTV-15
@@ -96,8 +97,34 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1, 徐州2
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1,福州市
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1,福州影视台
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1,蛇口
+http://218.17.99.211:82/hls/d4encs75.m3u8
+#EXTINF:-1,武汉广播
+http://pili-live-hls.qnlive.appwuhan.com/jianwei/896.m3u8?auth_key=1550149076-1381559855-0-45ab235bdc6abcb4ab75c652ac521df5
+#EXTINF:-1,开州5
+http://kaixianlive.cbg.cn:10345/5.m3u8
+#EXTINF:-1,开州1
+http://kaixianlive.cbg.cn:10345/1.m3u8
+#EXTINF:-1,南京
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1,南京
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1,cctv3Hd
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1,cctv8Hd
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1,巴中
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+#EXTINF:-1,巴中
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
+#EXTINF:-1,德州
+http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
+#EXTINF:-1,德州
+http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u8
 
 #EXTINF:-1 ,爱科幻 
 http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
