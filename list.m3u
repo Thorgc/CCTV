@@ -1,6 +1,11 @@
 #EXTM3U
+#EXTINF:-1,凤凰咨询
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1,凤凰中文
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+
 #EXTINF:-1,CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000021303/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000021303&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=3273921598798632361&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYcNR7FrxxUYcNCwQj%2FHgjTAl0tZSq9JRYFdaZLZDXf3p4TQFppinTirjlEjk%2B6glA
 #EXTINF:-1,CCTV1 3M1080
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
