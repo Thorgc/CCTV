@@ -32,7 +32,7 @@ http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1,CCTV14 3M1080
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1,CCTV-15
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/index.m3u8?stbId=30d66b705fed893633c4e3874570fe36&channel-id=ystenlive&Contentid=1000000002000008163&authCode=3a&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1982411598790440050&AuthInfo=9BbvnTcinSnzhpkDT7MnsplxGzouQrfotyPehBLWsqNZ8dvE280%2FJtQtAtv4LrPN1oQ%2BfelSbFN5HlZ2TzK%2FUGOmeDeULKl8hUmAMXRIPt4xXJ4WaBVvjXNEgdH1Vftu#http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1,CCTV17 3M1080
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1,中国教育1 3M1080
