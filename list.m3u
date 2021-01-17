@@ -96,10 +96,7 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1,湖南金鹰纪实 3M1080
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 
-#EXTINF:-1,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1,福州市
@@ -114,21 +111,18 @@ http://pili-live-hls.qnlive.appwuhan.com/jianwei/896.m3u8?auth_key=1550149076-13
 http://kaixianlive.cbg.cn:10345/5.m3u8
 #EXTINF:-1,开州1
 http://kaixianlive.cbg.cn:10345/1.m3u8
-#EXTINF:-1,南京
+#EXTINF:-1,南京1
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1,南京
+#EXTINF:-1,南京2
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1,cctv3Hd
-http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1,cctv8Hd
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1,巴中
+
+#EXTINF:-1,巴中1
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
-#EXTINF:-1,巴中
+#EXTINF:-1,巴中2
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1,德州
+#EXTINF:-1,德州1
 http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
-#EXTINF:-1,德州
+#EXTINF:-1,德州2
 http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u8
 #EXTINF:-1,南安卫视
 http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
@@ -168,7 +162,7 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8230197
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5841816227539527643/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B93B82&Contentid=5841816227539527643&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5841816227539527643&owchid=wasusyt&owsid=1431411579532174401&AuthInfo=2TOfGIahP4HrGWrHbpJXVB3TJIR2vriLvDYSdNB63hPyA9qk2%2BTKLoJATlqPnb0MXm7l%2FiHeo2whk7VLomWH7w5GNiHxzOX6JECr7x0TLTmTY895HMYgWz4jiaElB1nN
 #EXTINF:-1,科幻747764  女神经
 http://tx2play1.douyucdn.cn/live/747764rxptwwPq6C.flv
-#EXTINF:-1,20415
+#EXTINF:-1,科幻20415
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
 #EXTINF:-1,斗鱼电影015
 http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
@@ -176,8 +170,7 @@ http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10037&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=Q894B3E8EEZ3T19UG09L8B03GSWB&amp;ts=1553493266
 #EXTINF:-1,亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
-#EXTINF:-1,日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
 #EXTINF:-1,峨眉电影HD
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1,周口影视
@@ -198,40 +191,31 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1,彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-
 #EXTINF:-1,包头新闻综合
 http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 #EXTINF:-1,包头生活服务
 http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
 #EXTINF:-1,包头经济频道
 http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
-#EXTINF:-1,南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1,厦视综合
-http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
-#EXTINF:-1,厦门海峡
-http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
-#EXTINF:-1,厦门生活
-http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
-#EXTINF:-1,德州新闻
-http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1,恩施公共频道
-http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
-#EXTINF:-1,恩施新闻综合
-http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
 #EXTINF:-1,黄冈公共频道
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-
-
-#EXTINF:-1 ,CCTV-15蓝光
-http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
-
-#EXTINF:-1,墨西哥卫视蓝光
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1,亚洲旅游
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-
+#EXTINF:-1 ,惊悚悬疑
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=7151256057701199617&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=2853061585038180639&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahPo3spJuUYQFgRSF8TgYbATeYOsqWhzjyXH5FYFrwzKYnW4IRibo%2FzJ%2BL5GHn8gxsDX76W81vvAbg91KQ0mUwVP
+#EXTINF:-1 ,家庭剧场
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6316377948248689070/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=6316377948248689070&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=8626661598873302033&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahMqmNXlpjmFkVlrPgiaCZfZzL2uGFJgNPqUq6yQahN4okr0M5%2Bjp%2F1olkK2D3bNNyXzuqICUUSjfqL4cJuLxG65
+#EXTINF:-1 ,动作电影
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8103864434730665389&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=5925201598874339740&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahMC10emoTaFToe5V3piR4f0DcbvnSA8eSghEjkuaH6nNfMxc0004akLMRpv%2F9wZD1vgrsf8M%2BszkbpV2iMmGCC%2B
+#EXTINF:-1 ,爱情喜剧
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8393829412396288037&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=8510191598873583527&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahMfB87LsCji8vzkL%2FBzVMkwidyjvSEBaaby%2B%2FgPNKDllx3FF0L2oJEZ8P4dPo%2BGySYzVBdG5L4gJZAque4EEW6u
+#EXTINF:-1 ,海外剧场
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=7681593242002292003&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=9018691598873681628&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahPkMQSrm%2B7%2B7r9TyLQlPsCB9L1%2BQgE6M9qiEbWTvgvqvp8fA1uQC8HtIkaEW6rLuhDgUkftOG0nDqD6iYHcQh6R
+#EXTINF:-1 ,超级电影
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000012884/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000012884&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000012884&owchid=ystenlive&owsid=7496211598799133252&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYnntn19ZkQN%2FFAYGXhn2RPaA%2BOoMCzBQRg2wp7H%2F6426dBTfXSkW%2FM%2Bc65p1AkKXp
+#EXTINF:-1 ,超级体育
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000009204/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000009204&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000009204&owchid=ystenlive&owsid=1637161598799193102&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYnorkrEjECKq08tNPou6fVTJiAOl6GmwA5I4SV787A7LijDyhzVxKyAadaGwM7%2FQV
+#EXTINF:-1 ,超级综艺
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000025771/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000025771&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000025771&owchid=ystenlive&owsid=1046251598799331571&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYo6uEYr3hit1eIz7fqnjUQg%2FjXeQ01VYtIzgmg5t%2B0xURS%2B8KMtX1wW6GyRu3j%2F%2BR
+#EXTINF:-1 ,超级电视剧
+http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000004000024993/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000004000024993&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000004000024993&owchid=ystenlive&owsid=4603131598799531521&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYoEtpn3gbAHYwHNcIMa62emtQPZWuJJ7WgZWppBjWy7JJfu20YEDuJXENH0kq7r1C
