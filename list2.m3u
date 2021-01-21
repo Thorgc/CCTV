@@ -17,36 +17,7 @@ http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
 http://stream.lyxltv.com/xltv/sd/live.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",福建·尤溪综合
 http://38269.hlsplay.aodianyun.com/tv_radio_38269/tv_channel_765.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆汉语综艺
-http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆汉语生活
-http://livehyw5.chinamcache.com/hyw/zb07.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆汉语法治
-http://livehyw5.chinamcache.com/hyw/zb11.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆汉语体育
-http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆维语综合
-http://livehyw5.chinamcache.com/hyw/zb02.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆维语综艺
-http://livehyw5.chinamcache.com/hyw/zb05.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆维语经济
-http://livehyw5.chinamcache.com/hyw/zb09.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆哈语综合
-http://livehyw5.chinamcache.com/hyw/zb03.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",新疆少儿频道
-http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",CNC新华中文
-http://livecdn1.news.cn/cnccn/manifest.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",北京影视
-http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",北京文艺
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",北京新闻
-http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",北京科教
-http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",卡酷少儿
-http://ivi.bupt.edu.cn/hls/btv10hd.m3u8
+
 #EXTINF:-1 group-title="○地方○,#genre#",浙江·柯桥综合
 http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",浙江·柯桥时尚
@@ -89,26 +60,12 @@ http://livehuiz.chinamcache.com/live/zb02.m3u8
 http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",广东·开平生活
 http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1435.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖南·湖南电视剧
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTQwYjA5ZDgyZTE4Y2VkZDI4ZDcxYjg4NWU0ZmY5NGFkJmVzPTE2MDk1MjIzNTkmdXVpZD1jYmIzOGRiOTUxZTJhY2EzYmU3MzkyYmE5N2FmYjJmOC02NzQ3NDY0YyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSJMPP360.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖南·娄底综合
-http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+
 #EXTINF:-1 group-title="○地方○,#genre#",湖南·湘西综合
 http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",湖南·湘西公共
 http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1381.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",重庆影视
-http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",重庆公共
-http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",重庆娱乐
-http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",重庆都市
-http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",重庆时尚
-http://219.153.252.50/PLTV/88888888/224/3221225627/chunklist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",重庆生活
-http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
+
 #EXTINF:-1 group-title="○地方○,#genre#",四川影视台
 http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv5/1.m3u8#http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",四川新闻台
@@ -125,10 +82,7 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8#http://219.145.171.78/scgctvshow.s
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",四川·遂宁公共
 http://snlive.scsntv.com:8091/live/gggy.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",四川·巴中综合
-http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
-#EXTINF:-1 group-title="○地方○,#genre#",四川·巴中公共
-https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+
 #EXTINF:-1 group-title="○地方○,#genre#",四川·达州综合
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",四川·达州公共
@@ -141,38 +95,12 @@ http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
 http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",四川·资阳综合
 http://live.sczytv.com/zynews/news/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",云南都市
-http://39.130.215.166:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8?
-#EXTINF:-1 group-title="○地方○,#genre#",云南影视
-http://39.130.215.166:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8?
-#EXTINF:-1 group-title="○地方○,#genre#",云南娱乐
-http://39.130.215.166:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8?
-#EXTINF:-1 group-title="○地方○,#genre#",云南公共
-http://39.130.215.166:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?
-#EXTINF:-1 group-title="○地方○,#genre#",云南少儿
-http://39.130.206.132:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",云南·文山综合
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="○地方○,#genre#",云南·文山公共
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
-#EXTINF:-1 group-title="○地方○,#genre#",云南·怒江电视
-http://39.130.215.166:6410/gitv_live/G_NUJIANGTV/G_NUJIANGTV.m3u8?
+
 #EXTINF:-1 group-title="○地方○,#genre#",云南·西双版纳一
 http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",云南·西双版纳二
 http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖北·襄阳综合
-http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖北·襄阳公共
-http://xiangyang.live.cjyun.org/video/s10125-education_hd.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖北·鄂州综合
-http://ezhou.live.cjyun.org/video/s10098-EZ2T/index.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖北·鄂州公共
-http://ezhou.live.cjyun.org/video/s10098-EZ1T/index.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖北·随州综合
-http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",湖北·随州农村
-http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
+
 #EXTINF:-1 group-title="○地方○,#genre#",湖北·黄冈综合
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",湖北·黄冈公共
@@ -185,152 +113,13 @@ http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
 #EXTINF:-1 group-title="○地方○,#genre#",江苏·靖江综合台
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽影视
-http://zbbf2.ahtv.cn/live/756.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽生活
-http://zbbf2.ahtv.cn/live/750.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽科教
-http://zbbf2.ahtv.cn/live/754.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽·六安综合
-http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽·六安公共
-http://live.china-latv.com/channel2/sd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽·淮北综合
-http://live.0561rtv.cn/xwzh/hd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽·淮北公共
-http://live.0561rtv.cn/ggpd/hd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽·铜陵综合
-http://dstpush1.retalltech.com/app/stream1.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",安徽·铜陵公共
-http://dstpush1.retalltech.com/app/stream2.m3u8
+
 #EXTINF:-1 group-title="○地方○,#genre#",安徽·东至综合
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",陕西·西安新闻台
-http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",陕西·西安白鸽台
-http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",陕西·西安影视台
-http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",陕西·西安丝路台
-http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",山东·德州综合
-http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",山东·德州公共
-http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
-#EXTINF:-1 group-title="○地方○,#genre#",山东·威海综合
-http://l3.weihai.tv:8081/hls/test.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",日本新闻
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",泰国·公共三台
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·HallyPOP
-https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",泰国·CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·TBS
-http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8#http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·SBS KNN
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w762151441.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·SBS TJB
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·SBS CJB
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·KBC SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·SBS综合频道
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·MBC综合频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·NBS农业广播
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·EBS第一频道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·EBS第二频道
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·EBS加一频道
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·EBS加二频道
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·EBS_E频道
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·日常电视
-http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",韩国·国防电视
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",迪拜卫视
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="○亚洲○,#genre#",迪拜赛马
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",英国·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",美国·狗狗宠物
-http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",美国·赛马频道
-http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",美国·切达电视
-http://live.chdrstatic.com/cbn/primary/3.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",美国·彭博财经
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",法国新闻
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",俄罗斯·红星电视
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",俄罗斯·第一频道
-https://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",加拿大·CME财经一号
-http://69.57.222.151:8082/45/stream.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",加拿大·多伦多16频道
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",美国·CNN(墙)
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="○欧美○,#genre#",官方反馈QQ群：
-http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
-#EXTINF:-1 group-title="○欧美○,#genre#",①群233575667
-http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
-#EXTINF:-1 group-title="○欧美○,#genre#",②群460178919
-http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱喜剧
-http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱美食
-http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱院线
-http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱江湖
-http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱历史
-http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱悬疑
-http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 group-title="○影院○,#genre#",直播·爱浪漫
-http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="○影院○,#genre#",八佰(720p)
-http://i7q.cn/69ruj6
-#EXTINF:-1 group-title="○影院○,#genre#",大圣(720p)
-http://i7q.cn/61Vhg1
-#EXTINF:-1 group-title="○影院○,#genre#",女巫(720p)
-http://i7q.cn/5EGDIF
-#EXTINF:-1 group-title="○影院○,#genre#",三傻大闹加油站(720p)
-https://tp-tt.99zhuangyuan.com/rhe951l4qm1/1539/XMzc1OTkwNzM2NA/XMzc1OTkwNzM2NA_1_fd4f41aed52a49bfa3e4df0c826d9b8e.mp4/index.m3u8
+
 #EXTINF:-1 group-title="○影院○,#genre#",醉拳2(720p)
 http://cloud.qdetyy.com/dianying/93802/zuiquan2guoyu/zuiquan2guoyu_720.m3u8
-#EXTINF:-1 group-title="○影院○,#genre#",急先锋(720p)
-http://i7q.cn/5UGznK
-#EXTINF:-1 group-title="○影院○,#genre#",暴疯语(720p)
-http://cloud.qdetyy.com/dianying/69859/baofengyuE01/baofengyuE01_720.m3u8
-#EXTINF:-1 group-title="○影院○,#genre#",驴得水(720p)
-http://i7q.cn/6h3s2R
+
 #EXTINF:-1 group-title="○影院○,#genre#",鲨鱼季节(720p)
 http://uw.qdetyy.com/m3u8/20200820/dianying/dy_fhqp5jpn/dy_fhqp5jpn_1.mp4/index.m3u8
 #EXTINF:-1 group-title="○影院○,#genre#",末日逃生(720p)
@@ -343,10 +132,7 @@ http://mrw.so/5FftRH
 http://uw.qdetyy.com/m3u8/20200820/dianying/dy_r67xmjd2/dy_r67xmjd2_1.mp4/index.m3u8
 #EXTINF:-1 group-title="○影院○,#genre#",无间行者之生死潜行(720p)
 http://mrw.so/6gCx0x
-#EXTINF:-1 group-title="○影院○,#genre#",花木兰(720p)
-http://i7q.cn/5EGGEr
-#EXTINF:-1 group-title="○影院○,#genre#",爱与怪物(720p)
-http://i7q.cn/5MSU6L
+
 #EXTINF:-1 group-title="○影院○,#genre#",死亡之雪(720p)
 http://cloud.qdetyy.com/dianying/166930/siwangzhixue/siwangzhixue_720.m3u8
 #EXTINF:-1 group-title="○影院○,#genre#",双重约会(720p)
@@ -387,130 +173,7 @@ http://i7q.cn/5MZ7f9
 http://cloud.qdetyy.com/dianying/92574/shaolinsishibaluohanE01/shaolinsishibaluohanE01_720.m3u8
 #EXTINF:-1 group-title="○影院○,#genre#",长白山天池水怪(720p)
 http://mrw.so/5UGwu4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",小娟 - 爱的路上千万里DJ
-http://f4.mc.0sm.com/2020/05/85EBA01722FE4288-39b2d1a796a22934.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",陈瑞 - 念旧的人最容易掉眼泪DJ
-http://f4.mc.0sm.com/2020/05/85EBA0CEE81B31A4-1baa4d268cff43e8.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",东方晴儿 - 再见吧我最爱的你DJ
-http://f4.mc.0sm.com/2020/05/85EBA23598969885-22d535bf9bec4087.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",东方晴儿 - 格局DJ
-http://f4.mc.0sm.com/2020/05/85EBA0998A344C5B-852f67f6218a40ff.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",欧阳尚尚 - 爱情主演DJ
-http://f4.mc.0sm.com/2020/05/85EBA1D2694D27D2-08345a8e2fc275dd.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",杨小曼 - 他弟弟打的洞DJ
-http://f4.mc.0sm.com/2020/05/85EBA2144EAD19A2-e330e029347bfe0c.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",黄嘉雯 - 伤心的人醉茫茫DJ
-http://f4.mc.0sm.com/2020/05/85EBA26D8A7E9047-d53e38bb95be75a1.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",黄嘉雯 - 你会遇见更好的人DJ
-http://f4.mc.0sm.com/2020/05/85EB8D69C438AE0F-bc932c1153a886a9.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",杨梓 - 被情伤过的女人
-http://f4.mc.0sm.com/2020/05/85EBD5C15C2E8083-9f77103a9b57d61e.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",黄嘉雯 - 情歌里的你DJ
-http://f4.mc.0sm.com/2020/05/85EBA1E37AFF8F91-c04dd24eaf333f05.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",于文文 - 体面DJ
-http://f4.mc.0sm.com/2020/05/85EBD4284B55C9CC-974cf22ed602cd43.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",周诗雅 - 爱的热浪DJ
-http://f4.mc.0sm.com/2020/05/85EBA09F986F450F-8caf1d920e826a9f.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",黄嘉雯 - 爱很简单
-http://f4.mc.0sm.com/2020/05/85EBD5FB31CAC655-3316c3b8c0b36da4.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",天翔 - 一晃就老了DJ
-http://f4.mc.0sm.com/2020/05/85EBA1FEF03FABB2-9d7e1d6258b74e8d.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",唐古 - 我又想你了DJ
-http://f4.mc.0sm.com/2020/05/85EBA229423174B4-65fc6846726f1d55.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",唐古 - 突然好想念DJ
-http://f4.mc.0sm.com/2020/05/85EBBC1F51EBED16-2db54257225272bb.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",杭娇 - 忘了我的爱DJ
-http://f4.mc.0sm.com/2020/05/85EBA63CF241A6B9-7d50125163c67596.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",大壮 - 差一步
-http://f4.mc.0sm.com/2020/05/85EBD5D718C11A66-5ebd2af607deac54.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",安琪 - 曾经被爱DJ
-http://f4.mc.0sm.com/2020/05/85EBA02D34C99655-c58cd0a4db990344.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",寂悸 - 潮湿的心DJ
-http://f4.mc.0sm.com/2020/05/85EBD3451C7CE232-9737c83a31307feb.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",天蠍丹 - 你的世界到底有了谁DJ
-http://f4.mc.0sm.com/2020/05/85EBA03E59B834B6-fc9669bf53618b70.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",苏谭谭 - 爱过了也伤过了
-http://f4.mc.0sm.com/2020/05/85EBD603BB70D122-e001718a30ed9e0b.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",黄嘉雯 - 凡人歌
-http://f4.mc.0sm.com/2020/05/85EBD5B015E4A0DC-37aaa783ff55b4b2.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",孙耀威 - 爱的故事上集DJ
-http://f4.mc.0sm.com/2020/05/85EBD421D9E30F19-2a389e8b2d84aa5a.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",孙艺琪 - 苍天不负有情人DJ
-http://f4.mc.0sm.com/2020/05/85EBBC18A4572172-ad31a37506ffcdd8.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",孙艺琪 - 酒醉的蝴蝶DJ
-http://f4.mc.0sm.com/2020/05/85EBA1EFB04749C5-8ec37c2fc8b43482.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",崔伟立VS孙艺琪 - 情火DJ
-http://f4.mc.0sm.com/2020/05/85EBD35E3398044F-5adcd15e073da509.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",崔伟立 - 你是我永远的痛DJ
-http://f4.mc.0sm.com/2020/05/85EBA1C6BCA45177-1cc518ece18519b6.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",杭娇 - 忘了我的爱
-http://f4.mc.0sm.com/2020/05/85EBD5E3A39D7C94-51775db9243562f8.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",杭娇 - 离别两依依
-http://f4.mc.0sm.com/2020/05/85EBD5EADF24437A-605be537b8070bed.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",张文绮 - 三分钟热度DJ
-http://f4.mc.0sm.com/2020/05/85EBD42F90F37AB6-8ee96ae1e65d096c.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",李文静 - 别说你已不在乎DJ
-http://f4.mc.0sm.com/2020/05/85EBA23E35EC296B-3ab156ad91388302.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",杨妹儿 - 孤单为伴DJ
-http://f4.mc.0sm.com/2020/05/85EBD244F65463AA-b24f3805fde1bef8.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",白小白 - 我们终究是错过
-http://f4.mc.0sm.com/2020/05/85EBD5A8B1F31283-ae93883110d317c4.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",彭丽嘉 - 爱着你宠着你DJ
-http://f4.mc.0sm.com/2020/05/85EBBC2B7DB6E9AF-1828a99c14f9645a.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",徐倩 - 今夜我一个人醉DJ
-http://f4.mc.0sm.com/2020/05/85EBA2479521B139-279ea1a1b5ae6b72.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",暴林 - 殇雪DJ
-http://f4.mc.0sm.com/2020/05/85EBBC11E2AC64C9-cffa4d466a597734.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",浪哥 - 下辈子也要找到你DJ
-http://f4.mc.0sm.com/2020/05/85EBA644C4A93437-5d4bc11d534316d1.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",湖北清 - 受伤的刺猬DJ
-http://f4.mc.0sm.com/2020/05/85EBA03300421935-ea63536032e88d3a.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",王奕心 - 我的唇吻不到我爱的人DJ
-http://f4.mc.0sm.com/2020/05/85EBBC248761C1C9-9b1c585be707a47a.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",王思佳 - 哦哦哦DJ
-http://f4.mc.0sm.com/2020/05/85EBD36C3E6C7F2B-6c69e0a546b28bea.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",唐古 - 说给男人听
-http://f4.mc.0sm.com/2020/05/85EBD5B8F873CAB0-054f332037f9eb84.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",程响 - 新娘不是我DJ
-http://f4.mc.0sm.com/2020/05/85EBA0B78F4EBDC2-ecd94d30b2029abb.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",粤语 - 因为爱你DJ
-http://f4.mc.0sm.com/2020/05/85EBD4372D09397A-32cf485c3acee58d.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",花姐 - 夜之光DJ
-http://f4.mc.0sm.com/2020/05/85EBA0E7254A4A44-06d2d2548afc346c.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",花姐 - 狂浪DJ一版
-http://f4.mc.0sm.com/2020/05/85EBD26F12805DAC-90a7132ed2a5fece.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",花姐 - 狂狼DJ二版
-http://f4.mc.0sm.com/2020/05/85EBA2825E4F0877-d6eb41d6794dab14.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",菲儿 - 嗒嘀嗒DJ
-http://f4.mc.0sm.com/2020/05/85EBA0687F92E79D-3f32ac92644c9184.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",菲儿 - 自由飞翔DJ
-http://f4.mc.0sm.com/2020/05/85EBA1A0393FAD9D-60c96d80836b6159.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",郭玲 - 拥抱你离去DJ
-http://f4.mc.0sm.com/2020/05/85EBA1D93D5C194C-c39d2ce38ca8061a.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",郭玲 - 痴情的只有我一个DJ
-http://f4.mc.0sm.com/2020/05/85EBA087C4724205-dc9cf9bd845315f8.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",郭玲 - 踢了他DJ
-http://f4.mc.0sm.com/2020/05/85EBA047A301752D-3a921b26ba921652.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",蓝琪儿 - 不浪漫的罪DJ
-http://f4.mc.0sm.com/2020/05/85EBA07CBEC266FD-d4c4ce2a7d23da18.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",蓝琪儿 - 寂寞爱上了眼泪DJ
-http://f4.mc.0sm.com/2020/05/85EBA27641DCC985-6a2c784d8abf3aa3.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",越南语 - 失恋阵线联盟DJ
-http://f4.mc.0sm.com/2020/05/85EBD25AD52E657D-646e75270ab801bd.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",郑伊涵 - 公虾米DJ
-http://f4.mc.0sm.com/2020/05/85EBD350A05904D6-76fa52fb9eaf4eae.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",郑茜匀 - 爱一回伤一回DJ
-http://f4.mc.0sm.com/2020/05/85EBA05110B32564-430819c567c76b46.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",徐誉滕 - 等一分钟
-http://f4.mc.0sm.com/2020/05/85EBD5CEF75BBF49-3b51b7a917302136.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",王程明 - 今生最爱
-http://f4.mc.0sm.com/2020/05/85EBD5C8F84AFF31-682358d6a86bd657.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",魏新雨 - 为你祈祷DJ
-http://f4.mc.0sm.com/2020/05/85EBD43D4484F3AC-8e9a6a5e0f48e8bf.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",龚玥菲 - 夜上海DJ
-http://f4.mc.0sm.com/2020/05/85EBA637DF3FF127-b03e2f1e2cce21c8.mp4
-#EXTINF:-1 group-title="◎嗨歌◎_181,#genre#",六哲 - 谁会记得
-http://f4.mc.0sm.com/2020/05/85EBD5F2800A6F60-4e2ebe77256aa75e.mp4
+
 #EXTINF:-1 group-title="◎电影◎_181,#genre#",醉拳(1080p)
 http://i7q.cn/6vlJD5
 #EXTINF:-1 group-title="◎电影◎_181,#genre#",速度与激情7(1080p)
