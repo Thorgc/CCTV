@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1,凤凰资讯HD
-http://219.147.162.117:65530/live/fhzx/index.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+http://219.147.162.117:65530/live/fhzx/index.m3u8
+#EXTINF:-1,凤凰资讯HD
+#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1,凤凰中文HD
-http://219.147.162.117:65530/live/fhzw/index.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+http://219.147.162.117:65530/live/fhzw/index.m3u8
+#EXTINF:-1,凤凰中文HD
+#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 
 
 
@@ -31,14 +35,14 @@ http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 
 #EXTINF:-1,CCTV14 3M1080
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1,CCTV-15
-http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/index.m3u8?stbId=30d66b705fed893633c4e3874570fe36&channel-id=ystenlive&Contentid=1000000002000008163&authCode=3a&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1982411598790440050&AuthInfo=9BbvnTcinSnzhpkDT7MnsplxGzouQrfotyPehBLWsqNZ8dvE280%2FJtQtAtv4LrPN1oQ%2BfelSbFN5HlZ2TzK%2FUGOmeDeULKl8hUmAMXRIPt4xXJ4WaBVvjXNEgdH1Vftu#http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+
 #EXTINF:-1,CCTV17 3M1080
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1,中国教育1 3M1080
 http://ivi.bupt.edu.cn/hls/cetv1.m3u8
-#EXTINF:-1,厦门卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+
+#EXTINF:-1,CHC台
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,东南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1,东方卫视 3M1080
@@ -140,28 +144,8 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 
 
-#EXTINF:-1,CHC台
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,东方影视蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B1F2&version=1.0&owaccmark=5000000010000032212&owchid=bestzb&owsid=2093431579530013084&AuthInfo=2TOfGIahP4HrGWrHbpJXVC70y2PVjmhUubUspsIcpqbPt3njBIzWc%2Fam35vTsnvWPWGkzpZH3A16MnnNHKq3GxKdDnIii87ggbdt%2FwooaevY4cuAtO0vMGGwXuHO%2Biok
-#EXTINF:-1,纪实人文蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
-#EXTINF:-1,上海外语蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&authCode=3a&stbId=005303FF0002189018212C1875540E0E&version=1.0&owaccmark=5000000010000030951&owchid=bestzb&owsid=5275181579530295306&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B%2FwyUq8npJ58oVaJUzBhF9PPt3njBIzWc%2Fam35vTsnvW6JhDYuiodydLTeMKHTm0L2zYfQnHdO1Iw0VU34c0CqRBZ788c%2Fr%2FVjoxJ5D0QVcG
-#EXTINF:-1,第一财经蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
-#EXTINF:-1,生活时尚蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8538616372715313491/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=005301FF001589101611549359B95001&version=1.0&owaccmark=8538616372715313491&owchid=bestzb&owsid=9384351579529030195&AuthInfo=2TOfGIahP4HrGWrHbpJXVMf9GKsKSOxo3z9oMCSFNzfvIfeh1IeRuYy1UKStuEqgLEq69vAaIVm8yJ1Bv9Ubfc12nlc%2FSga%2FjQ8%2F3mwUrQxWfqFwePA0JQWqj9IZCH10
-#EXTINF:-1,上海都市蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=005301FF001589101611549359B94488&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=3529791579529328057&AuthInfo=2TOfGIahP4HrGWrHbpJXVG%2BEERpEQIU%2FdtpJfuYgRAZD6434P427oxBuLbFRCJn4JFqerLYeYbaWyhUzdTsyRsJkPPbC14Prjj67uIG3APHUBp7pkUo1m6jlajTP1QwT
-#EXTINF:-1,风尚音乐蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5529729098703832176/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B92801&Contentid=5529729098703832176&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5529729098703832176&owchid=wasusyt&owsid=3246571579530794909&AuthInfo=2TOfGIahP4HrGWrHbpJXVM8tIjUabzvkQw3IFgi64wePjBmkxCliyfsNixolB3vk0fJDbsUHwM4ZMkLD2%2FuFtJVT%2FBKMSil0ujuXkiQNzBbZ5U6pNSIVxD4YjUWtTd0X
-#EXTINF:-1,精品剧场蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8230197131234717902/z.m3u8?authCode=07110409322147352675&stbId=005303FF000218901813C88F26C4CD9A&Contentid=8230197131234717902&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=8230197131234717902&owchid=wasusyt&owsid=7188071579532237669&AuthInfo=%2FcylGCbqLdFJuk2wbal8%2B0%2FXYYDGLpWdBEstTIR1PqI%2FOctjqHm7uarF9hdI%2FegylabK%2B2Kjwr6YmfYB%2B0U4%2FVMlD9%2BUH6H5BTAiFyR%2BGJWsoX2Ruwovu0ZMFHxX6702
-#EXTINF:-1,亚洲影院蓝光
-http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5841816227539527643/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B93B82&Contentid=5841816227539527643&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5841816227539527643&owchid=wasusyt&owsid=1431411579532174401&AuthInfo=2TOfGIahP4HrGWrHbpJXVB3TJIR2vriLvDYSdNB63hPyA9qk2%2BTKLoJATlqPnb0MXm7l%2FiHeo2whk7VLomWH7w5GNiHxzOX6JECr7x0TLTmTY895HMYgWz4jiaElB1nN
 #EXTINF:-1,科幻747764  女神经
-http://tx2play1.douyucdn.cn/live/747764rxptwwPq6C.flv
+http://tx2play1.douyucdn.cn/live/747764rpqnJBlpMR.flv?uuid=
 #EXTINF:-1,科幻20415
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
 #EXTINF:-1,斗鱼电影015
@@ -202,7 +186,6 @@ http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 
-https://raw.githubusercontent.com/Thorgc/CCTV/master/list3.m3u
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,海峡卫视
@@ -358,6 +341,21 @@ http://dstpush1.retalltech.com/app/stream1.m3u8
 http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1,安徽·东至综合
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+
+#EXTINF:-1,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1,上海教育
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1,上海综合
+http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1,上海影视
+http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://183.207.255.190/live/program/live/dsjpdhd/2300000/mnf.m3u8
+#EXTINF:-1,上海纪实
+http://183.207.255.190/live/program/live/jspdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1,上海外语
+http://140.207.241.2:8080/live/program/live/wypdhd/2300000/mnf.m3u8#http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
+#EXTINF:-1,上海都市
+http://183.207.255.190/live/program/live/ylpdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/ylpdhd/2300000/mnf.m3u8
 
 #EXTINF:-1,醉拳2(720p)
 http://cloud.qdetyy.com/dianying/93802/zuiquan2guoyu/zuiquan2guoyu_720.m3u8
