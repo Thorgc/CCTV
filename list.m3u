@@ -322,12 +322,7 @@ http://live.sczytv.com/zynews/news/live.m3u8
 http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
 #EXTINF:-1,江苏·靖江综合台
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1,安徽影视
-http://zbbf2.ahtv.cn/live/756.m3u8
-#EXTINF:-1,安徽生活
-http://zbbf2.ahtv.cn/live/750.m3u8
-#EXTINF:-1,安徽科教
-http://zbbf2.ahtv.cn/live/754.m3u8
+
 #EXTINF:-1,安徽·六安综合
 http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1,安徽·六安公共
@@ -343,20 +338,19 @@ http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1,安徽·东至综合
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 
-#EXTINF:-1,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
+
 #EXTINF:-1,上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,上海综合
-http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,上海影视
-http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://183.207.255.190/live/program/live/dsjpdhd/2300000/mnf.m3u8
+http://183.207.255.190/live/program/live/dsjpdhd/2300000/mnf.m3u8
 #EXTINF:-1,上海纪实
-http://183.207.255.190/live/program/live/jspdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1,上海外语
-http://140.207.241.2:8080/live/program/live/wypdhd/2300000/mnf.m3u8#http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
+http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
 #EXTINF:-1,上海都市
-http://183.207.255.190/live/program/live/ylpdhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/ylpdhd/2300000/mnf.m3u8
+http://183.207.255.190/live/program/live/ylpdhd/2300000/mnf.m3u8
 
 #EXTINF:-1,醉拳2(720p)
 http://cloud.qdetyy.com/dianying/93802/zuiquan2guoyu/zuiquan2guoyu_720.m3u8
@@ -367,8 +361,7 @@ http://uw.qdetyy.com/m3u8/20200820/dianying/dy_fhqp5jpn/dy_fhqp5jpn_1.mp4/index.
 #EXTINF:-1,大圣重生(720p)
 http://uw.qdetyy.com/m3u8/20200820/dianying/dy_r67xmjd2/dy_r67xmjd2_1.mp4/index.m3u8
 
-#EXTINF:-1,花木兰(720p)
-http://ws7.egbgedu.com/20200914/花木兰/1500kb/hls/index.m3u8
+
 #EXTINF:-1,死亡之雪(720p)
 http://cloud.qdetyy.com/dianying/166930/siwangzhixue/siwangzhixue_720.m3u8
 #EXTINF:-1,TVB·新闻台
