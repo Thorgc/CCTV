@@ -9,8 +9,7 @@ http://219.147.162.117:65530/live/fhzw/index.m3u8
 #http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1,CCTV13, 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,CCTV13, 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
+
 #EXTINF:-1,CCTV13, 新闻
 http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1,CCTV15 音乐
@@ -115,8 +114,7 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1,福州影视台
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1,蛇口
-http://218.17.99.211:82/hls/d4encs75.m3u8
+
 #EXTINF:-1,武汉广播
 http://pili-live-hls.qnlive.appwuhan.com/jianwei/896.m3u8?auth_key=1550149076-1381559855-0-45ab235bdc6abcb4ab75c652ac521df5
 #EXTINF:-1,开州5
@@ -149,8 +147,7 @@ http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 ,爱院线   
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-#EXTINF:-1,科幻747764  女神经
-http://tx2play1.douyucdn.cn/live/747764rpqnJBlpMR.flv?uuid=
+
 #EXTINF:-1,科幻20415
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
 #EXTINF:-1,斗鱼电影015
@@ -227,8 +224,7 @@ http://38269.hlsplay.aodianyun.com/tv_radio_38269/tv_channel_765.m3u8
 http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1,浙江·柯桥时尚
 http://live.scbtv.cn/hls/qfc/index.m3u8
-#EXTINF:-1,浙江·浙江影视
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+
 #EXTINF:-1,浙江·浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 #EXTINF:-1,浙江·浙江教育
@@ -261,10 +257,7 @@ http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
 http://livehuiz.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1,广东·惠州二台
 http://livehuiz.chinamcache.com/live/zb02.m3u8
-#EXTINF:-1,广东·开平综合
-http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.m3u8
-#EXTINF:-1,广东·开平生活
-http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1435.m3u8
+
 
 #EXTINF:-1,湖南·娄底综合
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
@@ -272,20 +265,7 @@ http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
 #EXTINF:-1,湖南·湘西公共
 http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1381.m3u8
-#EXTINF:-1,重庆新闻
-http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
-#EXTINF:-1,重庆影视
-http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
-#EXTINF:-1,重庆公共
-http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
-#EXTINF:-1,重庆娱乐
-http://219.153.252.50/PLTV/88888888/224/3221225630/chunklist.m3u8
-#EXTINF:-1,重庆都市
-http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
-#EXTINF:-1,重庆时尚
-http://219.153.252.50/PLTV/88888888/224/3221225627/chunklist.m3u8
-#EXTINF:-1,重庆生活
-http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
+
 #EXTINF:-1,四川影视台
 http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv5/1.m3u8#http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 #EXTINF:-1,四川新闻台
@@ -343,17 +323,8 @@ http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,上海综合
 http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1,上海影视
-http://183.207.255.190/live/program/live/dsjpdhd/2300000/mnf.m3u8
-#EXTINF:-1,上海纪实
-#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1,上海外语
-http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
-#EXTINF:-1,上海都市
-http://183.207.255.190/live/program/live/ylpdhd/2300000/mnf.m3u8
 
-#EXTINF:-1,醉拳2(720p)
-http://cloud.qdetyy.com/dianying/93802/zuiquan2guoyu/zuiquan2guoyu_720.m3u8
+
 #EXTINF:-1,暴疯语(720p)
 http://cloud.qdetyy.com/dianying/69859/baofengyuE01/baofengyuE01_720.m3u8
 #EXTINF:-1,鲨鱼季节(720p)
@@ -364,9 +335,4 @@ http://uw.qdetyy.com/m3u8/20200820/dianying/dy_r67xmjd2/dy_r67xmjd2_1.mp4/index.
 
 #EXTINF:-1,死亡之雪(720p)
 http://cloud.qdetyy.com/dianying/166930/siwangzhixue/siwangzhixue_720.m3u8
-#EXTINF:-1,TVB·新闻台
-http://cdn.elibei.com/pull/index/pinyin/hkwxxw
-#EXTINF:-1,东森超视
-rtmp://59.124.75.156/sat/tv771
-#EXTINF:-1,东森财经新闻
-rtmp://59.124.75.157/sat/tv571
+
