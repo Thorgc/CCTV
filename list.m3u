@@ -9,7 +9,6 @@ http://219.147.162.117:65530/live/fhzw/index.m3u8
 #http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1,CCTV13, 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
 #EXTINF:-1,CCTV13, 新闻
 http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1,CCTV15 音乐
@@ -47,7 +46,8 @@ http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1,中国教育1 3M1080
 http://ivi.bupt.edu.cn/hls/cetv1.m3u8
-
+#EXTINF:-1,内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,CHC台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,东南卫视 3M1080
