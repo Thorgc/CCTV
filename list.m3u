@@ -1,24 +1,13 @@
 #EXTM3U
 #EXTINF:-1,凤凰资讯HD
-http://219.147.162.117:65530/live/fhzx/index.m3u8
-#EXTINF:-1,凤凰资讯HD
-#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+http://219.147.162.117:65530/live/fhzx/index.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 #EXTINF:-1,凤凰中文HD
-http://219.147.162.117:65530/live/fhzw/index.m3u8
-#EXTINF:-1,凤凰中文HD
-#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 ,凤凰中文 10M720
-http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-#EXTINF:-1 ,凤凰资讯 10M720
-http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+http://219.147.162.117:65530/live/fhzw/index.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+
 #EXTINF:-1,CCTV13, 新闻
-http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,CCTV13, 新闻
-http://117.169.120.140:8080/live/cctv-13/.m3u8
+http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1,CCTV15 音乐
-http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,CCTV15 音乐
-http://117.169.120.160:8080/live/cctv-15/1.m3u8
+http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.169.120.160:8080/live/cctv-15/1.m3u8
 
 #EXTINF:-1,CCTV1 3M1080
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
@@ -44,18 +33,17 @@ http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1,CCTV12 3M1080
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-
 #EXTINF:-1,CCTV14 3M1080
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-
 #EXTINF:-1,CCTV17 3M1080
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1,中国教育1 3M1080
 http://ivi.bupt.edu.cn/hls/cetv1.m3u8
-#EXTINF:-1,内蒙古卫视
-http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1,CHC台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+
 #EXTINF:-1,东南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1,东方卫视 3M1080
@@ -163,7 +151,14 @@ http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionI
 #EXTINF:-1,亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
 
-
+#EXTINF:-1 ,求索动物 8M1080
+http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索生活 8M1080
+http://117.148.187.105/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索科学 8M1080
+http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索纪录 8M1080
+http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1,求索科学
 http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1,求索一
