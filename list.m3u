@@ -18,7 +18,9 @@ http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.169.120.160:8080/live/cctv-15/1.m3u8
 
 #EXTINF:-1,CCTV1 3M1080
-http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
+#EXTINF:-1,CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1,CCTV3 3M1080
@@ -112,15 +114,18 @@ http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1,湖南金鹰纪实 3M1080
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
-
-
+#EXTINF:-1 ,都市剧场
+http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1,福州市
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1,福州影视台
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-
+#EXTINF:-1 ,高台电视[1920*1080]
+http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1,武汉广播
 http://pili-live-hls.qnlive.appwuhan.com/jianwei/896.m3u8?auth_key=1550149076-1381559855-0-45ab235bdc6abcb4ab75c652ac521df5
 #EXTINF:-1,开州5
@@ -237,25 +242,44 @@ http://38269.hlsplay.aodianyun.com/tv_radio_38269/tv_channel_765.m3u8
 http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1,浙江·柯桥时尚
 http://live.scbtv.cn/hls/qfc/index.m3u8
-
-#EXTINF:-1,浙江·浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-#EXTINF:-1,浙江·浙江教育
-http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1,浙江·浙江钱江
+#EXTINF:-1 ,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 ,绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 ,绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 ,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 ,浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
 #EXTINF:-1,浙江·浙江休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1,浙江·浙江经济
-http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1,浙江·浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1,浙江·杭州综合
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8#http://player.200877926.top/1786/zj/hangzhoum3u8.php?id=hztv1
-#EXTINF:-1,浙江·杭州明珠
-http://player.200877926.top/1786/zj/hangzhoum3u8.php?id=hztv2#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1,浙江·舟山旅游
-http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 ,浙江公共新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 ,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 ,南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京影视
+http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京教科
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 #EXTINF:-1,广东·番禺电视
 http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 #EXTINF:-1,广东·佛山综合
@@ -291,6 +315,11 @@ http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv3/1.m3u8#http://scgctvshow.
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1,四川·峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8#http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
+
+#EXTINF:-1 ,遂宁综合[1280*720]
+http://snlive.scsntv.com:8091/live/xwzh.m3u8
+#EXTINF:-1 ,遂宁公共[1280*720]
+http://snlive.scsntv.com:8091/live/gggy.m3u8
 #EXTINF:-1,四川·遂宁综合
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
 #EXTINF:-1,四川·遂宁公共
@@ -315,7 +344,12 @@ http://live.sczytv.com/zynews/news/live.m3u8
 http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
 #EXTINF:-1,江苏·靖江综合台
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-
+#EXTINF:-1 ,宁波影视频道
+http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1 ,宁波文化娱乐
+http://live1.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1 ,宁波新闻综合
+http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
 #EXTINF:-1,安徽·六安综合
 http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1,安徽·六安公共
@@ -330,14 +364,70 @@ http://dstpush1.retalltech.com/app/stream1.m3u8
 http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1,安徽·东至综合
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-
-
+#EXTINF:-1 ,萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 ,萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 ,新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 ,新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1,上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1,上海综合
 http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-
-
+#EXTINF:-1 ,云南都市频道
+http://39.130.215.166:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+#EXTINF:-1 ,云南娱乐频道
+http://39.130.215.166:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1 ,云南生活频道
+http://39.130.215.166:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+#EXTINF:-1 ,云南影视频道
+http://39.130.215.166:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1 ,云南公共频道
+http://39.130.215.166:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1 ,云南少儿频道
+http://39.130.215.166:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+#EXTINF:-1 ,云南国际频道
+http://39.130.215.166:6410/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8
+#EXTINF:-1 ,安徽小说评书广播
+http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
+#EXTINF:-1 ,广东综艺4K
+http://nclive.grtn.cn/4K/playlist.m3u8
+#EXTINF:-1 ,文山综合[1920*1080]
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 ,番禺综合[1920*1080]
+http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+#EXTINF:-1 ,珠江卫视
+http://nclive.grtn.cn/zjpd/playlist.m3u8
+#EXTINF:-1 ,潮安影视
+http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
+#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)2
+https://vip888.kuyun99.com/20180824/WJB07qKa/index.m3u8
+#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)3
+https://vip888.kuyun99.com/20180824/RgoY6gc7/index.m3u8
+#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)4
+https://vip888.kuyun99.com/20180824/GaQcPLdG/index.m3u8
+#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)5
+https://vip888.kuyun99.com/20180824/HjxbFCCd/index.m3u8
+#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)6
+https://vip888.kuyun99.com/20180824/dsejI0LI/index.m3u8
+#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)7
+https://vip888.kuyun99.com/20180824/MMrikhSZ/index.m3u8
+#EXTINF:-1 ,CHC-家庭影院
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 ,CHC-动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+#EXTINF:-1 ,杭州HTV-1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 ,杭州HTV-2
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 ,杭州HTV-3
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 ,杭州HTV-4
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 ,杭州HTV-5
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 ,CCTV1 4M1080
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 #EXTINF:-1 ,CCTV1 8M1080
