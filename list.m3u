@@ -1,8 +1,16 @@
 #EXTM3U
 #EXTINF:-1,凤凰资讯HD
-http://219.147.162.117:65530/live/fhzx/index.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+http://219.147.162.117:65530/live/fhzx/index.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 #EXTINF:-1,凤凰中文HD
-http://219.147.162.117:65530/live/fhzw/index.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+http://219.147.162.117:65530/live/fhzw/index.m3u8
+#EXTINF:-1,凤凰中文HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1,凤凰中文HD
+http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 
 #EXTINF:-1,CCTV13, 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.169.120.140:8080/live/cctv-13/.m3u8
@@ -14,7 +22,9 @@ http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212288
 #EXTINF:-1,CCTV2 3M1080
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1,CCTV3 3M1080
-http://117.148.187.42/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://117.148.187.42/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8
+#EXTINF:-1,CCTV3 3M1080
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV4 3M1080
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 ,CCTV5 2.5M1080
@@ -67,7 +77,9 @@ http://ivi.bupt.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1,河北卫视 3M1080
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1,浙江卫视 3M1080
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8#http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228837/index.m3u8
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1,浙江卫视 
+http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228837/index.m3u8
 #EXTINF:-1,海南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1,深圳卫视 3M1080
