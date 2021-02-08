@@ -7,6 +7,10 @@ http://219.147.162.117:65530/live/fhzx/index.m3u8
 http://219.147.162.117:65530/live/fhzw/index.m3u8
 #EXTINF:-1,凤凰中文HD
 #http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 ,凤凰中文 10M720
+http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+#EXTINF:-1 ,凤凰资讯 10M720
+http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 #EXTINF:-1,CCTV13, 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1,CCTV13, 新闻
@@ -17,13 +21,15 @@ http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://117.169.120.160:8080/live/cctv-15/1.m3u8
 
 #EXTINF:-1,CCTV1 3M1080
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV2 3M1080
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1,CCTV3 3M1080
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://117.148.187.42/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV4 3M1080
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV5 2.5M1080
+http://117.148.187.81/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228645/index.m3u8
 #EXTINF:-1,CCTV5+ 3M1080
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1,CCTV6 3M1080
