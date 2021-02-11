@@ -458,18 +458,7 @@ http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 http://nclive.grtn.cn/zjpd/playlist.m3u8
 #EXTINF:-1 ,潮安影视
 http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
-#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)2
-https://vip888.kuyun99.com/20180824/WJB07qKa/index.m3u8
-#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)3
-https://vip888.kuyun99.com/20180824/RgoY6gc7/index.m3u8
-#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)4
-https://vip888.kuyun99.com/20180824/GaQcPLdG/index.m3u8
-#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)5
-https://vip888.kuyun99.com/20180824/HjxbFCCd/index.m3u8
-#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)6
-https://vip888.kuyun99.com/20180824/dsejI0LI/index.m3u8
-#EXTINF:-1 ,系列惊悚片Friday-the-13th(黑色星期五)7
-https://vip888.kuyun99.com/20180824/MMrikhSZ/index.m3u8
+
 #EXTINF:-1 ,CHC-家庭影院
 rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 #EXTINF:-1 ,CHC-动作电影
