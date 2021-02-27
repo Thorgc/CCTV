@@ -154,6 +154,67 @@ http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 group-title="未分类",CCTV15蓝光
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
+#EXTINF:-1,北京影视 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+#EXTINF:-1,北京文艺 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+#EXTINF:-1,北京新闻 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+#EXTINF:-1,北京生活8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+#EXTINF:-1,北京科教8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
+#EXTINF:-1,北京财经8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+#EXTINF:-1,北京青年8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+#EXTINF:-1,北京IPTV4K超清 17M2160
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1,北京IPTV淘BABY 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1,北京IPTV淘剧场 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1,北京IPTV淘娱乐 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1,北京IPTV淘电影 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1,北京IPTV萌宠TV 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1,北京大健康 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+#EXTM3U
+#EXTINF:-1,香港C+
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1,星级剧集台
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+#EXTINF:-1,邵氏老电影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1,斗鱼轮播
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+#EXTINF:-1,TV经典电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
+#EXTINF:-1,TV动作电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+#EXTINF:-1,TV国产电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
+#EXTINF:-1,TV国外电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
+#EXTINF:-1,TV恐怖电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
+#EXTINF:-1,TV小电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
+#EXTINF:-1,CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1,CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1,CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1,CHC高清电影 4M1080
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000157.m3u8&ts=50&auth=no
+#EXTINF:-1,CBN每日影院 4M1080
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000214.m3u8&ts=50&auth=no
+#EXTINF:-1,CBN风尚生活 4M1080
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000215.m3u8&ts=50&auth=no
 
 
 
