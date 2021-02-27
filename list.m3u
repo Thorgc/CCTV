@@ -1,17 +1,10 @@
 #EXTM3U
-#EXTINF:-1,凤凰资讯HD
-http://219.147.162.117:65530/live/fhzx/index.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
-#EXTINF:-1,凤凰中文HD
-http://219.147.162.117:65530/live/fhzw/index.m3u8
-#EXTINF:-1,凤凰中文HD
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1,凤凰中文HD
-http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-
+#EXTINF:-1,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+#EXTINF:-1,凤凰资讯 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
 #EXTINF:-1,CCTV13, 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1,CCTV15 音乐
@@ -128,13 +121,19 @@ http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?I
 #EXTINF:-1 group-title="未分类",重庆卫视蓝光
 http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?I
 
-#EXTINF:-1,纯享4K(测试1)
-http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1,北京4K(测试2)
-http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1,百事通4K(测试3)
-http://117.148.187.4/PLTV/88888888/224/3221226718/index.m3u8
 
+#EXTINF:-1,凤凰资讯HD
+http://219.147.162.117:65530/live/fhzx/index.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+#EXTINF:-1,凤凰中文HD
+http://219.147.162.117:65530/live/fhzw/index.m3u8
+#EXTINF:-1,凤凰中文HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1,凤凰中文HD
+http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 
 
 #EXTINF:-1 group-title="未分类",CCTV4蓝光
@@ -216,7 +215,12 @@ http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5
 #EXTINF:-1,CBN风尚生活 4M1080
 http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000215.m3u8&ts=50&auth=no
 
-
+#EXTINF:-1,纯享4K(测试1)
+http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1,北京4K(测试2)
+http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1,百事通4K(测试3)
+http://117.148.187.4/PLTV/88888888/224/3221226718/index.m3u8
 
 #EXTINF:-1,福州市
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
