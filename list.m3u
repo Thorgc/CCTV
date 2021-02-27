@@ -1,10 +1,11 @@
 #EXTM3U
-#EXTINF:-1,凤凰中文 10M720
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-#EXTINF:-1,凤凰中文 10M720
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1,凤凰资讯 10M720
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
+
+#EXTINF:-1,凤凰资讯HD
+http://219.147.162.117:65530/live/fhzx/index.m3u8
+
+#EXTINF:-1,凤凰中文HD
+http://219.147.162.117:65530/live/fhzw/index.m3u8
+
 #EXTINF:-1,CCTV13, 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://117.169.120.140:8080/live/cctv-13/.m3u8
 #EXTINF:-1,CCTV15 音乐
@@ -122,19 +123,20 @@ http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?I
 http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?I
 
 
-#EXTINF:-1,凤凰资讯HD
-http://219.147.162.117:65530/live/fhzx/index.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
-#EXTINF:-1,凤凰中文HD
-http://219.147.162.117:65530/live/fhzw/index.m3u8
+#EXTINF:-1,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
 #EXTINF:-1,凤凰中文HD
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1,凤凰中文HD
 http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-
+#EXTINF:-1,凤凰资讯HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+#EXTINF:-1,凤凰资讯 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
 
 #EXTINF:-1 group-title="未分类",CCTV4蓝光
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
