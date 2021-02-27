@@ -117,43 +117,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
-#EXTINF:-1 group-title="未分类",浙江卫视蓝光
-http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?I
-#EXTINF:-1 group-title="未分类",重庆卫视蓝光
-http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?I
 
-
-#EXTINF:-1,凤凰中文 10M720
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-#EXTINF:-1,凤凰中文 10M720
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1,凤凰中文HD
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1,凤凰中文HD
-http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
-#EXTINF:-1,凤凰资讯 10M720
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
-
-#EXTINF:-1 group-title="未分类",CCTV4蓝光
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV9蓝光
-http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV12蓝光
-http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV14蓝光
-http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV15蓝光
-http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV12蓝光
-http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV14蓝光
-http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="未分类",CCTV15蓝光
-http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1,北京影视 8M1080
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
@@ -202,7 +166,7 @@ https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_25382
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
 #EXTINF:-1,TV恐怖电影
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
-#EXTINF:-1,TV小电影
+#EXTINF:-1,TV电影
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
 #EXTINF:-1,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -219,8 +183,7 @@ http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5
 
 #EXTINF:-1,纯享4K(测试1)
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1,北京4K(测试2)
-http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
+
 #EXTINF:-1,百事通4K(测试3)
 http://117.148.187.4/PLTV/88888888/224/3221226718/index.m3u8
 
@@ -282,10 +245,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 
-#EXTINF:-1,科幻20415
+#EXTINF:-1,斗鱼20415
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
-#EXTINF:-1,斗鱼电影015
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
+
 #EXTINF:-1,歐美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10037&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=Q894B3E8EEZ3T19UG09L8B03GSWB&amp;ts=1553493266
 #EXTINF:-1,亞洲影院
@@ -301,14 +263,7 @@ http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1,求索科学
 http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1,求索一
-http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,求索二
-http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1,求索三
-http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1,求索四
-http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
 #EXTINF:-1,点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1,彭博财经(美)Bloomberg TV
@@ -329,8 +284,7 @@ http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,海峡卫视
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1,厦门卫视
-http://cstvalic.v.myalicdn.com/cstv/xiamen_1/index.m3u8
+
 #EXTINF:-1,内蒙古综合
 http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
 #EXTINF:-1,内蒙古农牧
@@ -802,6 +756,64 @@ http://117.148.187.52/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212297
 http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229002/index.m3u8
 #EXTINF:-1 ,咪咕视频 4M1080
 http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230341/index.m3u8
+
+#EXTINF:-1 ,杭州5 4M1080
+http://39.134.176.249/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 ,舟山公共生活 8M1080
+http://117.148.187.94/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230338/index.m3u8
+#EXTINF:-1 ,舟山新闻 8M1080
+http://117.148.187.89/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230335/index.m3u8
+----------------------------------------------------------------------------------------------------------
+#垃圾
+#EXTINF:-1 group-title="未分类",浙江卫视蓝光
+http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?I
+#EXTINF:-1 group-title="未分类",重庆卫视蓝光
+http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?I
+
+
+#EXTINF:-1,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+#EXTINF:-1,凤凰中文HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1,凤凰中文HD
+http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1,凤凰资讯HD
+http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+#EXTINF:-1,凤凰资讯 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
+
+#EXTINF:-1 group-title="未分类",CCTV4蓝光
+http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV9蓝光
+http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV12蓝光
+http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV14蓝光
+http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV15蓝光
+http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV12蓝光
+http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV14蓝光
+http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CCTV15蓝光
+http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+
+#EXTINF:-1,厦门卫视
+http://cstvalic.v.myalicdn.com/cstv/xiamen_1/index.m3u8
+#EXTINF:-1,求索一
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 ,咪咕视频 4M1080
 http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230343/index.m3u8
 #EXTINF:-1 ,咪咕视频 4M1080
@@ -868,9 +880,3 @@ http://117.148.187.25/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212297
 http://117.148.187.57/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230350/index.m3u8
 #EXTINF:-1 ,咪咕视频 8M1080
 http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230370/index.m3u8
-#EXTINF:-1 ,杭州5 4M1080
-http://39.134.176.249/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229316/index.m3u8
-#EXTINF:-1 ,舟山公共生活 8M1080
-http://117.148.187.94/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230338/index.m3u8
-#EXTINF:-1 ,舟山新闻 8M1080
-http://117.148.187.89/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230335/index.m3u8
