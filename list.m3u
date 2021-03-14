@@ -121,8 +121,7 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 ,峨眉电影   
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1,芒果TV
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+
 #EXTINF:-1,爱上4K
 #http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1,北京IPTV4K超清 2160
@@ -151,8 +150,8 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,开心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-
-
+#EXTINF:-1,芒果TV
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1,邵氏老电影
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1,斗鱼轮播
@@ -290,6 +289,7 @@ http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
 #EXTINF:-1,包头经济频道
 http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
+
 #EXTINF:-1,黄冈公共频道
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
@@ -338,8 +338,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 ,浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 
-#EXTINF:-1 ,浙江影视娱乐
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
 #EXTINF:-1,浙江·浙江休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 #EXTINF:-1 ,浙江公共新闻
@@ -442,7 +440,7 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1,上海教育
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-安徽小说评书广播
+#EXTINF:-1 ,安徽小说评书广播
 http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
 #EXTINF:-1 ,文山综合[1920*1080]
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
