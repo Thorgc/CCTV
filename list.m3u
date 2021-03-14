@@ -24,25 +24,25 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 
 #EXTINF:-1,CCTV5+ 3M1080
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1,CCTV6 3M1080
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1,CCTV7 3M1080
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
 #EXTINF:-1,CCTV8 3M1080
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1,CCTV9 3M1080
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1,CCTV10 3M1080
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
+#http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1,CCTV11
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1,CCTV12 3M1080
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1,CCTV14 3M1080
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1,CCTV17 3M1080
-http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1,CHC台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
@@ -54,63 +54,61 @@ http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 
 #EXTINF:-1,东南卫视 3M1080
-http://ivi.bupt.edu.cn/hls/dnhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1,东方卫视 3M1080
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1,吉林卫视 2M1080
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1,四川卫视 3M1080
 http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1,天津卫视 3M1080
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
 #EXTINF:-1,山东卫视 3M1080
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1,广东卫视 3M1080
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1,广西卫视 3M1080
 http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1,江苏卫视 3M1080
-http://ivi.bupt.edu.cn/hls/jshd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1,江西卫视 3M1080
-http://ivi.bupt.edu.cn/hls/jxhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1,河北卫视 3M1080
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1,浙江卫视 3M1080
-http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 
 #EXTINF:-1,海南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1,深圳卫视 3M1080
-http://ivi.bupt.edu.cn/hls/szhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1,湖北卫视 3M1080
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
 #EXTINF:-1,湖南卫视 3M1080
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1,重庆卫视 3M1080
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
 #EXTINF:-1,北京卫视 3M1080
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1,安徽卫视 3M1080
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1,河南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1,辽宁卫视 3M1080
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
 #EXTINF:-1,黑龙江卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
 
 #EXTINF:-1,上海纪实人文 3M1080
-http://ivi.bupt.edu.cn/hls/docuchina.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1,北京冬奥纪实 3M1080
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1,北京文艺 3M1080
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1,北京新闻 3M1080
-http://ivi.bupt.edu.cn/hls/btv9hd.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1,北京影视 3M1080
-http://ivi.bupt.edu.cn/hls/btv4hd.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
-#EXTINF:-1,北京生活8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1,北京科教8M1080
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
 #EXTINF:-1,北京财经8M1080
@@ -124,13 +122,13 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1,芒果TV
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1,爱上4K
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,北京IPTV4K超清 2160
-http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1,北京IPTV淘剧场 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 #EXTINF:-1,北京IPTV淘电影 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1,北京IPTV萌宠TV 8M1080
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 #EXTINF:-1,北京IPTV淘BABY 8M1080
