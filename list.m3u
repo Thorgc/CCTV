@@ -11,11 +11,13 @@ http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1,CCTV1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 #EXTINF:-1,CCTV2 3M1080
 http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1,CCTV3 3M1080
 http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1,CCTV3 3M1080
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV4 3M1080
 http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 ,CCTV-5体育
