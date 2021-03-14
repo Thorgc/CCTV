@@ -185,7 +185,7 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1,福建电视剧FHD
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
 #EXTINF:-1,福建公共FHD
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 #EXTINF:-1,福建经济FHD
 rtsp://183.252.166.199:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
 #EXTINF:-1,福建旅游FHD
@@ -194,7 +194,7 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226125/1000010000000006000000000235
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 #EXTINF:-1,福建体育FHD
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+
 #EXTINF:-1,福建新闻FHD
 rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
 #EXTINF:-1,福建综合FHD
@@ -294,8 +294,7 @@ http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
 http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1,黄冈新闻频道
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1,德阳新闻FHD
-http://video.dztv.tv:1935/live/xwzh_gq/chunklist_w1468880256.m3u8
+
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,海峡卫视
@@ -448,7 +447,8 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/play
 http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 #EXTINF:-1 ,潮安影视
 http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
-
+#EXTINF:-1,新加坡FHD
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,广东卫视FHD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1,江苏卫视FHD
@@ -511,10 +511,8 @@ http://121.12.115.14/tx.hls.huya.com/src/1099531752590-1099531752590-86435417968
 http://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8
 #EXTINF:-1,黑莓电影
 http://39.134.66.2/PLTV/88888888/224/3221225523/index.m3u8
-#EXTINF:-1,红河经济FHD
-http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv
-#EXTINF:-1,红河新闻FHD
-http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv
+#EXTINF:-1,欢笑剧场
+http://117.148.130.102/PLTV/88888888/224/3221230739/index.m3u8
 
 #EXTINF:-1,华视动作大片
 http://121.12.115.14/tx.hls.huya.com/src/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1.m3u8
@@ -524,8 +522,7 @@ http://121.12.115.14/tx.hls.huya.com/src/1199556520236-1199556520236-54144275522
 http://121.12.115.14/tx.hls.huya.com/src/1199556528761-1199556528761-5414464166813499392-2399113180978-10057-A-0-1.m3u8
 #EXTINF:-1,华数电影HD
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,欢笑剧场
-http://117.148.130.102/PLTV/88888888/224/3221230739/index.m3u8
+
 #EXTINF:-1,科幻电影HD
 http://121.12.115.14/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
 #EXTINF:-1,酷影厅-亲子厅视频
@@ -561,8 +558,7 @@ http://luotuo.ycchenrong.cn/dl/mg.php?id=637444830
 
 #EXTINF:-1,新华社中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1,新加坡FHD
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 #EXTINF:-1,新视觉FHD
 http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -617,6 +613,3 @@ http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1,浙江新闻FHD
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-
-
-
