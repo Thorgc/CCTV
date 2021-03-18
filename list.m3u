@@ -289,16 +289,12 @@ http://193.160.32.4:8080/hstv/hstv/15
 http://193.160.32.4:8080/hstv/hstv/16
 #EXTINF:-1 group-title="日日新源,#genre#",NOW直播
 http://193.160.32.4:8080/hstv/hstv/17
-#EXTINF:-1 group-title="日日新源,#genre#",RTHK31
-http://193.160.32.4:8080/hstv/hstv/18
-#EXTINF:-1 group-title="日日新源,#genre#",RTHK32
-http://193.160.32.4:8080/hstv/hstv/19
+
 #EXTINF:-1 group-title="日日新源,#genre#",TVB星河
 http://193.160.32.4:8080/hstv/hstv/20
 #EXTINF:-1 group-title="日日新源,#genre#",TVB经典
 http://193.160.32.4:8080/hstv/hstv/21
-#EXTINF:-1 group-title="日日新源,#genre#",TVB 华丽
-http://193.160.32.4:8080/hstv/hstv/22ttp://193.160.32.4:8080/hstv/hstv/613
+
 #EXTINF:-1 group-title="日日新源,#genre#",凤凰香港
 http://193.160.32.4:8080/hstv/hstv/28
 #EXTINF:-1 group-title="日日新源,#genre#",东森电影
@@ -323,32 +319,19 @@ http://193.160.32.4:8080/hstv/hstv/65
 http://193.160.32.4:8080/hstv/hstv/75
 #EXTINF:-1 group-title="日日新源,#genre#",FOX CRIME
 http://193.160.32.4:8080/hstv/hstv/76
-#EXTINF:-1 group-title="日日新源,#genre#",FOX ACTION
-http://193.160.32.4:8080/hstv/hstv/77
-#EXTINF:-1 group-title="日日新源,#genre#",FOX Family
-http://193.160.32.4:8080/hstv/hstv/78
+
+
 #EXTINF:-1 group-title="日日新源,#genre#",寰宇综合
 http://193.160.32.4:8080/hstv/hstv/196
 #EXTINF:-1 group-title="日日新源,#genre#",寰宇台湾
 http://193.160.32.4:8080/hstv/hstv/197
-#EXTINF:-1 group-title="日日新源,#genre#",民视影剧
-http://193.160.32.4:8080/hstv/hstv/198
-#EXTINF:-1 group-title="日日新源,#genre#",民视综艺
-http://193.160.32.4:8080/hstv/hstv/199
-#EXTINF:-1 group-title="日日新源,#genre#",民视旅游
-http://193.160.32.4:8080/hstv/hstv/200
-#EXTINF:-1 group-title="日日新源,#genre#",公视戏剧
-http://193.160.32.4:8080/hstv/hstv/201
-#EXTINF:-1 group-title="日日新源,#genre#",中天亚洲
-http://193.160.32.4:8080/hstv/hstv/202
+
+
 #EXTINF:-1 group-title="日日新源,#genre#",中天综合
 http://193.160.32.4:8080/hstv/hstv/203
 #EXTINF:-1 group-title="日日新源,#genre#",中天娱乐
 http://193.160.32.4:8080/hstv/hstv/204
-#EXTINF:-1 group-title="日日新源,#genre#",非凡商业
-http://193.160.32.4:8080/hstv/hstv/205
-#EXTINF:-1 group-title="日日新源,#genre#",中华财经
-http://193.160.32.4:8080/hstv/hstv/206
+
 #EXTINF:-1 group-title="日日新源,#genre#",纬来日本
 http://193.160.32.4:8080/hstv/hstv/207
 #EXTINF:-1 group-title="日日新源,#genre#",纬来育乐
@@ -416,27 +399,11 @@ http://193.160.32.4:8080/hstv/hstv/238
 #EXTINF:-1 group-title="日日新源,#genre#",半岛国际新闻
 http://193.160.32.4:8080/hstv/hstv/255
 #EXTINF:-1 group-title="",Astro ceria
-http://193.160.32.4:8080/hstv/hstv/324
-#EXTINF:-1 group-title="",Astro AOD351
-http://193.160.32.4:8080/hstv/hstv/325
-#EXTINF:-1 group-title="",Astro AOD352
-http://193.160.32.4:8080/hstv/hstv/326
-#EXTINF:-1 group-title="",Astro AOD353
-http://193.160.32.4:8080/hstv/hstv/327
-#EXTINF:-1 group-title="",Astro AOD354
-http://193.160.32.4:8080/hstv/hstv/328
-#EXTINF:-1 group-title="",Astro AOD355
-http://193.160.32.4:8080/hstv/hstv/329
-#EXTINF:-1 group-title="",WWE
-http://193.160.32.4:8080/hstv/hstv/330
-#EXTINF:-1 group-title="",EGG
-http://193.160.32.4:8080/hstv/hstv/331
-#EXTINF:-1 group-title="",OKEY
-http://193.160.32.4:8080/hstv/hstv/332
+
+
 #EXTINF:-1 group-title="",TVN
 http://193.160.32.4:8080/hstv/hstv/333
-#EXTINF:-1 group-title="",BNC
-http://193.160.32.4:8080/hstv/hstv/334
+
 #EXTINF:-1 group-title="",Astro ARENA
 http://193.160.32.4:8080/hstv/hstv/335
 #EXTINF:-1 group-title="",Astro Cricket
@@ -447,8 +414,7 @@ http://193.160.32.4:8080/hstv/hstv/337
 http://193.160.32.4:8080/hstv/hstv/338
 #EXTINF:-1 group-title="",Astro suria
 http://193.160.32.4:8080/hstv/hstv/339
-#EXTINF:-1 group-title="",Astro 双星
-http://193.160.32.4:8080/hstv/hstv/340
+
 #EXTINF:-1 group-title="",Astro AEC
 #EXTINF:-1 group-title="",TV1
 http://193.160.32.4:8080/hstv/hstv/353
@@ -466,10 +432,8 @@ http://193.160.32.4:8080/hstv/hstv/358
 http://193.160.32.4:8080/hstv/hstv/359
 #EXTINF:-1 group-title="",Channel8
 http://193.160.32.4:8080/hstv/hstv/360
-#EXTINF:-1 group-title="",Channel U
-http://193.160.32.4:8080/hstv/hstv/361
-#EXTINF:-1 group-title="",Sky Sport HD
-http://193.160.32.4:8080/hstv/hstv/362
+
+
 #EXTINF:-1 group-title="",ASSP1_HD
 http://193.160.32.4:8080/hstv/hstv/363
 #EXTINF:-1 group-title="",ASSP2_HD
