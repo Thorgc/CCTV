@@ -48,8 +48,7 @@ http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1,吉林卫视 2M1080
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1,四川卫视 3M1080
-http://ivi.bupt.edu.cn/hls/schd.m3u8
+
 #EXTINF:-1,天津卫视 3M1080
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1,山东卫视 3M1080
@@ -64,8 +63,7 @@ http://ivi.bupt.edu.cn/hls/jshd.m3u8
 http://ivi.bupt.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1,河北卫视 3M1080
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1,浙江卫视 3M1080
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+
 #EXTINF:-1,海南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1,深圳卫视 3M1080
