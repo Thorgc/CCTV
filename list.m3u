@@ -785,14 +785,7 @@ http://39.134.66.2/PLTV/88888888/224/3221225523/index.m3u8
 #EXTINF:-1,欢笑剧场
 http://117.148.130.102/PLTV/88888888/224/3221230739/index.m3u8
 
-#EXTINF:-1,华视动作大片
-http://121.12.115.14/tx.hls.huya.com/src/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1.m3u8
-#EXTINF:-1,华视警匪大片
-http://121.12.115.14/tx.hls.huya.com/src/1199556520236-1199556520236-5414427552217300992-2399113163928-10057-A-0-1.m3u8
-#EXTINF:-1,华视恐怖悬疑
-http://121.12.115.14/tx.hls.huya.com/src/1199556528761-1199556528761-5414464166813499392-2399113180978-10057-A-0-1.m3u8
-#EXTINF:-1,华数电影HD
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 
 #EXTINF:-1,科幻电影HD
 http://121.12.115.14/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
@@ -826,9 +819,6 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 http://tv.rdys888.top/bak/proxy/youku.php?id=8023122
 #EXTINF:-1,喜剧联盟
 http://luotuo.ycchenrong.cn/dl/mg.php?id=637444830
-
-#EXTINF:-1,新华社中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
 #EXTINF:-1,新视觉FHD
