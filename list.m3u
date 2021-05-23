@@ -1,10 +1,52 @@
 #EXTM3U
+#EXTINF:-1,都市剧场FHD
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1,爱上4K
+#http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1,北京IPTV4K超清 2160
+http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1,北京IPTV淘剧场 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1,北京IPTV淘电影 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1,东方影视
+http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
+#EXTINF:-1,星级剧集台
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+#EXTINF:-1,影视1
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+#EXTINF:-1,影视5
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1,影视6
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+#EXTINF:-1,金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,开心影院
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1,芒果TV
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1,邵氏老电影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1,斗鱼轮播
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+#EXTINF:-1,斗鱼20415
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
+#EXTINF:-1,斗鱼经典电影1
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+#EXTINF:-1,斗鱼经典电影2
+http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
+#EXTINF:-1,CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1,CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
-#EXTINF:-1,凤凰资讯HD
-http://219.147.162.117:65530/live/fhzx/index.m3u8
-#EXTINF:-1,凤凰中文HD
-http://219.147.162.117:65530/live/fhzw/index.m3u8
+#EXTINF:-1,爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,爱科幻 
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
+#EXTINF:-1,CHC台
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,CCTV13 新闻
 http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1,CCTV15 音乐
@@ -39,8 +81,6 @@ http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 
 
-#EXTINF:-1,CHC台
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,东南卫视 3M1080
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1,东方卫视 3M1080
@@ -321,8 +361,6 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,纯享4K
 http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 
-#EXTINF:-1,都市剧场FHD
-http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1,内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 
