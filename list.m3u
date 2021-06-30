@@ -3,20 +3,17 @@
 http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1,凤凰中文
 http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
-#EXTINF:-1,凤凰香港
-http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
+
 #EXTINF:-1,CCTV13HD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 #EXTINF:-1,都市剧场FHD
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1,影视1
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+
 #EXTINF:-1,影视5
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 #EXTINF:-1,影视6
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-#EXTINF:-1,开心影院
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+
 #EXTINF:-1,芒果TV
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1,邵氏老电影
@@ -418,63 +415,12 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
 #EXTINF:-1,爱上4K
 #http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1,北京IPTV4K超清 2160
-http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1,北京IPTV淘剧场 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-#EXTINF:-1,北京IPTV淘电影 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1,北京IPTV萌宠TV 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-#EXTINF:-1,北京IPTV淘BABY 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1,北京IPTV淘娱乐 8M1080
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-#EXTINF:-1,东方影视
-http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
-#EXTINF:-1,星级剧集台
-http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
-#EXTINF:-1,影视1
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-#EXTINF:-1,影视5
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-#EXTINF:-1,影视6
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-#EXTINF:-1,金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,开心影院
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1,芒果TV
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1,邵氏老电影
-http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-#EXTINF:-1,斗鱼轮播
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1,斗鱼20415
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
-#EXTINF:-1,斗鱼经典电影1
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1,斗鱼经典电影2
-http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
+
 #EXTINF:-1,CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 ,广东综艺4K
-http://nclive.grtn.cn/4K/playlist.m3u8
-#EXTINF:-1,法国第五世界
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
-#EXTINF:-1,爱浪漫
-http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱科幻 
-http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱都市   
-http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱江湖   
-http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱院线   
-http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1,福建电视剧FHD
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
@@ -810,14 +756,7 @@ http://117.148.130.102/PLTV/88888888/224/3221230739/index.m3u8
 
 
 
-#EXTINF:-1,科幻电影HD
-http://121.12.115.14/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
-#EXTINF:-1,酷影厅-亲子厅视频
-http://tv.rdys888.top/bak/proxy/youku.php?id=8032841
-#EXTINF:-1,酷影厅-少女厅视频
-http://tv.rdys888.top/bak/proxy/youku.php?id=8032840
-#EXTINF:-1,酷影厅-硬汉厅视频
-http://tv.rdys888.top/bak/proxy/youku.php?id=8032842
+
 #EXTINF:-1,九江新闻FHD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
