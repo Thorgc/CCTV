@@ -223,33 +223,18 @@ http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 ,浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 ,浙江生活FHD
 http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 ,浙江数码FHD
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 ,浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
 
 #EXTINF:-1 ,杭州影视FHD
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
-#EXTINF:-1 ,余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 ,余姚姚江文化
-http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 ,嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 ,上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 ,上虞经济文化
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 ,上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 ,杭州综合
 http://live.hoolo.tv/hztv1/sd/live.m3u8
 #EXTINF:-1 ,杭州西湖明珠
@@ -278,24 +263,14 @@ http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
 #EXTINF:-1 ,江苏·靖江综合台
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 ,宁波影视频道
-http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
+
 #EXTINF:-1 ,江苏吴江综合台
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 #EXTINF:-1 ,江苏张家港综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:-1 ,江苏张家港民生
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 ,江苏连云港综合
-http://live.lyg1.com/zhpd/sd/live.m3u8
-#EXTINF:-1 ,江苏连云港公共
-http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 ,江苏淮安综合
-http://stream.habctv.com/xwzh/sd/live.m3u8
-#EXTINF:-1 ,江苏淮安公共
-http://stream.habctv.com/hagg/sd/live.m3u8
-#EXTINF:-1 ,江苏淮安影视
-http://stream.habctv.com/ysyl/sd/live.m3u8
+
 #EXTINF:-1 ,江苏教育
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 ,江苏影视
@@ -326,14 +301,7 @@ http://149.129.100.78/changshu.php?id=msjj
 http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 ,江苏综艺
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
-#EXTINF:-1 ,南通新闻综合
-http://149.129.100.78/nantong.php?id=zh
-#EXTINF:-1 ,南通教育
-http://149.129.100.78/nantong.php?id=sj
-#EXTINF:-1 ,南通公共
-http://149.129.100.78/nantong.php?id=gg
-#EXTINF:-1 ,南通文化旅游
-http://149.129.100.78/nantong.php?id=ly
+
 #EXTINF:-1 ,常州新闻综合
 http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
 #EXTINF:-1 ,常州都市
@@ -396,18 +364,8 @@ http://124.232.231.246:6610/000000001001/201500000235/index.m3u8?IASHttpSessionI
 http://124.232.231.246:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 ,长沙政法
 http://124.232.231.246:6610/000000001001/201500000229/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 ,长沙影视
-http://149.129.100.78/cs.php?id=350
 #EXTINF:-1 ,长沙新闻
 http://124.232.231.246:6610/000000001001/201500000232/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 ,长沙女性
-http://149.129.100.78/cs.php?id=349
-#EXTINF:-1 ,湖南·娄底综合
-http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 ,湖南湘潭综合台
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 ,湘潭公共
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 
 
 #EXTINF:-1 ,四川文化旅游
@@ -502,16 +460,6 @@ http://zbbf2.ahtv.cn/live/da9.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 ,萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 ,新昌新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 ,新昌休闲影视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 ,南昌都市
-http://149.129.100.78/nc.php?id=nctv2
-#EXTINF:-1 ,南昌资讯
-http://149.129.100.78/nc.php?id=nctv3
-#EXTINF:-1 ,南昌公共
-http://149.129.100.78/nc.php?id=nctv4
 #EXTINF:-1 ,文山综合[1920*1080]
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 ,九江新闻FHD
@@ -766,8 +714,6 @@ http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
 #EXTINF:-1 ,周口图文信息
 http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
 
-#EXTINF:-1 ,安徽经济生活
-http://149.129.100.78/anhui.php?id=71
 #EXTINF:-1 ,滨海新闻
 http://60.30.52.41/live/bhtv1/playlist.m3u8
 #EXTINF:-1 ,滨海综艺
@@ -854,18 +800,8 @@ http://149.129.100.78/hainan.php?id=8
 #EXTINF:-1 ,海南少儿
 http://149.129.100.78/hainan.php?id=9
 
-
-#EXTINF:-1 ,黑龙江影视
-http://idclive.hljtv.com:8080/live/yingshi_sd.m3u8
 #EXTINF:-1 ,黑龙江都市
 http://idclive.hljtv.com:8080/live/dushi_hd.m3u8
 #EXTINF:-1 ,黑龙江新闻法治
 http://idclive.hljtv.com:8080/live/xinwen_sd.m3u8
-#EXTINF:-1 ,黑龙江少儿
-http://idclive.hljtv.com:8080/live/shaoer_sd.m3u8
-#EXTINF:-1 ,黑龙江文体
-http://idclive.hljtv.com:8080/live/wenyi_sd.m3u8
-#EXTINF:-1 ,黑龙江公共农业
-http://idclive.hljtv.com:8080/live/gonggong_sd.m3u8
-#EXTINF:-1 ,通州电视台
-http://pull.dayuntongzhou.com/live/tztv.m3u8
+
