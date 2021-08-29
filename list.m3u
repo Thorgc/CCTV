@@ -107,8 +107,8 @@ http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv
 http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv
 #EXTINF:-1 ,钟无艳
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
-#EXTINF:-1 ,IPTV
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
+#EXTINF:-1 ,北京IPTV 淘电影
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
 #EXTINF:-1 ,北京IPTV 4K超清
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u8
 #EXTINF:-1 ,4K超高清电影
@@ -125,8 +125,7 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 ,华数古装
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 ,北京IPTV 淘电影
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
+
 #EXTINF:-1 ,时尚频道
 http://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:-1 ,第一财经FHD
@@ -149,10 +148,6 @@ http://39.134.39.4/PLTV/88888888/224/3221226252/index.m3u8
 http://39.134.39.37/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 ,甘肃文化FHD
 http://39.134.39.4/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:-1 ,甘肃都市蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,甘肃公共蓝光
-http://39.134.39.37/PLTV/88888888/224/3221226250/index.m3u8
 #EXTINF:-1 ,兰州新闻综合蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 ,兰州综艺体育蓝光
@@ -186,12 +181,6 @@ http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
 
 #EXTINF:-1 ,上海外语HD
 http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 ,上海第一财经HD
-http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 ,上海纪实人文HD
-http://39.134.39.39/PLTV/88888888/224/3221226174/index.m3u8
-#EXTINF:-1 ,上海哈哈炫动HD
-http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8
 #EXTINF:-1 ,上海新闻
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海影视
@@ -200,21 +189,11 @@ http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海法制
-http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 ,上海财经
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 ,上海戏曲
-http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 ,上海生活
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 
-#EXTINF:-1 ,内蒙古综合
-http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
-#EXTINF:-1 ,内蒙古农牧
-http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-#EXTINF:-1 ,内蒙古娱乐
-http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
 #EXTINF:-1 ,内蒙古经济
 http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
 #EXTINF:-1 ,内蒙古蒙语
@@ -226,70 +205,31 @@ http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
 http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1 ,浙江·柯桥时尚
 http://live.scbtv.cn/hls/qfc/index.m3u8
-#EXTINF:-1 ,绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTINF:-1 ,绍兴公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 ,绍兴文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江都市FHD
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,浙江民生FHD
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 ,浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 ,浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江·浙江休闲
+#EXTINF:-1 ,浙江教育台
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,浙江休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 #EXTINF:-1 ,浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 ,浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 ,浙江6套FHD
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
-#EXTINF:-1 ,浙江都市FHD
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 ,浙江公共FHD
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 ,浙江经济FHD
-http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?
-#EXTINF:-1 ,浙江留学FHD
-http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 ,浙江民生FHD
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江农村FHD
-http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?
-#EXTINF:-1 ,浙江钱江FHD
-http://hw-m-l.cztv.com:80/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 ,浙江少儿FHD
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 ,浙江生活FHD
 http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 ,浙江数码FHD
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-#EXTINF:-1 ,浙江影视台
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-#EXTINF:-1 ,浙江教育台
-http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江留学世界台
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 ,浙江舟山综合台
-http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,浙江舟山生活台
-http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 ,浙江绍兴综合台
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 ,浙江国际FHD
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
-#EXTINF:-1 ,浙江经视FHD
-http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 ,浙江影视娱乐FHD
-http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
+
 #EXTINF:-1 ,杭州影视FHD
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
-#EXTINF:-1 ,西青新闻综合
-http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1 ,舟山新闻综合
-http://stream.wifizs.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 ,余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 ,余姚姚江文化
