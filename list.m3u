@@ -136,7 +136,7 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 ,斗鱼轮播
 http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 
-#甘肃
+
 #EXTINF:-1 ,甘肃卫视FHD
 http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
 #EXTINF:-1 ,甘肃都市FHD
@@ -221,7 +221,7 @@ http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
 http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
 #EXTINF:-1 ,内蒙古少儿
 http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-浙江
+
 #EXTINF:-1 ,浙江·柯桥综合
 http://live.scbtv.cn/hls/news/index.m3u8
 #EXTINF:-1 ,浙江·柯桥时尚
@@ -323,7 +323,7 @@ http://live.hoolo.tv/hztv5/sd/live.m3u8
 #EXTINF:-1 ,杭州导视
 http://live.hoolo.tv/hztv6/sd/live.m3u8
 
-江苏
+
 #EXTINF:-1 ,南京教科
 http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 #EXTINF:-1 ,南京生活
@@ -402,7 +402,7 @@ http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
 http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
 #EXTINF:-1 ,常州公共
 http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
-广东
+
 #EXTINF:-1 ,广东·番禺电视
 http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 #EXTINF:-1 ,广东·佛山综合
@@ -439,7 +439,7 @@ http://149.129.100.78/sztv.php?id=7
 http://149.129.100.78/sztv.php?id=8
 #EXTINF:-1 ,南方卫视
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
-湖南
+
 #EXTINF:-1 ,湖南电影
 http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 ,湖南经视
@@ -469,7 +469,7 @@ http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 ,湘潭公共
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 
-四川
+
 #EXTINF:-1 ,四川文化旅游
 http://scgctvshow.sctv.com/hdlive/sctv2/index.m3u8
 #EXTINF:-1 ,四川经济
@@ -521,7 +521,7 @@ http://149.129.100.78/cdtv.php?id=5
 #EXTINF:-1 ,成都少儿
 http://149.129.100.78/cdtv.php?id=6
 
-安徽
+
 #EXTINF:-1 ,安徽·六安综合
 http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1 ,安徽·六安公共
@@ -577,7 +577,7 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/play
 #EXTINF:-1 ,九江新闻FHD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
-山东
+
 #EXTINF:-1 ,山东齐鲁
 http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 #EXTINF:-1 ,山东体育
@@ -686,7 +686,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 ,徐州4FHD
 http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
-云南
+
 #EXTINF:-1 ,云南楚雄公共台
 http://hwzbout.yunshicloud.com/gbqei5/12661u.m3u8
 #EXTINF:-1 ,云南腾冲FHD
@@ -797,7 +797,22 @@ http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 #EXTINF:-1 ,百事通体育HD
 http://39.134.39.39/PLTV/88888888/224/3221226132/index.m3u8
 
-河南
+#EXTINF:-1 ,河南都市
+http://149.129.100.78/dxxw.php?id=141
+#EXTINF:-1 ,河南电视剧
+http://149.129.100.78/dxxw.php?id=148
+#EXTINF:-1 ,河南民生
+http://149.129.100.78/dxxw.php?id=146
+#EXTINF:-1 ,河南法治
+http://149.129.100.78/dxxw.php?id=147
+#EXTINF:-1 ,河南新闻
+http://149.129.100.78/dxxw.php?id=149
+#EXTINF:-1 ,河南公共
+http://149.129.100.78/dxxw.php?id=151
+#EXTINF:-1 ,河南乡村
+http://149.129.100.78/dxxw.php?id=152
+#EXTINF:-1 ,河南国际
+http://149.129.100.78/dxxw.php?id=153
 #EXTINF:-1 ,南阳公共
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
 #EXTINF:-1 ,南阳科教
@@ -857,7 +872,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
 #EXTINF:-1 ,极速汽车
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
 
-山西
+
 #EXTINF:-1 ,山西朔州新闻台
 http://stream.sxsztv.com/live4/sd/live.m3u8
 #EXTINF:-1 ,山西黄河
@@ -887,27 +902,6 @@ http://149.129.100.78/cutv.php?id=sxjj
 http://149.129.100.78/cutv.php?id=sxys
 #EXTINF:-1 ,山西公共
 http://149.129.100.78/cutv.php?id=sxgg
-
-河南
-
-#EXTINF:-1 ,河南都市
-http://149.129.100.78/dxxw.php?id=141
-#EXTINF:-1 ,河南电视剧
-http://149.129.100.78/dxxw.php?id=148
-#EXTINF:-1 ,河南民生
-http://149.129.100.78/dxxw.php?id=146
-#EXTINF:-1 ,河南法治
-http://149.129.100.78/dxxw.php?id=147
-#EXTINF:-1 ,河南新闻
-http://149.129.100.78/dxxw.php?id=149
-#EXTINF:-1 ,河南公共
-http://149.129.100.78/dxxw.php?id=151
-#EXTINF:-1 ,河南乡村
-http://149.129.100.78/dxxw.php?id=152
-#EXTINF:-1 ,河南国际
-http://149.129.100.78/dxxw.php?id=153
-
-海南
 
 #EXTINF:-1 ,海南经济
 http://149.129.100.78/hainan.php?id=4
