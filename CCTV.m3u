@@ -1,4 +1,57 @@
 #EXTM3U
+#EXTINF:-1 ,翡翠华丽台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 ,有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 ,有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 ,有线新闻台
+https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 ,有线财经资讯台
+https://www.navchina.cf/IPTV/icable.php?id=38
+#EXTINF:-1 ,有线直播新闻台
+https://www.navchina.cf/IPTV/icable.php?id=39
+#EXTINF:-1 ,TVB星河频道HD
+http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+#EXTINF:-1 ,香港开电视
+https://www.navchina.cf/IPTV/icable.php?id=77
+#EXTINF:-1 ,凤凰中文 10M1080
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 ,凤凰资讯 10M1080
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,凤凰香港 10M1080
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 ,凤凰香港
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,经典功夫台
+http://103.140.229.13/BOBO/bibi.php?id=21715386
+#EXTINF:-1 ,天映经典HD
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,寰宇新闻台
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+#EXTINF:-1 ,三立台湾
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,三立都会
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,亚洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 ,BBC Earth Lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+#EXTINF:-1 ,ELTA综合
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 ,Astor AOD
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 ,Astro欢喜
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#EXTM3U
 #EXTINF:-1,CCTV-1HD
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
 #EXTINF:-1,CCTV-1HD
