@@ -86,11 +86,13 @@ http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionI
 #EXTINF:-1 ,少女可乐橙
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 #EXTINF:-1 ,小宇科幻
-http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv
+http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 #EXTINF:-1 ,女神经
 http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv
 #EXTINF:-1 ,快进贱
-http://dyscdnali1.douyucdn.cn/live/7517784rNwUBBR8Q.flv
+http://dyscdnali1.douyucdn.cn/live/7517784rqpVzoQBR.flv?uuid=
+#EXTINF:-1 ,斗鱼主播:山东蓝翔技工学院  房间号：276200
+http://dyscdnali1.douyucdn.cn/live/276200rKUd51od61.flv?uuid=
 #EXTINF:-1 ,庆余年
 http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv
 #EXTINF:-1 ,西红柿
@@ -98,7 +100,7 @@ http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 #EXTINF:-1 ,【小鸽动作}
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv
 #EXTINF:-1 ,进击の神乐
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 #EXTINF:-1 ,进击的神乐"
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 #EXTINF:-1 ,特辑电影院"
@@ -112,47 +114,46 @@ http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv
 #EXTINF:-1 ,钟无艳
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
 #EXTINF:-1 ,斗鱼主播:4K超清  房间号：925724
-http://dyscdnali1.douyucdn.cn/live/925724rSMZzq3wH1.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/925724rabwN9Xmww.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:Rainsunn  房间号：323876
-http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:s1134  房间号：248753
 http://dyscdnali1.douyucdn.cn/live/248753r2UKJyk9Xv.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:春卷大师  房间号：52787
-http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/52787rycyDIEdggE.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:冯人苑  房间号：9292499
 http://dyscdnali1.douyucdn.cn/live/9292499rA3CRSENF.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:酷炫小剧场  房间号：36337
 http://dyscdnali1.douyucdn.cn/live/36337rV0DV1Tki6h.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:快进贱  房间号：7517784
-http://dyscdnali1.douyucdn.cn/live/7517784rEonOTwWR.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:软糖要开心吖  房间号：7842226
-http://dyscdnali1.douyucdn.cn/live/7842226rDvzxib1h.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:山东蓝翔技工学院  房间号：276200
-http://dyscdnali1.douyucdn.cn/live/276200rKUd51od61.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:萌小鬼  房间号：3928
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+#EXTINF:-1 ,斗鱼主播:软糖要开心吖  房间号：7842226
+http://dyscdnali1.douyucdn.cn/live/7842226rDvzxib1h.flv?uuid=
 
 #EXTM3U
 #EXTINF:-1 ,电影轮播1
-http://vip.auney.cn/api/huya.php?id=11342412
+http://121.12.115.156/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+#http://vip.auney.cn/api/huya.php?id=11342412
 #EXTINF:-1 ,_电影轮播3
-http://vip.auney.cn/api/huya.php?id=11601968
+http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
+#http://vip.auney.cn/api/huya.php?id=11601968
 
-#EXTINF:-1 ,电影轮播_5
-http://vip.auney.cn/api/huya.php?id=16028551
 #EXTINF:-1 ,电影轮播_6
-http://vip.auney.cn/api/huya.php?id=11342386
+http://121.12.115.156/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
+#http://vip.auney.cn/api/huya.php?id=11342386
 #EXTINF:-1 ,电影轮播_7
-http://vip.auney.cn/api/huya.php?id=11352935
+http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+#http://vip.auney.cn/api/huya.php?id=11352935
 #EXTINF:-1 ,电影轮播_8
-http://vip.auney.cn/api/huya.php?id=11342387
-#EXTINF:-1 ,电影轮播_9
-http://vip.auney.cn/api/huya.php?id=16144175
+http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#http://vip.auney.cn/api/huya.php?id=11342387
 
 #EXTINF:-1 ,电影轮播_13
-http://vip.auney.cn/api/huya.php?id=11602043
+http://121.12.115.156/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+#http://vip.auney.cn/api/huya.php?id=11602043
 #EXTINF:-1 ,电影轮播_14
-http://vip.auney.cn/api/huya.php?id=11336590
+http://121.12.115.156/tx.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8
+#http://vip.auney.cn/api/huya.php?id=11336590
 #EXTINF:-1 ,电影轮播_15
 http://vip.auney.cn/api/huya.php?id=11342417
 #EXTINF:-1 ,电影轮播_16
