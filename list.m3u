@@ -75,8 +75,8 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,金鹰纪实FHD
 http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 ,金鹰卡通FHD
-http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京",淘电影
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 ,少女可乐橙
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 #EXTINF:-1 ,小宇科幻
