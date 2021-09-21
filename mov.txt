@@ -4,6 +4,7 @@
 斗鱼主播:伊太刀刀  房间号：747764,http://tx2play1.douyucdn.cn/live/747764rpqnJBlpMR.flv?uuid=
 斗鱼主播:狂仔酷炫  房间号：252802,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000.flv?uuid=
 斗鱼主播:狂拽酷炫  房间号：4332,http://tx2play1.douyucdn.cn/live/4332riVqIoYRE6Qt.flv?uuid=
+虎牙主播:Fight、Girl  房间号：11352895,http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
 斗鱼主播:UHD杜比视界  房间号：9249162,http://tx2play1.douyucdn.cn/live/9249162rcJzuwv3W.flv?uuid=
 斗鱼主播:金庸影视剧  房间号：9356350,http://tx2play1.douyucdn.cn/live/9356350roawjYyW6.flv?uuid=
 斗鱼主播:德云相声一哥  房间号：6462597,http://tx2play1.douyucdn.cn/live/6462597r1c0e3cui.flv?uuid=
@@ -40,7 +41,7 @@
 斗鱼主播:新手村头号玩家  房间号：562225,http://tx2play1.douyucdn.cn/live/562225rV4UNAU64f.flv?uuid=
 斗鱼主播:放影师  房间号：5129261,http://tx2play1.douyucdn.cn/live/5129261rZlxiaokj.flv?uuid=
 斗鱼主播:萌小鬼  房间号：3928,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-斗鱼主播:春卷大师  房间号：52787,http://tx2play1.douyucdn.cn/live/52787r6LUHBs4oUt.flv?uuid=
+7斗鱼主播:春卷大师  房间号：52787,http://tx2play1.douyucdn.cn/live/52787r6LUHBs4oUt.flv?uuid=
 斗鱼主播:无双十三香  房间号：4870914,http://tx2play1.douyucdn.cn/live/4870914rzkrh9ENI.flv?uuid=
 斗鱼主播:超新星爆发丶丶  房间号：9236739,http://tx2play1.douyucdn.cn/live/9236739rET4oziCv.flv?uuid=
 斗鱼主播:马里奥斗斗  房间号：638963,http://tx2play1.douyucdn.cn/live/638963r9OBOnHaLu.flv?uuid=
