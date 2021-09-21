@@ -9,6 +9,8 @@ http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-15 音乐FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV-3蓝光
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 ,CCTV-1 综合FHD
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 #EXTINF:-1 ,CCTV-2 财经FHD
@@ -88,7 +90,7 @@ http://dyscdnali1.douyucdn.cn/live/7517784rqpVzoQBR.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:山东蓝翔技工学院  房间号：276200
 http://dyscdnali1.douyucdn.cn/live/276200rKUd51od61.flv?uuid=
 #EXTINF:-1 ,庆余年
-http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv
+http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv?uuid=
 #EXTINF:-1 ,西红柿
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 #EXTINF:-1 ,【小鸽动作}
@@ -107,6 +109,7 @@ http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
 #EXTINF:-1 ,斗鱼主播:4K超清  房间号：925724
 http://dyscdnali1.douyucdn.cn/live/925724rabwN9Xmww.flv?uuid=
+
 #EXTINF:-1 ,斗鱼主播:s1134  房间号：248753
 http://dyscdnali1.douyucdn.cn/live/248753r2UKJyk9Xv.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:春卷大师  房间号：52787
