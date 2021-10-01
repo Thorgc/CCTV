@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,直播中国
+http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1 ,凤凰中文
@@ -711,8 +713,7 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:-1 ,九江公共频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
-#EXTINF:-1 ,直播中国
-http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+
 #EXTINF:-1 ,动漫
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,全纪实
@@ -725,32 +726,14 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,山西朔州新闻台
 http://stream.sxsztv.com/live4/sd/live.m3u8
-#EXTINF:-1 ,山西黄河
-http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
-#EXTINF:-1 ,山西经济
-http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
-#EXTINF:-1 ,山西影视
-http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
-#EXTINF:-1 ,山西科教
-http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
-#EXTINF:-1 ,山西少儿
-http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
+
 #EXTINF:-1 ,朔州1
 http://stream.sxsztv.com/live1/playlist.m3u8
 #EXTINF:-1 ,朔州2
 http://stream.sxsztv.com/live2/playlist.m3u8
 #EXTINF:-1 ,晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 ,山西社会与法治
-http://149.129.100.78/cutv.php?id=sxkj
-#EXTINF:-1 ,黄河电视台
-http://149.129.100.78/cutv.php?id=sxhh
-#EXTINF:-1 ,山西经济与科技
-http://149.129.100.78/cutv.php?id=sxjj
-#EXTINF:-1 ,山西影视
-http://149.129.100.78/cutv.php?id=sxys
-#EXTINF:-1 ,山西公共
-http://149.129.100.78/cutv.php?id=sxgg
+
 #EXTINF:-1 ,海南经济
 http://149.129.100.78/hainan.php?id=4
 #EXTINF:-1 ,海南新闻
