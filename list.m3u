@@ -19,10 +19,8 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u
 http://124.232.231.246:6610/000000001001/201500000124/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 ,CCTV-4 中文国际FHD
 http://124.232.231.246:6610/000000001001/201500000204/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 ,CCTV-5 体育FHD
 #EXTINF:-1 ,5
 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-#http://124.232.231.246:6610/000000001001/201500000125/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 ,CCTV-5+ 体育赛事FHD
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
 #EXTINF:-1 ,CCTV-6 电影FHD
@@ -79,7 +77,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,金鹰纪实FHD
 http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京",淘电影
+#EXTINF:-1 group-title="北京" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B7%98%E7%94%B5%E5%BD%B1.png",淘电影
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 ,少女可乐橙
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
@@ -89,11 +87,8 @@ http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv
 #EXTINF:-1 ,斗鱼主播:金庸影视剧  房间号：9356350
 http://dyscdnali1.douyucdn.cn/live/9356350rro4gcIE2.flv?uuid=
-
 #EXTINF:-1 ,斗鱼主播:快进贱  房间号：7517784
 http://dyscdnali1.douyucdn.cn/live/7517784rh5jhmb8R.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:山东蓝翔技工学院  房间号：276200
-http://dyscdnali1.douyucdn.cn/live/276200rKUd51od61.flv?uuid=
 #EXTINF:-1 ,庆余年
 http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv?uuid=
 #EXTINF:-1 ,西红柿
@@ -110,26 +105,12 @@ http://dyscdnali1.douyucdn.cn/live/36337rV0DV1Tki6h.flv
 http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv
 #EXTINF:-1 ,橙子
 http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv
-#EXTINF:-1 ,钟无艳
-http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
-#EXTINF:-1 ,斗鱼主播:4K超清  房间号：925724
-http://dyscdnali1.douyucdn.cn/live/925724rabwN9Xmww.flv?uuid=
-
-#EXTINF:-1 ,斗鱼主播:s1134  房间号：248753
-http://dyscdnali1.douyucdn.cn/live/248753r2UKJyk9Xv.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:春卷大师  房间号：52787
-http://dyscdnali1.douyucdn.cn/live/52787rycyDIEdggE.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:冯人苑  房间号：9292499
-http://dyscdnali1.douyucdn.cn/live/9292499rA3CRSENF.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:酷炫小剧场  房间号：36337
 http://dyscdnali1.douyucdn.cn/live/36337rV0DV1Tki6h.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:萌小鬼  房间号：3928
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-
 #EXTINF:-1 ,虎牙1主播:11352960  房间号：11352960
 http://121.12.115.156/tx.hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8
-#EXTINF:-1 ,斗鱼主播:开森的Mia  房间号：6537888
-http://dyscdnali1.douyucdn.cn/live/6537888rde30qEG7.flv?uuid=
 #EXTINF:-1 ,电影轮播1
 http://121.12.115.156/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
 #EXTINF:-1 ,_电影轮播3
@@ -148,8 +129,6 @@ http://121.12.115.156/tx.hls.huya.com/src/1448737814-1448737814-6222281531608530
 http://121.12.115.156/tx.hls.huya.com/src/1394575539-1394575539-5989656331806572544-2789274534-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影轮播_16
 http://121.12.115.156/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 ,电影轮播_17
-http://121.12.115.156/tx.hls.huya.com/src/1199513200411-1199513200411-5228370320573857792-2399026524278-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影轮播_19
 http://121.12.115.156/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
 #EXTINF:-1 ,电影轮播_21
@@ -820,8 +799,6 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
-#EXTINF:-1 ,天映经典HD
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 ,寰宇新闻台
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 #EXTINF:-1 ,三立台湾
@@ -838,32 +815,19 @@ http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 ,Astro欢喜
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6.png" group-title="教育",清华大学电视台
+#EXTINF:-1 group-title="教育" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6.png",清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉HD
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉HD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-name="NewTV超级电影" group-title="NewTV",NewTV超级电影
+#EXTINF:-1 group-title="NewTV",NewTV超级电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
-
-#EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="NewTV",NewTV超级电视剧
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
 http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
-
 #EXTINF:-1 group-title="4K超清",LOVE4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
-
 #EXTINF:-1 group-title="4K超清",荆门樱花4K
 http://117.136.154.101:80/wh7f454c46tw2373653238_351197778/PLTV/88888888/224/3221225800/index.m3u8?icpid=88888888&RTS=1628353324&from=1&hms_devid=463&vqe=3
-
-#EXTINF:-1 group-title="影视频道",微视电影HD
-http://107.167.5.66:80/mylive/102/2061/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="影视频道",黑莓电影
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png",黑莓电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 #EXTINF:-1 group-title="影视频道",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-
-
