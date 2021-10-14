@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
+#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
 #EXTINF:-1 ,CCTV1 4M1080
 #http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8
 #EXTINF:-1 ,CCTV1 4M1080
@@ -8,31 +8,30 @@ http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
 #EXTINF:-1 ,CCTV1 4M1080
 #http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225888/index.m3u8
 ##EXTINF:-1 ,CCTV1 8M1080
-#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
 #EXTINF:-1 ,CCTV2 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225657/index.m3u8
+#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225657/index.m3u8
 ##EXTINF:-1 ,CCTV2 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8
 #EXTINF:-1 ,CCTV3 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225713/index.m3u8
+#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225713/index.m3u8
 #EXTINF:-1 ,CCTV3 8M1080
-#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8
 #EXTINF:-1 ,CCTV4 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225761/index.m3u8
+#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225761/index.m3u8
 #EXTINF:-1 ,CCTV4 8M1080
-#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
 #EXTINF:-1 ,CCTV5 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225660/index.m3u8
+$http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225660/index.m3u8
 #EXTINF:-1 ,CCTV5 4M1080
 $http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225712/index.m3u8
 #EXTINF:-1 ,CCTV5 8M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225680/index.m3u8
+#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225680/index.m3u8
 #EXTINF:-1 ,CCTV5 11M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8
 #EXTINF:-1 ,CCTV5+ 8M1080
-#http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8
-#EXTINF:-1 ,CCTV6 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225715/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV6 4M1080http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225715/index.m3u8
 #EXTINF:-1 ,CCTV6 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8
 #EXTINF:-1 ,CCTV7 4M1080
