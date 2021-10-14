@@ -904,6 +904,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 #EXTINF:-1 group-title="电影",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 -------------------------------------------------------------------
+#EXTM3U
 #EXTINF:-1 group-title="上海频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",上海东方影视
@@ -952,7 +953,6 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jingsepd/1300000/mnf.m3u
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="上海频道",东方财经
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
-
 #EXTINF:-1 ,HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="数字" tvg-logo="https://gitee.com/tyy85550424/IPTV/raw/master/logo/北京IPTV4K超清.png",北京IPTV4K超清
@@ -977,9 +977,6 @@ http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 group-title="数字" tvg-logo="https://gitee.com/tyy85550424/IPTV/raw/master/logo/CHC动作电影.png",CHC动作电影
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-
-
-
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
@@ -1028,10 +1025,6 @@ https://api.leonardpark.dev/live/icable/108
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",无线财经资讯台
 http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河
-http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
@@ -1040,10 +1033,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-#EXTINF:-1 group-title="香港" tvg-logo="https://www.tvchinese.net/uploads/tv/rhk31.jpg",RTHK31
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://www.tvchinese.net/uploads/tv/rhk31.jpg",RTHK31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://rb.gy/pqjvze",港台電視31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://www.tvchinese.net/uploads/tv/rhk32.jpg",RTHK32
@@ -1110,8 +1099,6 @@ http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 group-title="台湾",HBO SIG
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-#EXTINF:-1 group-title="台湾",天映电影
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 group-title="台湾",星空卫视
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png",TV5monde
@@ -1180,8 +1167,6 @@ http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TVHD
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="未分类",boo恐怖片HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="未分类",八度空间HD
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 group-title="未分类",双星HD
@@ -1200,14 +1185,10 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 group-title="未分类",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="未分类",CeriaHD
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 group-title="未分类",PrimaHD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 group-title="未分类",OasisHD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="未分类",CitraHD
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 group-title="未分类",ASTro港剧台
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 group-title="未分类",澳视资讯
