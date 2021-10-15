@@ -1835,3 +1835,160 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png",Garfield and Friends
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+-----------------------------------------------
+#EXTM3U
+#EXTINF:-1 group-title="港澳台备用2",Now爆谷台
+http://sytv.xtvants.fun/mytv.php?id=nowbg&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",Now財經台
+http://sytv.xtvants.fun/mytv.php?id=nowcj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",Now爆谷台
+http://sytv.xtvants.fun/mytv.php?id=nowbg&token=qq3036107507&user=fmys
+#EXTINF:-1 group-title="港澳台备用源2",无线新闻
+http://v3948069e.live.126.net/live/hod900.flv
+#EXTINF:-1 group-title="港澳台备用源2",无线财经
+http://v3948069e.live.126.net/live/scypfjyv66589621/7.flv
+#EXTINF:-1 group-title="港澳台备用源2",Viutv
+http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
+#EXTINF:-1 group-title="港澳台备用源2",ViuTVsix
+http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
+#EXTINF:-1 group-title="港澳台备用源2",东森新闻
+http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+#EXTINF:-1 group-title="港澳台备用源2",TVBS新闻
+http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+#EXTINF:-1 group-title="港澳台备用源2",三立inew-
+http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
+#EXTINF:-1 group-title="港澳台备用源2",三立LIVE
+http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+#EXTINF:-1 group-title="港澳台备用源2",中天新闻
+http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+#EXTINF:-1 group-title="港澳台备用源2",AXN电影
+http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+#EXTINF:-1 group-title="港澳台备用2",民視第一台
+http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",民視台灣台
+http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",民視新聞台
+http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",民視影劇台
+http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",民視綜藝台
+http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",民視旅遊台
+http://sytv.xtvants.fun/mytv.php?id=msly&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",台視
+http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",台視新聞台
+http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",台視財經台
+http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",台視綜合台
+http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中視
+http://sytv.xtvants.fun/mytv.php?id=zs&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中視新聞台
+http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中視經典台
+http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中視菁采台
+http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",華視
+http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",華視教育體育文化台
+http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",華視新聞資訊台
+http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",公視
+http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",公視台語台
+http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",公視3台
+http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森新聞
+http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森幼幼
+http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森綜合
+http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森戲劇
+http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森超視
+http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森洋片
+http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東森電影
+http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中天新聞
+http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中天綜合台
+http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中天娛樂台
+http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",中天亞洲台
+http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",三立台灣台
+http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",三立都會台
+http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",三立財經台
+http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",三立綜合台
+http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",三立戲劇台
+http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",MTV綜合台
+http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",TVBS新聞台
+http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",TVBS歡樂台
+http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",TVBS
+http://sytv.xtvants.fun/mytv.php?id=tvbs&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",TVBS精采台
+http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",MUCH TV
+http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",JET綜合台
+http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",東風衛視
+http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",壹新聞
+http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",壹電影
+http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",非凡新聞台
+http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",非凡商業台
+http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",寰宇新聞台
+http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",寰宇新聞台灣台
+http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",亞洲旅遊台
+http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",龍華戲劇
+http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",龍華偶像
+http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",龍華電影
+http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",龍華洋片
+http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",龍華影劇
+http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",龍華動畫
+http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",高點綜合台
+http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+id=gdyl&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",采昌影劇台
+http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",影迷數位電影台
+http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",CATCHPLAY電影台
+http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",霹靂台灣台
+http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",Z頻道
+http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
+#EXTINF:-1 group-title="港澳台备用2",衛視電影台
+http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
