@@ -11,7 +11,9 @@ http://3954-out.liveplay.myqcloud.com/live/3954_805947869.flv?bizid=3954&txSecre
 http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=dccf9299608215466dcfbd64d0b978d0&txTime=6174917e
 #EXTINF:-1 ,QQ电影_7
 http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=91d3accda48f9f8c6072d0eb02afdbaf&txTime=61723a99
-#EXTM3U
+#EXTINF:-1 ,qq电影_12
+http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=25a7c296c4537daa23ab6a07de72f31a&txTime=6166ffbf
+
 #EXTINF:-1 ,斗鱼 :少女可乐橙  房间号：20415
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 #EXTINF:-1 ,斗鱼 :伊太刀刀  房间号：747764
@@ -24,14 +26,8 @@ http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/338759rVVY6JMrOB.flv?uuid=
 #EXTINF:-1 ,斗鱼 :橙幕Orange丶  房间号：4549169
 http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
-#EXTINF:-1 ,斗鱼 :吃米滴虫  房间号：315457
-http://dyscdnali1.douyucdn.cn/live/315457rKVDx61O3D.flv?uuid=
-#EXTINF:-1 ,斗鱼 :吃奶滴虫  房间号：263824
-http://dyscdnali1.douyucdn.cn/live/263824rRfZVWVD72.flv?uuid=
 #EXTINF:-1 ,斗鱼 :疯狂小潴潴  房间号：5522351
 http://dyscdnali1.douyucdn.cn/live/5522351rhBSwwzpK.flv?uuid=
-#EXTINF:-1 ,斗鱼 :金庸影视剧  房间号：9356350
-http://dyscdnali1.douyucdn.cn/live/9356350rro4gcIE2.flv?uuid=
 #EXTINF:-1 ,斗鱼 :进击の神乐  房间号：122402
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 #EXTINF:-1 ,斗鱼 :进击的神乐  房间号：85894
@@ -42,12 +38,8 @@ http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 #EXTINF:-1 ,斗鱼 :特辑电影院  房间号：3637778
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 ,斗鱼 :无双十三香  房间号：4870914
-http://dyscdnali1.douyucdn.cn/live/4870914rIvDhNv5D.flv?uuid=
 #EXTINF:-1 ,斗鱼 :小小亭长  房间号：5802446
 http://dyscdnali1.douyucdn.cn/live/5802446rob8CiPIt.flv?uuid=
-#EXTINF:-1 ,虎牙 :880261  房间号：880261
-http://121.12.115.156/tx.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1-imgplus.m3u8
 #EXTINF:-1 ,虎牙 :880261  房间号：11352895
 http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
 #EXTINF:-1 ,虎牙 :11336719  房间号：11336719
@@ -76,24 +68,10 @@ http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134
 http://121.12.115.156/tx.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8
 #EXTINF:-1 ,虎牙 :11601968  房间号：11601968
 http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,斗鱼 :I凌云渡I  房间号：785252
-http://dyscdnali1.douyucdn.cn/live/785252ri9I8XqAe2.flv?uuid=
-#EXTINF:-1 ,斗鱼 :s1134  房间号：248753
-http://dyscdnali1.douyucdn.cn/live/248753rBe8VuNtzU.flv?uuid=
-#EXTINF:-1 ,斗鱼 :UHD杜比视界  房间号：9249162
-http://dyscdnali1.douyucdn.cn/live/9249162rT8gKOXXQ.flv?uuid=
-#EXTINF:-1 ,斗鱼 :安全套不套  房间号：5423
-http://dyscdnali1.douyucdn.cn/live/5423ridavNtCgufP.flv?uuid=
 #EXTINF:-1 ,斗鱼 :尽整没用D  房间号：8791622
 http://dyscdnali1.douyucdn.cn/live/8791622rssv1a4mZ.flv?uuid=
 #EXTINF:-1 ,斗鱼 :冯人苑  房间号：9292499
 http://dyscdnali1.douyucdn.cn/live/9292499rTME2RFSF.flv?uuid=
-#EXTINF:-1 ,斗鱼 :春卷大师  房间号：52787
-http://dyscdnali1.douyucdn.cn/live/52787rSqVS41yYNv.flv?uuid=
-#EXTINF:-1 ,斗鱼 :苟或不是狗货  房间号：3811092
-http://dyscdnali1.douyucdn.cn/live/3811092rwDeFSS9w.flv?uuid=
-#EXTINF:-1 ,斗鱼 :开森的Mia  房间号：6537888
-http://dyscdnali1.douyucdn.cn/live/6537888ry5MXSE5J.flv?uuid=
 #EXTINF:-1 ,斗鱼 :酷炫小剧场  房间号：36337
 http://dyscdnali1.douyucdn.cn/live/36337r36CnLF8Fwy.flv?uuid=
 #EXTINF:-1 ,斗鱼 :快进贱  房间号：7517784
@@ -104,50 +82,7 @@ http://dyscdnali1.douyucdn.cn/live/252802rEexzyHKKd.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/4332rWCw38qxvXHu.flv?uuid=
 #EXTINF:-1 ,斗鱼 :苹果Zei妖  房间号：2793084
 http://dyscdnali1.douyucdn.cn/live/2793084rJegSdlU0.flv?uuid=
-#EXTINF:-1 ,斗鱼 :山东蓝翔技工学院  房间号：276200
-http://dyscdnali1.douyucdn.cn/live/276200r1znt2NDRV.flv?uuid=
-#EXTINF:-1 ,斗鱼 :双门洞凤凰堂胡里  房间号：7292330
-http://dyscdnali1.douyucdn.cn/live/7292330ri59SU0Ng.flv?uuid=
 #EXTINF:-1 ,斗鱼 :小阳聪  房间号：7673566
 http://dyscdnali1.douyucdn.cn/live/7673566rjl17Socb.flv?uuid=
-#EXTINF:-1 ,斗鱼 :新手村头号玩家  房间号：562225
-http://dyscdnali1.douyucdn.cn/live/562225r4GFM0M7J6.flv?uuid=
 #EXTINF:-1 ,罪人
 https://qqgame.gzc.svp.tencent-cloud.com/szg_8568_50001_0bf2vyaasaaafqadav23ijqvdlwdbgxaacka.f0.mp4?x-security-token=MTYzMzYyMjc3MzkwM2M0MzVlOTU1LTUxN2MtNGQ5Yi04MzhhLWFjZDNhYzg2MzEwZjE2MzM2MjI3NzM5MDNlYTFhOTFlOS00OTQ5LTQ0NjMtOTZmZS1iMzkwNjNmMmQzMTc%3d&response-content-disposition=attachment%3Bfilename%2A%3Dutf-8%27%273ac9a69ba11f4ff99c619f44d7a89b49.mp4&AccessKeyId=AKLTyz9w352bT_GJVfB-QVoo7A&Expires=1633622773903&Signature=02ce181db6b34b65af68809f650f167e
-#EXTINF:-1 ,失控玩家
-https://ddystv-my.sharepoint.com/personal/admin_ddystv_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=f9f2619a-cad1-4ad3-8331-d6175922db20&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZGR5c3R2LW15LnNoYXJlcG9pbnQuY29tQDFkMGYzOWE2LTA0ZDAtNGFjNS1iNzRlLWRhZGQzN2JkODZhZiIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2MzM2MjM0MjkiLCJleHAiOiIxNjMzNjI3MDI5IiwiZW5kcG9pbnR1cmwiOiJ4R2p3ekRPTHdPWmRXVmVHNFFveUx2MlJhQ1pvUjZCTjNTYStzWTJnS1pVPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTU4IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJPREEyTmpZeVpUSXROVE01WVMwME4yUTVMVGs1Wm1JdFlqUmpNMll4Tm1ZM1lUSmgiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTTJRd1lXWTRaREl0WXpSalpTMDBZalJsTFdFMU5HSXROVEEzTkdNMU1ERXdNMk0xIiwiYXBwX2Rpc3BsYXluYW1lIjoib2QiLCJnaXZlbl9uYW1lIjoi5YagIiwiZmFtaWx5X25hbWUiOiLnjosiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiIzOTAzNjEwYy02NGVjLTQ3OWUtOGU0MC01OWEwM2FlZDAxYWUiLCJ0aWQiOiIxZDBmMzlhNi0wNGQwLTRhYzUtYjc0ZS1kYWRkMzdiZDg2YWYiLCJ1cG4iOiJhZG1pbkBkZHlzdHYub25taWNyb3NvZnQuY29tIiwicHVpZCI6IjEwMDMyMDAwOEFBRDk1RkYiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMDhhYWQ5NWZmQGxpdmUuY29tIiwic2NwIjoiYWxsZmlsZXMud3JpdGUiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsLCJpcGFkZHIiOiIyMC4xOTAuMTMyLjQxIn0.eVYxZnBxTk1EK09BSTZQMUJTdXVEVGtpbVFTeDdSNnpjVzV3V1F4YVBZcz0&ApiVersion=2.0
-#EXTM3U
-#EXTINF:-1 ,qq电影_4
-http://3954-out.liveplay.myqcloud.com/live/3954_616289265_1024p.flv?bizid=3954&txSecret=86a073cf1aae63037f079d29b5e93d45&txTime=6167a025
-#EXTINF:-1 ,qq电影_7
-http://3954-out.liveplay.myqcloud.com/live/3954_805947869.flv?bizid=3954&txSecret=4a192d002b2c4ad5c5d298e568f3e0ec&txTime=61693fcf
-#EXTINF:-1 ,qq电影_1
-http://3954-out.liveplay.myqcloud.com/live/3954_145086784.flv?bizid=3954&txSecret=62a60356c962f3eb508f08129eb53acd&txTime=61683a3b
-#EXTINF:-1 ,qq电影_2
-http://3954-out.liveplay.myqcloud.com/live/3954_648638602.flv?bizid=3954&txSecret=9f729a4fb310332745e04a3985788c0f&txTime=616920e9
-#EXTINF:-1 ,qq电影_3
-http://3954-out.liveplay.myqcloud.com/live/3954_378052402.flv?bizid=3954&txSecret=1a1f78df6440f28e51b6e68ea873011d&txTime=61666aeb
-#EXTINF:-1 ,qq电影_5
-http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=bf871a89cc25421e5619c304c134fade&txTime=6168745d
-#EXTINF:-1 ,qq电影_6
-http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=2eebe8fda95bc3bcf4a84955ea9e44f3&txTime=6168eb3f
-#EXTINF:-1 ,qq电影_8
-http://3954-out.liveplay.myqcloud.com/live/3954_773206155.flv?bizid=3954&txSecret=8d849557120c65d7b2066eca528100d7&txTime=6168ff44
-#EXTINF:-1 ,qq电影_9
-http://3954-out.liveplay.myqcloud.com/live/3954_534943600.flv?bizid=3954&txSecret=d51390adba091bc71de3d33e8ccbb894&txTime=616967bc
-#EXTINF:-1 ,qq电影_10
-http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=39e85d68fb945142ba3e9cddf0f01d22&txTime=61687468
-#EXTINF:-1 ,qq电影_11
-http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=0367555d7fba63448c98498fcaff542c&txTime=6164c279
-#EXTINF:-1 ,qq电影_12
-http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=25a7c296c4537daa23ab6a07de72f31a&txTime=6166ffbf
-#EXTINF:-1 ,qq电影_13
-http://3954-out.liveplay.myqcloud.com/live/3954_420858479.flv?bizid=3954&txSecret=bcde9ee2d040222b0516da88f4071259&txTime=616979b9
-#EXTINF:-1 ,qq电影_14
-http://3954-out.liveplay.myqcloud.com/live/3954_332228056.flv?bizid=3954&txSecret=3ad0ee1946c70f6caa3d856c036af6c6&txTime=616965c0
-#EXTINF:-1 ,qq电影_15
-http://3954-out.liveplay.myqcloud.com/live/3954_753365325.flv?bizid=3954&txSecret=69ea7551f705bd7b7fca4f66b98138f9&txTime=61696a7d
-
-
-
-
