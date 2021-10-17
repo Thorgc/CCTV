@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 ,QQ电影_1
+http://3954-out.liveplay.myqcloud.com/live/3954_145086784.flv?bizid=3954&txSecret=0b61c09adea88d0507f2abb21691d911&txTime=617427bb
+#EXTINF:-1 ,QQ电影_2
+http://3954-out.liveplay.myqcloud.com/live/3954_616289265.flv?bizid=3954&txSecret=51156a0e5b01373deefbdccdc831b8a3&txTime=61736a1c
+#EXTINF:-1 ,QQ电影_3
+http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=68aca8b4ef7ece13518b56f297fc6e9c&txTime=6173fcc7
+#EXTINF:-1 ,QQ电影_5
+http://3954-out.liveplay.myqcloud.com/live/3954_805947869.flv?bizid=3954&txSecret=5bcdc15046b7b9ddcf4cebe8c1d43e0b&txTime=61748025
+#EXTINF:-1 ,QQ电影_6
+http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=dccf9299608215466dcfbd64d0b978d0&txTime=6174917e
+#EXTINF:-1 ,QQ电影_7
+http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=91d3accda48f9f8c6072d0eb02afdbaf&txTime=61723a99
+#EXTM3U
 #EXTINF:-1 ,斗鱼 :少女可乐橙  房间号：20415
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 #EXTINF:-1 ,斗鱼 :伊太刀刀  房间号：747764
