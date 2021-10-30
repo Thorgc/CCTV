@@ -1,165 +1,143 @@
 #EXTM3U
-#EXTINF:-1 ,QQ电影_1
-http://3954-out.liveplay.myqcloud.com/live/3954_145086784.flv?bizid=3954&txSecret=0b61c09adea88d0507f2abb21691d911&txTime=617427bb
-#EXTINF:-1 ,QQ电影_2
-http://3954-out.liveplay.myqcloud.com/live/3954_616289265.flv?bizid=3954&txSecret=51156a0e5b01373deefbdccdc831b8a3&txTime=61736a1c
-#EXTINF:-1 ,QQ电影_3
-http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=68aca8b4ef7ece13518b56f297fc6e9c&txTime=6173fcc7
-#EXTINF:-1 ,QQ电影_5
-http://3954-out.liveplay.myqcloud.com/live/3954_805947869.flv?bizid=3954&txSecret=5bcdc15046b7b9ddcf4cebe8c1d43e0b&txTime=61748025
-#EXTINF:-1 ,QQ电影_6
-http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=dccf9299608215466dcfbd64d0b978d0&txTime=6174917e
-#EXTINF:-1 ,QQ电影_7
-http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=91d3accda48f9f8c6072d0eb02afdbaf&txTime=61723a99
-#EXTINF:-1 ,qq电影_12http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=25a7c296c4537daa23ab6a07de72f31a&txTime=6166ffbf
-
-#EXTINF:-1 ,斗鱼 :少女可乐橙  房间号：20415
-http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-#EXTINF:-1 ,斗鱼 :伊太刀刀  房间号：747764
-http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
-#EXTINF:-1 ,斗鱼 :baby丶贝贝  房间号：431460
-http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv?uuid=
-#EXTINF:-1 ,斗鱼 :Rainsunn  房间号：323876
-http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
-#EXTINF:-1 ,斗鱼 :傲娇的虾虾  房间号：338759
-http://dyscdnali1.douyucdn.cn/live/338759rVVY6JMrOB.flv?uuid=
-#EXTINF:-1 ,斗鱼 :橙幕Orange丶  房间号：4549169
-http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
-#EXTINF:-1 ,斗鱼 :疯狂小潴潴  房间号：5522351
-http://dyscdnali1.douyucdn.cn/live/5522351rhBSwwzpK.flv?uuid=
-#EXTINF:-1 ,斗鱼 :进击の神乐  房间号：122402
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 ,斗鱼 :进击的神乐  房间号：85894
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 ,斗鱼 :么奶瓶  房间号：7644931
-http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv?uuid=
-#EXTINF:-1 ,斗鱼 :萌小鬼  房间号：3928
-http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 ,斗鱼 :特辑电影院  房间号：3637778
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 ,斗鱼 :小小亭长  房间号：5802446
-http://dyscdnali1.douyucdn.cn/live/5802446rob8CiPIt.flv?uuid=
-#EXTINF:-1 ,虎牙 :880261  房间号：11352895
-http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11336719  房间号：11336719
-http://121.12.115.156/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,虎牙 :11342387  房间号：11342387
-http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,虎牙 :11342387  房间号：11352959
-http://121.12.115.156/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11342419  房间号：11342419
-http://121.12.115.156/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11342424  房间号：11342424
-http://121.12.115.156/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11342424  房间号：11602034
-http://121.12.115.156/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11342427  房间号：11342427
-http://121.12.115.156/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,虎牙 :11352877  房间号：11352877
-http://121.12.115.156/tx.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11352886  房间号：11352886
-http://121.12.115.156/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,虎牙 :11352886  房间号：11352941
-http://121.12.115.156/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11352935  房间号：11352935
-http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,虎牙 :11352941  房间号：11602036
-http://121.12.115.156/tx.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8
-#EXTINF:-1 ,虎牙 :11601968  房间号：11601968
-http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 ,斗鱼 :尽整没用D  房间号：8791622
-http://dyscdnali1.douyucdn.cn/live/8791622rssv1a4mZ.flv?uuid=
-#EXTINF:-1 ,斗鱼 :冯人苑  房间号：9292499
-http://dyscdnali1.douyucdn.cn/live/9292499rTME2RFSF.flv?uuid=
-#EXTINF:-1 ,斗鱼 :酷炫小剧场  房间号：36337
-http://dyscdnali1.douyucdn.cn/live/36337r36CnLF8Fwy.flv?uuid=
-#EXTINF:-1 ,斗鱼 :快进贱  房间号：7517784
-http://dyscdnali1.douyucdn.cn/live/7517784rh5jhmb8R.flv?uuid=
-
-
-#EXTINF:-1 ,斗鱼 :狂拽酷炫  房间号：4332
-http://dyscdnali1.douyucdn.cn/live/4332rWCw38qxvXHu.flv?uuid=
-#EXTINF:-1 ,斗鱼 :苹果Zei妖  房间号：2793084
-http://dyscdnali1.douyucdn.cn/live/2793084rJegSdlU0.flv?uuid=
-
-#EXTM3U
 #EXTINF:-1 ,斗鱼_1
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=925724
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 #EXTINF:-1 ,斗鱼_2
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6763930
-#EXTINF:-1 ,斗鱼_3
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=122402
-#EXTINF:-1 ,斗鱼_4
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=85894
-#EXTINF:-1 ,斗鱼_6
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=263824
-#EXTINF:-1 ,斗鱼_7
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=747764
-#EXTINF:-1 ,斗鱼_8
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=323876
-#EXTINF:-1 ,斗鱼_9
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=20415
-#EXTINF:-1 ,斗鱼_10
 http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
-#EXTINF:-1 ,斗鱼_11
-http://dyscdnali1.douyucdn.cn/live/263824rRfZVWVD72.flv?uuid=
+#EXTINF:-1 ,斗鱼_3
+http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
+#EXTINF:-1 ,斗鱼_4
+http://dyscdnali1.douyucdn.cn/live/7517784rIbt7mgpX.flv?uuid=
+#EXTINF:-1 ,斗鱼_5
+http://dyscdnali1.douyucdn.cn/live/252802rQOL4akKz2.flv?uuid=
+#EXTINF:-1 ,斗鱼_6
+http://dyscdnali1.douyucdn.cn/live/276200r4L53CLiCy.flv?uuid=
+#EXTINF:-1 ,斗鱼_7
+http://dyscdnali1.douyucdn.cn/live/315457rtOkUP9dtx.flv?uuid=
+#EXTINF:-1 ,斗鱼_8
+http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv?uuid=
+#EXTINF:-1 ,斗鱼_9
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+#EXTINF:-1 ,斗鱼_10
+http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 #EXTINF:-1 ,斗鱼_12
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/288016rlols5.flv?uuid=
 #EXTINF:-1 ,斗鱼_13
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 #EXTINF:-1 ,斗鱼_14
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/263824rvcnE5WlGq.flv?uuid=
 #EXTINF:-1 ,斗鱼_15
-http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 #EXTINF:-1 ,斗鱼_16
-http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
 #EXTINF:-1 ,斗鱼_17
-http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/36337rr7LC6LPT0Z.flv?uuid=
+#EXTINF:-1 ,斗鱼_19
+http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 #EXTINF:-1 ,斗鱼_20
-http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/6537888rLgCcfB6r.flv?uuid=
 #EXTINF:-1 ,斗鱼_21
-http://dyscdnali1.douyucdn.cn/live/315457rKVDx61O3D.flv?uuid=
-#EXTINF:-1 ,斗鱼_22
-http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-#EXTINF:-1 ,斗鱼_23
-http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv?uuid=
 #EXTINF:-1 ,斗鱼_25
-http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
-#EXTINF:-1 ,斗鱼_26
-http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
+http://dyscdnali1.douyucdn.cn/live/248753rz50pe6jOK.flv?uuid=
 #EXTINF:-1 ,斗鱼_27
-http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
-#EXTINF:-1 ,斗鱼_28
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=206858
-#EXTINF:-1 ,斗鱼_29
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6449849
+http://dyscdnali1.douyucdn.cn/live/2793084rVySUF4pt.flv?uuid=
 #EXTINF:-1 ,斗鱼_30
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
+http://dyscdnali1.douyucdn.cn/live/562225riWzlQB9A6.flv?uuid=
 #EXTINF:-1 ,斗鱼_31
-http://epg.112114.xyz/bili/21759196
-#EXTINF:-1 ,斗鱼_32
-http://epg.112114.xyz/bili/193
+http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
 #EXTINF:-1 ,斗鱼_33
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/bilibili.php?tvplay=193
-#EXTINF:-1 ,斗鱼_34
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=4246519
-#EXTINF:-1 ,斗鱼_35
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=218859
+http://121.12.115.156/tx.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1-imgplus.m3u8
 #EXTINF:-1 ,斗鱼_36
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
+http://al.flv.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.flv?wsSecret=7c6d5df783e164f1f6e11f64f181dcb2&wsTime=617e819c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103
 #EXTINF:-1 ,斗鱼_37
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=9249162
+http://al.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.flv?wsSecret=9e5715ddc60a2b8bf9b0a95c15271b26&wsTime=617e8184&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 #EXTINF:-1 ,斗鱼_38
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 ,斗鱼_40
-http://zzy789.xyz/douyu1.php?id=9249162
+http://121.12.115.156/tx.hls.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_39
+http://dyscdnali1.douyucdn.cn/live/52787rJ9rlhA9vZq.flv?uuid=
 #EXTINF:-1 ,斗鱼_41
-http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u8
-#EXTINF:-1 ,斗鱼_42
-http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 ,斗鱼_44
-http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 ,斗鱼 :狂仔酷炫  房间号：252802
-http://dyscdnali1.douyucdn.cn/live/252802rMsnHoYwQK.flv?uuid=
-#EXTINF:-1 ,斗鱼 :小阳聪  房间号：7673566
-http://dyscdnali1.douyucdn.cn/live/7673566rWJBC0ctI.flv?uuid=
+http://121.12.115.156/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_43
+http://121.12.115.156/tx.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_45
+http://dyscdnali1.douyucdn.cn/live/4870914rkDeZhZOa.flv?uuid=
+#EXTINF:-1 ,斗鱼_46
+http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,斗鱼_47
+http://al.flv.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.flv?wsSecret=c88807ed8476c1bc1f1aa71b1082aa62&wsTime=617e8198&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+#EXTINF:-1 ,斗鱼_48
+http://121.12.115.156/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_49
+http://al.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.flv?wsSecret=09939234ffa5a0bb01866d7a91f86554&wsTime=617e8191&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&t=103
+#EXTINF:-1 ,斗鱼_51
+http://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=a82ab65b317210c5716a1a66d7bcf8e3&wsTime=617e8182&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+#EXTINF:-1 ,斗鱼_52
+http://121.12.115.156/tx.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_53
+http://al.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=e2044d28e5af18d3a24278e74a2a8be6&wsTime=617e8196&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq5%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+#EXTINF:-1 ,斗鱼_54
+http://121.12.115.156/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_55
+http://121.12.115.156/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,斗鱼_56
+http://dyscdnali1.douyucdn.cn/live/9290474rUoSmlfQ6.flv?uuid=
+#EXTINF:-1 ,斗鱼_57
+http://121.12.115.156/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,斗鱼_58
+http://121.12.115.156/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_59
+http://121.12.115.156/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,斗鱼_60
+http://dyscdnali1.douyucdn.cn/live/785252r9JuReTgVR.flv?uuid=
+#EXTINF:-1 ,斗鱼_61
+http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,斗鱼_63
+http://al.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv?wsSecret=e2b239b03ffb4e8118e70c6ce3d1b822&wsTime=617e81a2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An112%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+#EXTINF:-1 ,斗鱼_64
+http://al.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.flv?wsSecret=b5c7c20edb63e3abda6e1f51eb446cbb&wsTime=617e8192&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+#EXTINF:-1 ,斗鱼_65
+http://121.12.115.156/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,斗鱼_66
+http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,斗鱼_67
+http://dyscdnali1.douyucdn.cn/live/5802446rG2tvZ7MJ.flv?uuid=
+#EXTINF:-1 ,斗鱼_68
+http://dyscdnali1.douyucdn.cn/live/4332rPBjZrC9QzDi.flv?uuid=
+#EXTINF:-1 ,斗鱼_69
+http://dyscdnali1.douyucdn.cn/live/5423r8sBLXp4iG62.flv?uuid=
+#EXTINF:-1 ,斗鱼_71
+http://dyscdnali1.douyucdn.cn/live/8791622r6XjTAFwu.flv?uuid=
+#EXTINF:-1 ,斗鱼_75
+http://dyscdnali1.douyucdn.cn/live/9249162rF0YG8umM.flv?uuid=
+#EXTINF:-1 ,斗鱼_76
+http://dyscdnali1.douyucdn.cn/live/9356350r89TAoIJW.flv?uuid=
+#EXTINF:-1 ,斗鱼_86
+http://dyscdnali1.douyucdn.cn/live/7673566rrKslUvju.flv?uuid=
+#EXTINF:-1 ,斗鱼_87
+http://3954-out.liveplay.myqcloud.com/live/3954_145086784.flv?bizid=3954&txSecret=ec99bed7b89e963f5bcd4c536ba9c8c2&txTime=617fe436
+#EXTINF:-1 ,斗鱼_90
+http://dyscdnali1.douyucdn.cn/live/338759rVVY6JMrOB.flv?uuid=
+#EXTINF:-1 ,斗鱼_91
+http://3954-out.liveplay.myqcloud.com/live/3954_616289265.flv?bizid=3954&txSecret=bddbc4744db668c86f130b345e791e32&txTime=6184cb5f
+#EXTINF:-1 ,斗鱼_93
+http://dyscdnali1.douyucdn.cn/live/508118ran5RpkYQj.flv?uuid=
+#EXTINF:-1 ,斗鱼_94
+http://dyscdnali1.douyucdn.cn/live/7292330re5C6izIf.flv?uuid=
+#EXTINF:-1 ,斗鱼_95
+http://dyscdnali1.douyucdn.cn/live/5522351rhBSwwzpK.flv?uuid=
+#EXTINF:-1 ,斗鱼_109
+http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=a72f661529de71f12ad7052e9161cfb9&txTime=61862478
+#EXTINF:-1 ,斗鱼_111
+http://3954-out.liveplay.myqcloud.com/live/3954_805947869.flv?bizid=3954&txSecret=d3369c64eb5f671ef51ea5e890298179&txTime=6184ef64
+#EXTINF:-1 ,斗鱼_112
+http://3954-out.liveplay.myqcloud.com/live/3954_773206155.flv?bizid=3954&txSecret=275834e71f58a2720e77a271d7d0d29b&txTime=6186691a
+#EXTINF:-1 ,斗鱼_113
+http://3954-out.liveplay.myqcloud.com/live/3954_534943600.flv?bizid=3954&txSecret=8d9f4d322c682cf5b14c197ca094d070&txTime=61865f9c
+#EXTINF:-1 ,斗鱼_114
+http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=fc5c68debcf455703a1381831a164218&txTime=61850b6b
+#EXTINF:-1 ,斗鱼_115
+http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=9a415007638f3e0f1d615af5756a768c&txTime=6184607b
+#EXTINF:-1 ,斗鱼_116
+http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=821ff28e48ef94e83a196009684983d4&txTime=61835141
+#EXTINF:-1 ,斗鱼_117
+http://3954-out.liveplay.myqcloud.com/live/3954_753365325.flv?bizid=3954&txSecret=9b0da26582464af7f46e0856419d7732&txTime=618664c9
