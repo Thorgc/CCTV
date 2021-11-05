@@ -89,6 +89,43 @@ http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecre
 http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=39e85d68fb945142ba3e9cddf0f01d22&txTime=61687468
 #EXTINF:-1 ,qq电影_12
 http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=25a7c296c4537daa23ab6a07de72f31a&txTime=6166ffbf
+上视东方影视,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+
+上视新闻综合,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+
+上视第一财经,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+
+上视纪实人文,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+
+上视全纪实,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+
+上视都市频道,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+
+上视ICS,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+
+上视五星体育,[http://116.128.128.197/liveplay- ... ty/4000000/mnf.m3u8](http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+
+上视欢笑剧场,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+
+上视都市剧场,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+
+上视幸福彩,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+
+上视MAX极速汽车,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+
+上视劲爆体育,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+
+上视新视觉体育,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+
+上视魅力足球,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+上视游戏风云,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+
+上视生活时尚,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+
+上视动漫秀场,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+
+上视哈哈炫动,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="电影",北京IPTV 淘电影 group-title="电影"
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
 #EXTINF:-1 group-title="电影",北京IPTV 4K超清 group-title="电影"
@@ -147,6 +184,7 @@ http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 #EXTINF:-1 group-title="省市TV",南安卫视
 http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
+
 #EXTINF:-1 ,上海外语HD
 http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 ,上海新闻
