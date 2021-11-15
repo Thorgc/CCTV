@@ -1,87 +1,41 @@
-11352960,
-http://121.12.115.156/tx.hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u
-
-电影1,
-https://d1--cn-gotcha103.bilivideo.com/live-bvc/424963/live_384369100_33341192.m3u8?cdn=cn-gotcha03&expires=1632043534&len=0&oi=2071243976&pt=h5&qn=10000&trid=10034466d9ed3b624d36b5378493f64556ea&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=82ece4fe23207169485700f882beebdc&ptype=0&src=5&sl=2&sk=1593498ff295bb76a79ee7e66b973eac&order=4
-电影12,
-https://d1--cn-gotcha103.bilivideo.com/live-bvc/226583/live_334056_8894439.m3u8?cdn=cn-gotcha03&expires=1632043704&len=0&oi=2071243976&pt=h5&qn=10000&trid=100380859a125a02402b968bcd6560f78d2a&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=2dc76c5fccc44a1ee85a161b3c7a9423&ptype=0&src=9&sl=1&sk=7447800cf0c1f01f93de64f3f13e39f0&order=4
-电影13,
-https://d1--cn-gotcha103.bilivideo.com/live-bvc/754534/live_252582133_1552126.m3u8?cdn=cn-gotcha03&expires=1632043857&len=0&oi=2071243976&pt=h5&qn=10000&trid=100379844dac72a140649ed436a747ea14f4&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=e6cabb64fdab8bb5e8e75ad0d8df6374&ptype=0&src=9&sl=1&sk=a20972b0b5f71fcfa22e0e321a7a1f55&order=4
-
-
-B站主播:极乐松鼠  房间号：6837959,https://d1--cn-gotcha04.bilivideo.com/live-bvc/598348/live_252582133_1552126.flv?cdn=cn-gotcha04&expires=1631290629&len=0&oi=2071672143&pt=web&qn=10000&trid=1000aef835324aaf4d6ab34c03543c47931a&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=41aa098ce9a91678219c952f38333286&ptype=0&src=9&sl=1&sk=18232a4fcc82e4c037c33d7e083619b4&order=1
-B站主播:蓉城影院  房间号：2456525,http://dyscdnali1.douyucdn.cn/live/5802446rob8CiPIt.flv?uuid=
-3*file*http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
-4*file*http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-5*file*http://121.12.115.156/tx.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1-imgplus.m3u8
-6*file*https://d1--cn-gotcha04.bilivideo.com/live-bvc/166378/live_48240701_1981056.flv?cdn=cn-gotcha04&expires=1631290816&len=0&oi=2071672143&pt=web&qn=10000&trid=1000e82754c213dc4918aa72429f43ac85ad&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=f514ebca0df3d79538b2d4e114e454f5&ptype=0&src=9&sl=1&sk=18232a4fcc82e4c037c33d7e083619b4&order=1
-斗鱼主播:4K超清  房间号：925724,http://dyscdnali1.douyucdn.cn/live/925724rSMZzq3wH1.flv?uuid=
-斗鱼主播:baby丶贝贝  房间号：431460,http://dyscdnali1.douyucdn.cn/live/431460ram1kDKhoD.flv?uuid=
-斗鱼主播:I凌云渡I  房间号：785252,http://dyscdnali1.douyucdn.cn/live/785252rb84UvlISc.flv?uuid=
-斗鱼主播:pipi丫  房间号：9651304,http://dyscdnali1.douyucdn.cn/live/9651304rqXOB5Vrb.flv?uuid=
-斗鱼主播:Rainsunn  房间号：323876,http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid=
-斗鱼主播:s1134  房间号：248753,http://dyscdnali1.douyucdn.cn/live/248753r2UKJyk9Xv.flv?uuid=
-斗鱼主播:安全套不套  房间号：5423,http://dyscdnali1.douyucdn.cn/live/5423rmCz1gLmSJyV.flv?uuid=
-斗鱼主播:傲娇的虾虾  房间号：338759,http://dyscdnali1.douyucdn.cn/live/338759rVVY6JMrOB.flv?uuid=
-斗鱼主播:邦Sa  房间号：5720533,http://dyscdnali1.douyucdn.cn/live/5720533rhMp95s31.flv?uuid=
+斗鱼主播:狂拽酷炫  房间号：4332,http://dyscdnali1.douyucdn.cn/live/4332r2mrBM7tt0Cn.flv?uuid=
+斗鱼主播:苹果Zei妖  房间号：2793084,http://dyscdnali1.douyucdn.cn/live/2793084rXmcC867I.flv?uuid=
+斗鱼主播:快进贱  房间号：7517784,http://dyscdnali1.douyucdn.cn/live/7517784r5QPZOakg.flv?uuid=
+企鹅电竞主播:经典电影放映厅  房间号：795906542,http://3954-out.liveplay.myqcloud.com/live/3954_795906542.flv?bizid=3954&txSecret=dfdc3cb1cbba533eb67a657c5f72e8d0&txTime=6194846b
+企鹅电竞主播:仙魔观影  房间号：436866463,http://3954-out.liveplay.myqcloud.com/live/3954_436866463.flv?bizid=3954&txSecret=fc371857b1af9a1209c16149a4bd6807&txTime=619b1926
+企鹅电竞主播:燕赵無名  房间号：726933692,http://3954-out.liveplay.myqcloud.com/live/3954_726933692.flv?bizid=3954&txSecret=9c835454211620e5ff0571e06bf139cb&txTime=619b7fa4
+斗鱼主播:无双十三香  房间号：4870914,http://dyscdnali1.douyucdn.cn/live/4870914rFxpsYj1V.flv?uuid=
+企鹅电竞主播:是仙言小咸鱼  房间号：482051453,http://3954-out.liveplay.myqcloud.com/live/3954_482051453.flv?bizid=3954&txSecret=5b6e386023c53180217034a85db61f0a&txTime=619b2b64
+企鹅电竞主播:情小  房间号：61708435,http://3954-out.liveplay.myqcloud.com/live/3954_61708435.flv?bizid=3954&txSecret=893f36f9e2c8113ece8a23c349aa260b&txTime=619b0a7e
+斗鱼主播:春卷大师  房间号：52787,http://dyscdnali1.douyucdn.cn/live/52787rEKyx5UJA7E.flv?uuid=
+斗鱼主播:放影师  房间号：5129261,http://dyscdnali1.douyucdn.cn/live/5129261rT08VLhU6.flv?uuid=
+企鹅电竞主播:江左媒郎  房间号：142893859,http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=60b154e6340af428718cde553c00fd84&txTime=6195b510
+斗鱼主播:萌小鬼  房间号：3928,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+企鹅电竞主播:周星驰经典电影  房间号：199681168,http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=2ae95f1a40d24fd502b3f6e484f57df5&txTime=6194b7dc
+企鹅电竞主播:德云电视台  房间号：620346223,http://3954-out.liveplay.myqcloud.com/live/3954_620346223.flv?bizid=3954&txSecret=f632cf36d5aabf2afe6da9c52905d37e&txTime=6197fc8d
+斗鱼主播:Rainsunn  房间号：323876,http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
+斗鱼主播:s1134  房间号：248753,http://dyscdnali1.douyucdn.cn/live/248753rz50pe6jOK.flv?uuid=
+斗鱼主播:疯狂小潴潴  房间号：5522351,http://dyscdnali1.douyucdn.cn/live/5522351reilLD8iX.flv?uuid=
+企鹅电竞主播:国外经典电影  房间号：382971876,http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=ac7fd838fc25d6090e717034477bbb3b&txTime=6198a078
+企鹅电竞主播:.捏捏.  房间号：420858479,http://3954-out.liveplay.myqcloud.com/live/3954_420858479.flv?bizid=3954&txSecret=9245ebc9cd9ff5979c28f3be6f92213f&txTime=619b8b2d
+斗鱼主播:傲娇的虾虾  房间号：338759,http://dyscdnali1.douyucdn.cn/live/338759rDXMBm2Z4d.flv?uuid=
+斗鱼主播:安全套不套  房间号：5423,http://dyscdnali1.douyucdn.cn/live/5423rsLumTFKkOJN.flv?uuid=
+斗鱼主播:么奶瓶  房间号：7644931,http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv?uuid=
+斗鱼主播:特辑电影院  房间号：3637778,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+斗鱼主播:冯人苑  房间号：9292499,http://dyscdnali1.douyucdn.cn/live/9292499rCDCsw4Df.flv?uuid=
+企鹅电竞主播:德云贝贝  房间号：616289265,http://3954-out.liveplay.myqcloud.com/live/3954_616289265_1024p.flv?bizid=3954&txSecret=b9c267d9b213072be21b83f3079a2e68&txTime=6197b66e
+斗鱼主播:吃奶滴虫  房间号：263824,http://dyscdnali1.douyucdn.cn/live/263824rvcnE5WlGq.flv?uuid=
 斗鱼主播:橙幕Orange丶  房间号：4549169,http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
-斗鱼主播:吃米滴虫  房间号：315457,http://dyscdnali1.douyucdn.cn/live/315457rKVDx61O3D.flv?uuid=
-斗鱼主播:吃奶滴虫  房间号：263824,http://dyscdnali1.douyucdn.cn/live/263824rRfZVWVD72.flv?uuid=
-斗鱼主播:穿短裙的小迷妹  房间号：9717093,http://dyscdnali1.douyucdn.cn/live/9717093rpvDm94TR.flv?uuid=
-斗鱼主播:春卷大师  房间号：52787,http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid=
-斗鱼主播:冯人苑  房间号：9292499,http://dyscdnali1.douyucdn.cn/live/9292499rA3CRSENF.flv?uuid=
-斗鱼主播:苟或不是狗货  房间号：3811092,http://dyscdnali1.douyucdn.cn/live/3811092rE71JepJl.flv?uuid=
 斗鱼主播:进击の神乐  房间号：122402,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 斗鱼主播:进击的神乐  房间号：85894,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-斗鱼主播:开森的Mia  房间号：6537888,http://dyscdnali1.douyucdn.cn/live/6537888riPLdlEYP.flv?uuid=
-斗鱼主播:酷炫小剧场  房间号：36337,http://dyscdnali1.douyucdn.cn/live/36337rV0DV1Tki6h.flv?uuid=
-斗鱼主播:快进贱  房间号：7517784,http://dyscdnali1.douyucdn.cn/live/7517784rEonOTwWR.flv?uuid=
-斗鱼主播:狂仔酷炫  房间号：252802,http://dyscdnali1.douyucdn.cn/live/252802rrlYNyhP6u.flv?uuid=
-斗鱼主播:狂拽酷炫  房间号：4332,http://dyscdnali1.douyucdn.cn/live/4332raxLBqa7CMTd.flv?uuid=
-斗鱼主播:刘阁老  房间号：9290474,http://dyscdnali1.douyucdn.cn/live/9290474rQ7dsLS1T.flv?uuid=
-斗鱼主播:么奶瓶  房间号：7644931,http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv?uuid=
-斗鱼主播:萌牛奶哟  房间号：7494871,http://dyscdnali1.douyucdn.cn/live/7494871rZglXXIw0.flv?uuid=
-斗鱼主播:萌小鬼  房间号：3928,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-斗鱼主播:苹果Zei妖  房间号：2793084,http://dyscdnali1.douyucdn.cn/live/2793084rhc9A6f2q.flv?uuid=
-斗鱼主播:热血动漫经典电影轮播  房间号：9740783,http://dyscdnali1.douyucdn.cn/live/9740783rcl5Xp5mU.flv?uuid=
-斗鱼主播:软糖要开心吖  房间号：7842226,http://dyscdnali1.douyucdn.cn/live/7842226rDvzxib1h.flv?uuid=
-斗鱼主播:山东蓝翔技工学院  房间号：276200,http://dyscdnali1.douyucdn.cn/live/276200rKUd51od61.flv?uuid=
-斗鱼主播:少女可乐橙  房间号：20415,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-斗鱼主播:特辑电影院  房间号：3637778,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-斗鱼主播:网神影厅  房间号：508118,http://dyscdnali1.douyucdn.cn/live/508118rkaJCOukDm.flv?uuid=
-斗鱼主播:无双十三香  房间号：4870914,http://dyscdnali1.douyucdn.cn/live/4870914rtyT2NRlS.flv?uuid=
-斗鱼主播:吴Sir丶呦  房间号：2523528,http://dyscdnali1.douyucdn.cn/live/2523528rG3Mqyzpq.flv?uuid=
-斗鱼主播:小小亭长  房间号：5802446,http://dyscdnali1.douyucdn.cn/live/5802446rob8CiPIt.flv?uuid=
-斗鱼主播:小猪酱啊  房间号：7029806,http://dyscdnali1.douyucdn.cn/live/7029806rjypu7vVj.flv?uuid=
-斗鱼主播:新手村头号玩家  房间号：562225,http://dyscdnali1.douyucdn.cn/live/562225rV8Df8aGf9.flv?uuid=
+斗鱼主播:baby丶贝贝  房间号：431460,http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
+斗鱼主播:吃米滴虫  房间号：315457,http://dyscdnali1.douyucdn.cn/live/315457rtOkUP9dtx.flv?uuid=
+企鹅电竞主播:S8G-无尉舰长  房间号：145086784,http://3954-out.liveplay.myqcloud.com/live/3954_145086784.flv?bizid=3954&txSecret=9b952de08f4fdc91dd0d7e5196bf50f1&txTime=619a8089
+斗鱼主播:金庸影视剧  房间号：9356350,http://dyscdnali1.douyucdn.cn/live/9356350rXfvkEKjN.flv?uuid=
+斗鱼主播:UHD杜比视界  房间号：9249162,http://dyscdnali1.douyucdn.cn/live/9249162rA17HxTDg.flv?uuid=
 斗鱼主播:伊太刀刀  房间号：747764,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
-斗鱼主播:壹颗小丸子  房间号：8986148,http://dyscdnali1.douyucdn.cn/live/8986148ruX1Bn8o2.flv?uuid=
-斗鱼主播:魚的左手  房间号：8107217,http://dyscdnali1.douyucdn.cn/live/8107217rGjXkZnRt.flv?uuid=
-斗鱼主播:宇哥Rebirth  房间号：413573,http://dyscdnali1.douyucdn.cn/live/413573rmMBBES2y9.flv?uuid=
-虎牙1主播:880261  房间号：880261,http://121.12.115.156/tx.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11336719  房间号：11336719,http://121.12.115.156/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11342387  房间号：11342387,http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11342419  房间号：11342419,http://121.12.115.156/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
-虎牙1主播:11342424  房间号：11342424,http://121.12.115.156/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-虎牙1主播:11342427  房间号：11342427,http://121.12.115.156/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11352877  房间号：11352877,http://121.12.115.156/tx.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
-虎牙1主播:11352886  房间号：11352886,http://121.12.115.156/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11352895  房间号：11352895,http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
-虎牙1主播:11352935  房间号：11352935,http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11352959  房间号：11352959,http://121.12.115.156/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.m3u8
-虎牙1主播:11601968  房间号：11601968,http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-虎牙1主播:11601977  房间号：11601977,http://121.12.115.156/tx.hls.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.m3u8
-虎牙1主播:11602034  房间号：11602034,http://121.12.115.156/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-虎牙2主播:880261  房间号：880261,http://ws.flv.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1-imgplus.flv?wsSecret=69a61d95338bf99d06e37aef9a98edc3&wsTime=613cc657&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11336719  房间号：11336719,http://al.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.flv?wsSecret=7d3831fe74685a983765bf0d5cd94f71&wsTime=613ccb6b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&t=103
-虎牙2主播:11342387  房间号：11342387,http://al.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.flv?wsSecret=f30af8ddc2a7315bdda4796cf9d5fdfd&wsTime=613cc756&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11342419  房间号：11342419,http://al.flv.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.flv?wsSecret=df80f4d936409adb238be8b612ba0c25&wsTime=613ccc06&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11342424  房间号：11342424,http://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=eb66ecaddbadec02b92a2c6273dba224&wsTime=613cc8bc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11342427  房间号：11342427,http://al.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv?wsSecret=931b682487f692b47f52d9e97e7ffadc&wsTime=613ccc7e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11352877  房间号：11352877,http://al.flv.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.flv?wsSecret=72f79d074e8399da7fa57e5068f7e007&wsTime=613cc7fe&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11352886  房间号：11352886,http://al.flv.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.flv?wsSecret=11f7a9f68dbab78779eeb4e4bd5517de&wsTime=613ccb38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11352895  房间号：11352895,http://al.flv.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.flv?wsSecret=506a5a7fc0dd6cf435cf3dddba563d9b&wsTime=613cc568&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-虎牙2主播:11352935  房间号：11352935,http://al.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.flv?wsSecret=8e5998a8ac50e03c9bef7124567eb9ec&wsTime=613ccc50&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11352959  房间号：11352959,http://al.flv.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.flv?wsSecret=d012258af2324528eeb04941f9d3e701&wsTime=613cccc1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103
-虎牙2主播:11601968  房间号：11601968,http://al.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=9acaa156fa7c45a69c0f3b9dd211ae6d&wsTime=613cc510&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-虎牙2主播:11601977  房间号：11601977,http://al.flv.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.flv?wsSecret=5a4e0b84a85bc40bfd2017a001d19c03&wsTime=613cc69d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
+斗鱼主播:尽整没用D  房间号：8791622,http://dyscdnali1.douyucdn.cn/live/8791622r6XjTAFwu.flv?uuid=
+斗鱼主播:少女可乐橙  房间号：20415,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+斗鱼主播:周末电影院2  房间号：3637765,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+斗鱼主播:山东蓝翔技工学院  房间号：276200,http://dyscdnali1.douyucdn.cn/live/276200r4L53CLiCy.flv?uuid=
+斗鱼主播:网神影厅  房间号：508118,http://dyscdnali1.douyucdn.cn/live/508118r4SnN2Z6ri.flv?uuid=
