@@ -17,12 +17,9 @@ http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-15 音乐FHD
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-16 奥林匹克
-https://live.olympicchannelchina.cn:443/aoyun/cctv16_1td.m3u8
 #EXTINF:-1 ,CCTV-3蓝光
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1 ,CCTV-17 农业农村FHD
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 ,CCTV1
@@ -61,6 +58,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
 #EXTINF:-1 ,CCTV8
 http://183.207.248.35:80/PLTV/3/224/3221227205/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3464
+
 #EXTINF:-1 ,CCTV8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 ,CCTV8
@@ -91,7 +89,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 ,CCTV16
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/index.m3u8
-
+#EXTINF:-1 ,CCTV-17 农业农村FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 ,CCTV1
 http://117.148.179.42/PLTV/88888888/224/3221229818/index.m3u8
@@ -107,14 +106,7 @@ http://112.15.230.50/PLTV/88888888/224/3221230685/index.m3u8
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/index.m3u8
-#EXTINF:-1 ,CETV1
-http://39.135.140.98:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CETV4
-http://39.135.140.98:6610/PLTV/88888888/224/3221225937/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CGTN
-http://39.135.140.98:6610/PLTV/88888888/224/3221225747/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CGTN
-http://39.135.140.98:6610/PLTV/88888888/224/3221225645/2/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 ,上海纪实人文 3M1080
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 ,北京冬奥纪实 3M1080
@@ -301,8 +293,6 @@ https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
 #EXTINF:-1 group-title="省市TV",四川·达州公共
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
-#EXTINF:-1 group-title="省市TV",四川·雅安综合
-http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
 #EXTINF:-1 group-title="省市TV",四川·雅安公共
 http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
 #EXTINF:-1 group-title="省市TV",四川·甘孜综合
@@ -419,8 +409,7 @@ http://jsylivealone302.iqilu.com/live/mengyin_tv02/index.m3u8
 http://jsylivealone302.iqilu.com/live/feixian_tv01/index.m3u8
 #EXTINF:-1 group-title="省市TV",临沂费县生活
 http://jsylivealone302.iqilu.com/live/feixian_tv02/index.m3u8
-#EXTINF:-1 group-title="省市TV",临沂河东影视
-http://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
+
 #EXTINF:-1 group-title="省市TV",临沂临沭一套
 http://jsylivealone302.iqilu.com/live/linshu_tv01/index.m3u8
 #EXTINF:-1 group-title="省市TV",枣庄台儿庄一
@@ -783,10 +772,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 group-title="未分类",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="未分类",PrimaHD
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="未分类",OasisHD
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
 #EXTINF:-1 group-title="未分类",ASTro港剧台
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 group-title="未分类",澳视资讯
@@ -813,16 +799,14 @@ http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=747764
 http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=323876
 #EXTINF:-1 ,斗鱼_9
 http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=20415
-#EXTINF:-1 ,斗鱼_28
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=206858
+
 #EXTINF:-1 ,斗鱼_30
 http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
 #EXTINF:-1 ,斗鱼_32
 http://epg.112114.xyz/bili/193
 #EXTINF:-1 ,斗鱼_33
 http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/bilibili.php?tvplay=193
-#EXTINF:-1 ,斗鱼_34
-http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=4246519
+
 #EXTINF:-1 ,斗鱼_35
 http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=218859
 #EXTINF:-1 ,斗鱼_37
