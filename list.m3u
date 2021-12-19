@@ -647,16 +647,12 @@ http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 ,熱血時報
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
-#EXTINF:-1 ,Channel [CNA]FHD
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,Bloomberg TVHD
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 ,澳视资讯
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 #EXTINF:-1 ,中国环球电视
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,公視
-http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #EXTINF:-1 ,CCTV-2
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
 #EXTINF:-1 ,CCTV-5
@@ -733,8 +729,6 @@ http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
 #EXTINF:-1 ,重庆卫视
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
-#EXTINF:-1 ,长津湖
-https://wy.ladao.top/api/GetDownUrlTx/d91ea50eb7eb4932b92aa8bb3c61560d/f1671d0466964fb39e86adad5b3c1e47.mp4
 #EXTINF:-1 ,卡酷少儿
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
 #EXTINF:-1 ,哈哈炫动
@@ -891,8 +885,6 @@ http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 ,东森新闻
 http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 ,TVBS新闻
-http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 #EXTINF:-1 ,民視
 http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF:-1 ,台視
@@ -913,8 +905,6 @@ http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 #EXTINF:-1 ,明珠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,有线新闻台
-http://gslb.cdn.hk.chinamobile.com/live/6aec56586c324021927637a750c1811e/cb76365be43b4ba598eb2f2ef3cffcd9-3.m3u8
 #EXTINF:-1 ,求索動物
 http://39.134.134.85:80/000000001000/6000000002000010046/1.m3u8
 #EXTINF:-1 ,求索生活
@@ -989,8 +979,6 @@ http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 ,TVBS
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 ,東森財經
-http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 ,CNN新聞
 http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 #EXTINF:-1 ,CNBC新聞
@@ -1017,20 +1005,12 @@ http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 ,FOX頻道
 http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
-#EXTINF:-1 ,博斯運動2
-http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 #EXTINF:-1 ,ELEVEN SPORTS 1
 http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 ,ELEVEN SPORTS 2
 http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 ,香港卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,C+频道
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,星空卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,凤凰卫视
@@ -1063,52 +1043,26 @@ http://61.244.22.4/ch5/info_ch5.live/master.m3u8
 http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
 #EXTINF:-1 ,亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 ,斗鱼主播:新手村头号玩家  房间号：562225
-http://dyscdnali1.douyucdn.cn/live/562225rgkfq9VT42.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:狂仔酷炫  房间号：252802
-http://dyscdnali1.douyucdn.cn/live/252802r02PBvJk8K.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:狂拽酷炫  房间号：4332
 http://dyscdnali1.douyucdn.cn/live/4332rxQmudda5oMa.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:网神影厅  房间号：508118
 http://dyscdnali1.douyucdn.cn/live/508118rG5xA0tLKu.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:苹果Zei妖  房间号：2793084
 http://dyscdnali1.douyucdn.cn/live/2793084rjUc2tneU.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:邦Sa  房间号：5720533
-http://dyscdnali1.douyucdn.cn/live/5720533rFerWM40X.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:Rainsunn  房间号：323876
 http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:放影师  房间号：5129261
 http://dyscdnali1.douyucdn.cn/live/5129261rXcuw7Gzj.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:无双十三香  房间号：4870914
 http://dyscdnali1.douyucdn.cn/live/4870914rLIcOvtiT.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:苟或不是狗货  房间号：3811092
-http://dyscdnali1.douyucdn.cn/live/3811092rUvTCVh1O.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:萌小鬼  房间号：3928
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:s1134  房间号：248753
-http://dyscdnali1.douyucdn.cn/live/248753rvYnutaAgJ.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:么奶瓶  房间号：7644931
-http://dyscdnali1.douyucdn.cn/live/7644931rK7nQ73qO.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:傲娇的虾虾  房间号：338759
 http://dyscdnali1.douyucdn.cn/live/338759rDXMBm2Z4d.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:安全套不套  房间号：5423
-http://dyscdnali1.douyucdn.cn/live/5423ria6X1DSWqod.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:疯狂小潴潴  房间号：5522351
 http://dyscdnali1.douyucdn.cn/live/5522351reilLD8iX.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:冯人苑  房间号：9292499
 http://dyscdnali1.douyucdn.cn/live/9292499rQ0QkH3HP.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:吃奶滴虫  房间号：263824
-http://dyscdnali1.douyucdn.cn/live/263824rJinI9jMEo.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:开森的Mia  房间号：6537888
-http://dyscdnali1.douyucdn.cn/live/6537888rFxZW1tSI.flv?uuid=
-#EXTINF:-1 ,企鹅电竞主播:是仙言小咸鱼  房间号：482051453
-http://3954-out.liveplay.myqcloud.com/live/3954_482051453.flv?bizid=3954&txSecret=a7b977a3b34490d0b01bd1fe9bea141a&txTime=61bcae51
-#EXTINF:-1 ,斗鱼主播:橙幕Orange丶  房间号：4549169
-http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
-#EXTINF:-1 ,企鹅电竞主播:江左媒郎  房间号：142893859
-http://3954-out.liveplay.myqcloud.com/live/3954_142893859.flv?bizid=3954&txSecret=c550e1533bfa4d005d73b55e92714d2d&txTime=61b6b6f7
-#EXTINF:-1 ,企鹅电竞主播:燕赵無名  房间号：726933692
-http://3954-out.liveplay.myqcloud.com/live/3954_726933692.flv?bizid=3954&txSecret=8ce2922603b7cd48d66a702875a527c2&txTime=61bc980e
 #EXTINF:-1 ,斗鱼主播:特辑电影院  房间号：3637778
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:进击の神乐  房间号：122402
@@ -1117,8 +1071,6 @@ http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:baby丶贝贝  房间号：431460
 http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:伊太刀刀  房间号：747764
-http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:吃米滴虫  房间号：315457
 http://dyscdnali1.douyucdn.cn/live/315457rGxEJOfxKX.flv?uuid=
 #EXTINF:-1 ,企鹅电竞主播:周星驰经典电影  房间号：199681168
@@ -1139,13 +1091,9 @@ http://dyscdnali1.douyucdn.cn/live/9356350raInJLP7J.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 #EXTINF:-1 ,企鹅电竞主播:S8G-无尉舰长  房间号：145086784
 http://3954-out.liveplay.myqcloud.com/live/3954_145086784.flv?bizid=3954&txSecret=6897037af69d1c749700f14cdd0d830e&txTime=61ba9266
-#EXTINF:-1 ,斗鱼主播:双门洞凤凰堂胡里  房间号：7292330
-http://dyscdnali1.douyucdn.cn/live/7292330rXCOdoB3o.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:周末电影院2  房间号：3637765
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:小小亭长  房间号：5802446
 http://dyscdnali1.douyucdn.cn/live/5802446rKcIH3ZtC.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:小阳聪  房间号：7673566
-http://dyscdnali1.douyucdn.cn/live/7673566rs5d0ecz7.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:山东蓝翔技工学院  房间号：276200
 http://dyscdnali1.douyucdn.cn/live/276200rs79RA51uR.flv?uuid=
