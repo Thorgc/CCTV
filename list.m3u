@@ -9,6 +9,66 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 ,都市剧场FHD
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD
+http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD
+http://117.148.179.155/TVOD/88888888/224/3221231471/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD
+http://117.148.179.156/TVOD/88888888/224/3221232362/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD
+http://117.148.179.147/TVOD/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3HD
+http://117.148.179.37/TVOD/88888888/224/3221229878/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3HD
+http://112.15.230.56/TVOD/88888888/224/3221230740/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3HD
+http://117.148.179.183/TVOD/88888888/224/3221231682/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
+http://117.148.179.140/TVOD/88888888/224/3221231528/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD
+http://117.148.179.182/TVOD/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4-欧洲HD
+http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4-美洲HD
+http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD
+http://117.148.179.142/TVOD/88888888/224/3221232440/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+HD
+http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+HD
+http://117.148.179.139/TVOD/88888888/224/3221231535/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6HD
+http://117.148.179.153/TVOD/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6HD
+http://117.148.179.37/TVOD/88888888/224/3221229870/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6HD
+http://112.15.230.45/TVOD/88888888/224/3221230685/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6HD
+http://117.148.179.29/TVOD/88888888/224/3221228594/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7HD
+http://117.148.179.160/TVOD/88888888/224/3221231633/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8HD
+http://117.148.179.30/TVOD/88888888/224/3221228605/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8HD
+http://117.148.179.160/TVOD/88888888/224/3221231694/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9HD
+http://117.148.179.162/TVOD/88888888/224/3221231697/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10HD
+http://117.148.179.164/TVOD/88888888/224/3221232492/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10HD
+http://117.148.179.175/TVOD/88888888/224/3221231666/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11HD
+http://117.148.179.164/TVOD/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12HD
+http://117.148.179.150/TVOD/88888888/224/3221231660/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14HD
+http://117.148.179.182/TVOD/88888888/224/3221231648/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15HD
+http://117.148.179.169/TVOD/88888888/224/3221231693/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17HD
+http://117.148.179.167/TVOD/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 group-title="杭州移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17HD
+http://117.148.179.17/TVOD/88888888/224/3221229765/index.m3u8
 #EXTINF:-1 group-title="陕西移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 #EXTINF:-1 group-title="陕西移动-回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
