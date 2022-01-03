@@ -796,8 +796,7 @@ http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 #EXTINF:-1 ,亞洲旅遊
 http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-#EXTINF:-1 ,迪士尼
-http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
+
 #EXTINF:-1 ,東森幼幼
 http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 #EXTINF:-1 ,龍華卡通
@@ -838,10 +837,7 @@ http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 ,WAKUWAKU JAPAN
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 ,TVBS
-http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 ,CNN新聞
-http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
+
 #EXTINF:-1 ,CNBC新聞
 http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 #EXTINF:-1 ,Bloomberg
@@ -877,8 +873,7 @@ http://dyscdnali1.douyucdn.cn/live/4870914rLIcOvtiT.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:傲娇的虾虾  房间号：338759
 http://dyscdnali1.douyucdn.cn/live/338759rDXMBm2Z4d.flv?uuid=
-#EXTINF:-1 ,斗鱼主播:冯人苑  房间号：9292499
-http://dyscdnali1.douyucdn.cn/live/9292499rQ0QkH3HP.flv?uuid=
+
 #EXTINF:-1 ,斗鱼主播:特辑电影院  房间号：3637778
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 #EXTINF:-1 ,斗鱼主播:进击の神乐  房间号：122402
