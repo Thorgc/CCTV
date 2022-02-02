@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,江蘇移動13新聞1
+http://ott.js.chinamobile.com/PLTV/4/224/3221228121/index.m3u8
+#江蘇移動13新聞2,http://ott.js.chinamobile.com/PLTV/4/224/3221228224/index.m3u8
 #EXTINF:-1,CCTV-1高清
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1,纯享4K 21M2160HDR
