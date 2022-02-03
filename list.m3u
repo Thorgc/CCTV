@@ -7,8 +7,15 @@ http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1,纯享4K 21M2160HDR
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8#EXTINF:-1,CCTV-1深圳旁边版高清
 #http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
+thor thon1, [2022-02-01 2:43 AM]
 
-#EXTINF:-1,4K 
+#EXTINF:-1,CHC高清电影,
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1,CHC家庭影院,
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1,CHC动作电影,
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1,CCTV-1高清
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,CCTV-2高清
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
@@ -73,29 +80,6 @@ https://livealone302.iqilu.com/iqilu/gwpd.m3u8
 #EXTINF:-1,Indiana - Orlando
 https://d2tj0mi9jdso2q.cloudfront.net/hls/pacers/chunks.m3u8
 
-#EXTINF:-1,Philadelphia - Washington
-https://d2tj0mi9jdso2q.cloudfront.net/hls/76ers/chunks.m3u8
-
-#EXTINF:-1,Boston - Charlotte
-https://d2tj0mi9jdso2q.cloudfront.net/hls/celtics/chunks.m3u8
-
-#EXTINF:-1,New York - Memphis
-https://d2tj0mi9jdso2q.cloudfront.net/hls/espn/chunks.m3u8
-
-#EXTINF:-1,Houston - Cleveland
-https://d2tj0mi9jdso2q.cloudfront.net/hls/rockets/chunks.m3u8
-
-#EXTINF:-1,Dallas - Oklahoma
-https://d2tj0mi9jdso2q.cloudfront.net/hls/mavericks/chunks.m3u8
-
-#EXTINF:-1,Sacramento - Blooklyn
-https://d2tj0mi9jdso2q.cloudfront.net/hls/kings/chunks.m3u8
-
-#EXTINF:-1,Utah - Denver
-https://d2tj0mi9jdso2q.cloudfront.net/hls/espn/chunks.m3u8
-
-#EXTINF:-1,Lakers - Portland
-https://d2tj0mi9jdso2q.cloudfront.net/hls/lakers/chunks.m3u8
 
 #EXTINF:-1,中天新闻台HD 
 https://tv1.6zxr.xyz/1/qq/hls/index.m3u8
