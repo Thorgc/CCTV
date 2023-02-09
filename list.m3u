@@ -101,3 +101,271 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 #EXTINF:-1,西藏卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
+
+
+#EXTINF:-1 ,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,翡翠台
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+#EXTINF:-1 ,明珠台
+http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1 ,无线新闻
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 ,无线新闻
+http://2022.stream-link.org/playlist/tvb_news
+#EXTINF:-1 ,有线新闻台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 ,有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 ,港台電視31
+http://2022.stream-link.org/playlist/rthk_31
+#EXTINF:-1 ,港台電視32
+http://2022.stream-link.org/playlist/rthk_32
+#EXTINF:-1 ,香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,華視新聞資訊
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 ,民视新闻台
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,台视新闻台
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 ,台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台视新闻台
+http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+#EXTINF:-1 ,寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
+#EXTINF:-1 ,寰宇新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=14
+#EXTINF:-1 ,TVBS
+http://158.101.151.82:9000/jmsytb.m3u8?c=4
+#EXTINF:-1 ,TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+#EXTINF:-1 ,TVBS
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 ,中视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 ,中视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 ,中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 ,中天新闻
+http://2023.stream-link.org/playlist/cti_news
+#EXTINF:-1 ,东森LIVE
+http://158.101.151.82:9000/jmsytb.m3u8?c=02
+#EXTINF:-1 ,三立INEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 ,三立INEWS
+http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+#EXTINF:-1 ,三立NEWS+
+https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+#EXTINF:-1 ,三立NEWS+
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+#EXTINF:-1 ,镜新闻
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 ,镜新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=19
+#EXTINF:-1 ,NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="日本" tvg-logo="https://epg.112114.xyz/logo/ANN_NEWS.png",ANN_News
+http://tv.redrainl.site:9500/live.m3u8?c=29
+#EXTINF:-1 ,Animax
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
+#EXTINF:-1 ,Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
+#EXTINF:-1 ,J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+#EXTINF:-1 ,J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 ,MBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
+#EXTINF:-1 ,NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
+#EXTINF:-1 ,NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
+#EXTINF:-1 ,NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+#EXTINF:-1 ,NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+#EXTINF:-1 ,Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
+#EXTINF:-1 ,Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+#EXTINF:-1 ,Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
+#EXTINF:-1 ,TBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
+#EXTINF:-1 ,Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
+#EXTINF:-1 ,TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
+#EXTINF:-1 ,Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 ,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/SKY_NEWS.png",SKY_News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 ,FRANCE24
+http://tv.redrainl.site:9500/live.m3u8?c=13
+#EXTINF:-1 ,FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/ABC_NEWS.png",ABC_News
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 ,BBCWORLDNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=41
+#EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/TOP_NEWS.png",TOP_NEWS
+http://tv.redrainl.site:9500/live.m3u8?c=14
+#EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行1.png",斗鱼云旅行1
+http://epg.112114.xyz/douyu/9257160
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行2.png",斗鱼云旅行2
+http://epg.112114.xyz/douyu/9358196
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游3.png",斗鱼云旅游3
+http://epg.112114.xyz/douyu/6563725
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游4.png",斗鱼云旅游4
+http://epg.112114.xyz/douyu/615814
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游5.png",斗鱼云旅游5
+http://epg.112114.xyz/douyu/9527954
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游6.png",斗鱼云旅游6
+http://epg.112114.xyz/douyu/5820284
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/罗翔说法1.png",罗翔说法1
+http://epg.112114.xyz/douyu/8805
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/养猫吧.png",养猫吧
+http://epg.112114.xyz/douyu/648814
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/开心麻花.png",开心麻花
+http://epg.112114.xyz/douyu/9374862
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/小品1.png",小品1
+http://epg.112114.xyz/douyu/9067836
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/小品2.png",小品2
+http://epg.112114.xyz/douyu/1486165
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/宋小宝.png",宋小宝
+http://epg.112114.xyz/douyu/9817729
+#EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/赵本山.png",赵本山
+http://epg.112114.xyz/douyu/9817716
+#EXTINF:-1 ,斗鱼电影1
+http://epg.112114.xyz/douyu/3637778
+#EXTINF:-1 ,斗鱼电影2
+http://epg.112114.xyz/douyu/3637726
+#EXTINF:-1 ,斗鱼电影3
+http://epg.112114.xyz/douyu/8985415
+#EXTINF:-1 ,斗鱼电影4
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 ,斗鱼电影5
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 ,斗鱼电影6
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 ,斗鱼电影7
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 ,斗鱼电影8
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 ,斗鱼电影9
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 ,斗鱼电影10
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 ,斗鱼电影11
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 ,斗鱼电影12
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 ,斗鱼电影13
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 ,斗鱼电影14
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 ,斗鱼电影15
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 ,斗鱼电影16
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 ,斗鱼电影17
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 ,斗鱼电影18
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 ,斗鱼电影19
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 ,斗鱼电影20
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 ,斗鱼电影21
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1 ,斗鱼电影22
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 ,斗鱼电视剧HD1
+http://epg.112114.xyz/douyu/2838296
+#EXTINF:-1 ,斗鱼电视剧HD2
+http://epg.112114.xyz/douyu/7489563
+#EXTINF:-1 ,斗鱼电视剧HD3
+http://epg.112114.xyz/douyu/6706214
+#EXTINF:-1 ,斗鱼电视剧HD4
+http://epg.112114.xyz/douyu/6566658
+#EXTINF:-1 ,虎牙电影1
+http://epg.112114.xyz/huya/11602058
+#EXTINF:-1 ,虎牙电影2
+http://epg.112114.xyz/huya/11601968
+#EXTINF:-1 ,虎牙电影3
+http://epg.112114.xyz/huya/11342412
+#EXTINF:-1 ,虎牙电影4
+http://epg.112114.xyz/huya/11342386
+#EXTINF:-1 ,虎牙电影5
+http://epg.112114.xyz/huya/11601986
+#EXTINF:-1 ,虎牙电影6
+http://epg.112114.xyz/huya/11601971
+#EXTINF:-1 ,虎牙电影7
+http://epg.112114.xyz/huya/11336592
+#EXTINF:-1 ,虎牙电影8
+http://epg.112114.xyz/huya/11342390
+#EXTINF:-1 ,虎牙电影9
+http://epg.112114.xyz/huya/11352941
+#EXTINF:-1 ,虎牙电影10
+http://epg.112114.xyz/huya/11279251
+#EXTINF:-1 ,虎牙电影11
+http://epg.112114.xyz/huya/11602041
+#EXTINF:-1 ,虎牙电影12
+http://epg.112114.xyz/huya/11352963
+#EXTINF:-1 ,虎牙电影13
+http://epg.112114.xyz/huya/11342414
+#EXTINF:-1 ,虎牙电影14
+http://epg.112114.xyz/huya/11602075
+#EXTINF:-1 ,虎牙电影15
+http://epg.112114.xyz/huya/11352962
+#EXTINF:-1 ,虎牙电影16
+http://epg.112114.xyz/huya/11336571
+#EXTINF:-1 ,虎牙电影17
+http://epg.112114.xyz/huya/11342427
+#EXTINF:-1 ,虎牙电影18
+http://epg.112114.xyz/huya/11336719
+#EXTINF:-1 ,虎牙电影19
+http://epg.112114.xyz/huya/11352894
+#EXTINF:-1 ,虎牙电影20
+http://epg.112114.xyz/huya/11352877
+#EXTINF:-1 ,虎牙电影21
+http://epg.112114.xyz/huya/11602077
+#EXTINF:-1 ,虎牙电影22
+http://epg.112114.xyz/huya/11601960
+#EXTINF:-1 ,虎牙电影23
+http://epg.112114.xyz/huya/11352965
+#EXTINF:-1 ,虎牙电影24
+http://epg.112114.xyz/huya/11342435
+#EXTINF:-1 ,虎牙电影25
+http://epg.112114.xyz/huya/11342423
+#EXTINF:-1 ,虎牙电影26
+http://epg.112114.xyz/huya/11352909
+#EXTINF:-1 ,虎牙电影27
+http://epg.112114.xyz/huya/11352886
+#EXTINF:-1 ,虎牙电影28
+http://epg.112114.xyz/huya/11602044
+#EXTINF:-1 ,峨眉电影
+http://r.jdshipin.com/XIjta
+#EXTINF:-1 ,黑莓电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 ,CATCHPLAY电影
+http://r.jdshipin.com/5DWJk
