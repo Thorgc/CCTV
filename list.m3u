@@ -1,108 +1,106 @@
 #EXTM3U
-#EXTINF:-1,CCTV4K
+#EXTINF:-1 ,CCTV4K
 http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV1
+#EXTINF:-1 ,CCTV1
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV2
+#EXTINF:-1 ,CCTV2
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV3
+#EXTINF:-1 ,CCTV3
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV4
+#EXTINF:-1 ,CCTV4
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1 ,CCTV5
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV6
+#EXTINF:-1 ,CCTV6
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV7
+#EXTINF:-1 ,CCTV7
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV8
+#EXTINF:-1 ,CCTV8
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV9
+#EXTINF:-1 ,CCTV9
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV10
+#EXTINF:-1 ,CCTV10
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV11
+#EXTINF:-1 ,CCTV11
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV12
+#EXTINF:-1 ,CCTV12
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV13
+#EXTINF:-1 ,CCTV13
 http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV14
+#EXTINF:-1 ,CCTV14
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV15
+#EXTINF:-1 ,CCTV15
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV16
+#EXTINF:-1 ,CCTV16
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV16_4K
+#EXTINF:-1 ,CCTV16_4K
 http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-#EXTINF:-1,CCTV17
+#EXTINF:-1 ,CCTV17
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-#EXTINF:-1,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
-#EXTINF:-1,北京卫视
+#EXTINF:-1 ,北京卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
-#EXTINF:-1,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
-#EXTINF:-1,上海卫视
+#EXTINF:-1 ,上海卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1 ,辽宁卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
-#EXTINF:-1,天津卫视
+#EXTINF:-1 ,天津卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
-#EXTINF:-1,贵州卫视
+#EXTINF:-1 ,贵州卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
-#EXTINF:-1,四川卫视
+#EXTINF:-1 ,四川卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
-#EXTINF:-1,重庆卫视
+#EXTINF:-1 ,重庆卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
-#EXTINF:-1,云南卫视
+#EXTINF:-1 ,云南卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
-#EXTINF:-1,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
-#EXTINF:-1,安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
-#EXTINF:-1,河北卫视
+#EXTINF:-1 ,河北卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
-#EXTINF:-1,江西卫视
+#EXTINF:-1 ,江西卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
-#EXTINF:-1,湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
-#EXTINF:-1,海南卫视
+#EXTINF:-1 ,海南卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
-#EXTINF:-1,东南卫视
+#EXTINF:-1 ,东南卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
-#EXTINF:-1,吉林卫视
+#EXTINF:-1 ,吉林卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
-#EXTINF:-1,广西卫视
+#EXTINF:-1 ,广西卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
-#EXTINF:-1,内蒙古卫视
+#EXTINF:-1 ,内蒙古卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/neimengkuSD/__op/default/__f//index.m3u8
-#EXTINF:-1,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
-#EXTINF:-1,广东卫视
+#EXTINF:-1 ,广东卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 ,河南卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-#EXTINF:-1,山西卫视
+#EXTINF:-1 ,山西卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
-#EXTINF:-1,兵团卫视
+#EXTINF:-1 ,兵团卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
-#EXTINF:-1,宁夏卫视
+#EXTINF:-1 ,宁夏卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
-#EXTINF:-1,三沙卫视
+#EXTINF:-1 ,三沙卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
-#EXTINF:-1,青海卫视
+#EXTINF:-1 ,青海卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
-#EXTINF:-1,新疆卫视
+#EXTINF:-1 ,新疆卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
-#EXTINF:-1,西藏卫视
+#EXTINF:-1 ,西藏卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
-
-
 #EXTINF:-1 ,凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 ,凤凰中文
@@ -112,17 +110,11 @@ http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 #EXTINF:-1 ,明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 #EXTINF:-1 ,无线新闻
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 ,无线新闻
 http://2022.stream-link.org/playlist/tvb_news
 #EXTINF:-1 ,有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 ,有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 ,港台電視31
-http://2022.stream-link.org/playlist/rthk_31
-#EXTINF:-1 ,港台電視32
-http://2022.stream-link.org/playlist/rthk_32
 #EXTINF:-1 ,香港面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 ,華視新聞資訊
@@ -159,18 +151,12 @@ http://tv.redrainl.site:9500/live.m3u8?c=02
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 #EXTINF:-1 ,中天新闻
 http://tv.redrainl.site:9500/live.m3u8?c=03
-#EXTINF:-1 ,中天新闻
-http://2023.stream-link.org/playlist/cti_news
 #EXTINF:-1 ,东森LIVE
 http://158.101.151.82:9000/jmsytb.m3u8?c=02
 #EXTINF:-1 ,三立INEWS
 http://tv.redrainl.site:9500/live.m3u8?c=51
 #EXTINF:-1 ,三立INEWS
 http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
-#EXTINF:-1 ,三立NEWS+
-https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-#EXTINF:-1 ,三立NEWS+
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 #EXTINF:-1 ,镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1 ,镜新闻
@@ -209,10 +195,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 #EXTINF:-1 ,TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
-#EXTINF:-1 ,Weather News
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 ,CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/SKY_NEWS.png",SKY_News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 ,FRANCE24
@@ -227,8 +209,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=41
 #EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/TOP_NEWS.png",TOP_NEWS
 http://tv.redrainl.site:9500/live.m3u8?c=14
-#EXTINF:-1 group-title="国际" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png",半岛新闻
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行1.png",斗鱼云旅行1
 http://epg.112114.xyz/douyu/9257160
 #EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅行2.png",斗鱼云旅行2
@@ -241,7 +221,6 @@ http://epg.112114.xyz/douyu/615814
 http://epg.112114.xyz/douyu/9527954
 #EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/斗鱼云旅游6.png",斗鱼云旅游6
 http://epg.112114.xyz/douyu/5820284
-
 #EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/开心麻花.png",开心麻花
 http://epg.112114.xyz/douyu/9374862
 #EXTINF:-1 group-title="斗鱼" tvg-logo="https://epg.112114.xyz/logo/小品1.png",小品1
@@ -364,5 +343,3 @@ http://epg.112114.xyz/huya/11602044
 http://r.jdshipin.com/XIjta
 #EXTINF:-1 ,黑莓电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 ,CATCHPLAY电影
-http://r.jdshipin.com/5DWJk
