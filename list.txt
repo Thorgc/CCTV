@@ -1,263 +1,4 @@
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-安徽卫视@@48[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/a41a450e2998badeb0de1b6cda7220976b616537df73c416ed361bb76bbfdce8.m3u8
-湖南卫视@@53[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/60c17b2846acb4434fe9ba235a2794a2c675ceb7f19634bf4544b2d16c1b3609.m3u8
-江苏卫视@@47[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/32d4ec833ab8812af652da678617aaf34d3bf8c0c5e2084885f3b01681ec2f9f.m3u8
-东方卫视@@57[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/4ee3522baac40f9485b42573f86e92085b1a9fe286ff55cfe4c304c1f623c1ee.m3u8
-浙江卫视@@52[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/2b23faf5eb4cf28a0f1ebf0d837bdcb823f942d5eb29271ae7bf400722fe194e.m3u8
-江苏卫视@@48[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/4247db38a79d1d9eec2a31651c658dbb6d5c72e84eadea5be373fe3aafba1ee2.m3u8
-
-安徽卫视@@49[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/3177d9069ad2803c88c684d7de2068aa5d097131b421ba18b5d81b5c5eee5e6c.m3u8
-
-广东卫视@@48[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/78c2469ccc108fe0208ead0bac034763d9d0d1e9f15c1268993e9b3f90bd7266.m3u8
-
-东方卫视@@58[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/1d563b26442a5a123500f7ac0192226d67b3bf64cf6237d7a7a5041feaebb076.m3u8
-
-四川卫视@@29[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/1125b93d98b4335956fa40394975a1493063ed6658545b09f293745e31bc2b10.m3u8
-
-贵州卫视@@36[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/c2ddaa4b3dcd41526f81aca844a8391635d18c6ee7618eb5fddb8b229503f91d.m3u8
-黑龙江卫视@@42[1920x1080][8.0mb],https://epg.pw/stream/a7570d4ed3e83ffc7c4986bde21852879f470078dd1ad512d236c30911022a43.m3u8
-
-东南卫视@@34[1920x1080][h264xaac],https://epg.pw/stream/0cc17ea257cdc175aea45574f8623fe21a6cf89318bf4a5d632a91f7c4728099.m3u8
-
-海峡卫视@@4[1920x1080][h264xaac],https://epg.pw/stream/2ace4910e554cd0b8418c8b4e518e8f68d0f3dc25cd38d82f09e0a571793dcd0.m3u8
-
-厦门卫视@@15[720x576][h264xaac],https://epg.pw/stream/5ad15e009133eba573137a9e6509c072bc7b026f85c06285902e5b3dea65575e.m3u8
-
-吉林卫视@@36[1920x1080][h264xaac],https://epg.pw/stream/9f61bfe966141e7856675f0efad7932bc01864a4a77f2d9e89430be1cb4cd4a8.m3u8
-四川卫视@@28[1920x1080][8.0mb],https://epg.pw/stream/8e7e8ced0f4deb270a3ac1787d41d6d6af78b69a66d15f41b4e847fb0142facc.m3u8
-
-北京冬奥纪实@@3[1920x1080][h264xaac],https://epg.pw/stream/cd7ceaf4e70fc34bd088e565cf7d41d31fbdcab394780c738c4c40b49139577d.m3u8
-sitv全纪实@@2[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/95f2235b74ba5e289e76fecaac5517dcc7e90cc68d7ee4ad219a77d9b53cab3f.m3u8
-cctv1@@119[1920x1080][2.0mb],https://epg.pw/stream/4393292846e3ea327d3df195e33ed959bd4738271cfa7d2749be01e37071d146.m3u8
-cctv-5@@3[1280x720][2.0mb],https://epg.pw/stream/cd9605f2715432b4f68a9d5c82b10ed0594ddcfaa81a2ad41b92072e5754fd60.m3u8
-
-cctv1@@121[1920x1080][8.0mb],https://epg.pw/stream/1aeae368d7e45693926dd375dc5e62c3067fdab0e7b22f615ef0ca830f040bcd.m3u8
-
-cctv1@@122[1920x1080][5.0mb],https://epg.pw/stream/b84575e60ac27878f85d3c0de89038898a360ca288b6496f85f618ca5e96ee7a.m3u8
-
-cctv1@@123[1920x1080][h264xaac],https://epg.pw/stream/90168f7f1c7dd7ab9720730f016877cece346d613d86aede2737a366f823ee54.m3u8
-
-cctv1@@124[1280x720][h264xaac],https://epg.pw/stream/74a287cfd3b4e4018db540a30366b48fa20836253a49a26bbf00c49d630dd9fa.m3u8
-
-cctv1@@125[1920x1080][h264xmp2],https://epg.pw/stream/d055d712602d1df245b5cc86d16bd133f7b125f9e4dd24c16ca039289e74c9dd.m3u8
-cctv1@@126[1920x1080][h264xaac],https://epg.pw/stream/7270a7843b500f200363ec442aa0db80a659a80d9906acedc16cb413329d6b97.m3u8
-
-cctv2@@60[1920x1080][h264xaac],https://epg.pw/stream/08e905f61e697117de70162af9ad4cdff96e050151af8533a12df4feacfc298c.m3u8
-
-cctv2@@61[1920x1080][h264xaac],https://epg.pw/stream/13bc3ff3ef98015b899e5500bb1b8b2b0b308fd35056dbe227dc658372620b5a.m3u8
-
-cctv2@@62[1920x1080][h264xaac],https://epg.pw/stream/59a8e95c14c75417b307ce88bd932b4b058f4a6e8431c0e6081e58e1b5e63dd6.m3u8
-
-cctv2@@63[1920x1080][5.0mb],https://epg.pw/stream/451b5f0e2c7d9e7f58abdace53c4f4466f0035b3af71a0f528c2f5b6dcd0c821.m3u8
-
-cctv3@@52[1920x1080][5.0mb],https://epg.pw/stream/6bb487a5be84ce5b7e7eaa358af9ded1f7ce39bcd9892d1f1fb4878d3a995d7c.m3u8
-
-cctv2@@64[720x576][3.0mb],https://epg.pw/stream/8c1d476fea93b089513d79c0c35d4bff0b898af589197cad41cc3e000914d8f6.m3u8
-
-cctv3@@53[1920x1080][h264xaac],https://epg.pw/stream/a0a9f5c6d1a5c3ca6df6074a665219463853525e6ceb61508cc20d1619942f38.m3u8
-
-cctv4@@50[1920x1080][5.0mb],https://epg.pw/stream/b6f6ed9d05b7f2506066a5eed1aa09e9276d34db86d06e76f63e2717e64d15b8.m3u8
-
-cctv4@@51[1920x1080][h264xaac],https://epg.pw/stream/4c6c7b7037bb463f7c0eca36e2b5d2de733c861fcb3b237f82a1d24d4ce8a3cf.m3u8
-
-cctv4@@52[1920x1080][h264xmp2],https://epg.pw/stream/e20941697e51ec3a8654eb7c9addf43d923bc18133e7b43aa2e81567887b8ada.m3u8
-
-cctv4@@53[720x576][3.0mb],https://epg.pw/stream/2b1dd88250377065cba614b22caca4d1abbf992bc9d0ff655af2fe9b672498ae.m3u8
-
-cctv4@@54[1920x1080][10.0mb],https://epg.pw/stream/ee4122157d190c87e902649a7f0ef6fd34ebb106732e5eb8f6644886e13b40be.m3u8
-
-cctv5+@@73[1920x1080][4.0mb],https://epg.pw/stream/a667a99cfce076d1bb43e430545f3a6b340cc0d871bf16c1a06556035c83eac8.m3u8
-
-cctv5@@65[1920x1080][9.0mb],https://epg.pw/stream/b6def5df81a7228e4a2ac4c99f5fef163d82737b54751e0ba90498fbc5e02cc7.m3u8
-
-cctv6@@59[1920x1080][5.0mb],https://epg.pw/stream/19b2a3c67564c29efa48b8ddf6bcc2d4b7d0f80a454df0f9c37d6687105581a9.m3u8
-
-cctv6@@60[1920x1080][h264xaac],https://epg.pw/stream/0c7eac6af952fef05b78e3115448d8145a8c4a71081584cc9f1385e0e585ac80.m3u8
-
-cctv7@@44[1920x1080][9.0mb],https://epg.pw/stream/840b227c08474e82a0028a91444dcb2a3ef9c0535ad152309354314872faadb1.m3u8
-
-cctv7@@45[1920x1080][5.0mb],https://epg.pw/stream/b4a1e38713231d70c1dcf7c4c0ccf5cb860f2be2f71600a3ccf1146fcf83e592.m3u8
-
-cctv6@@61[1920x1080][aacxh264xaacxh264],https://epg.pw/stream/a98e2cfbecab8551d555ad172169d5762206b6e8363b3bc80bfad71c8a0a5a4d.m3u8
-
-cctv7@@46[1920x1080][h264xaac],https://epg.pw/stream/5ee61336a43c42589cec5722c269350955da9e90c2436471beea535293c69420.m3u8
-
-cctv7@@47[720x576][h264xaac],https://epg.pw/stream/7d4d5d264d9363f06d0a6b14cf84d1bfcfe7cb0ace9631f452c088ff3228daf0.m3u8
-
-cctv8@@44[1920x1080][5.0mb],https://epg.pw/stream/4fd3e3691c8f33cd80f4268d45c7591600dda065f47f5f996a19a53135e31e2e.m3u8
-
-cctv8@@45[1920x1080][h264xaac],https://epg.pw/stream/47a0721407c3c18e019e4fc2aeccfc3f754a04e2efeb81d242dce7e2b0a78513.m3u8
-cctv9@@50[1920x1080][4.0mb],https://epg.pw/stream/4eb9d7d9b71fb2b72845d50c43d1d0e939a0b4f4fca9336902216b38d5e6b241.m3u8
-
-cctv8@@46[1920x1080][9.0mb],https://epg.pw/stream/1bb67a0137b0f1e9fbe9be742c8be3905ea10b267d7c77e06a010cab01701983.m3u8
-
-cctv9@@51[1920x1080][h264xaac],https://epg.pw/stream/1aa62f5c986d7c0b5f64171c1234d251ab2f00cd2587d21e16be32b252ad9de6.m3u8
-
-cctv10@@50[1920x1080][9.0mb],https://epg.pw/stream/ec10d5f0c1909cb67e0281dda697a26ac9b483d016bb15b6199fa1c27a99fcfd.m3u8
-
-cctv10@@51[1920x1080][h264xaac],https://epg.pw/stream/041c3ce8d1ded2e37fda082784c4134c215e451cc8d27edcd0cf24bb4ab21bf3.m3u8
-
-cctv10@@52[1920x1080][5.0mb],https://epg.pw/stream/121388fe25fe4cab4f758ec8bf78aa321ffc65875b336b34ae9239a174a91067.m3u8
-
-cctv11@@41[1920x1080][8.0mb],https://epg.pw/stream/6b6acacb9e2d26dffd451e3d3cbe9ac4f9dae0523c5b85e203264e537e17becf.m3u8
-
-cctv12@@46[1920x1080][5.0mb],https://epg.pw/stream/ebeac0d79973adef260a1f3a36a5acc7615087022f59cdc37c6dca06611dfaec.m3u8
-
-cctv11@@42[1920x1080][h264xaac],https://epg.pw/stream/edc0421af78dfedcc1f1c8a7fd1fbfcf8262ef1c3db29775f72e620dc7469813.m3u8
-
-cctv11@@43[720x576][3.0mb],https://epg.pw/stream/7a8b600c42a723d51e97abdaff058c8507b8a25ee88f58d8f7c26e2eae610f5e.m3u8
-
-cctv12@@47[1920x1080][9.0mb],https://epg.pw/stream/aceba8828acfc231ff70853043dbe9dc5df4696e8a6c4dcd020aba13df4f8964.m3u8
-
-cctv12@@48[1920x1080][h264xaac],https://epg.pw/stream/c140f677e0be5fa6561e64f6a0b6facf278f2773d42d28be3940019d0bc52db9.m3u8
-
-cctv13@@61[640x360][1.0mb][geo-limited],https://epg.pw/stream/f3680260e1d00d37d10c4b519f432824d5a6b74bf63ebba547725c7836950e4a.m3u8
-
-cctv12@@49[1920x1080][h264xaac],https://epg.pw/stream/75c24e4878d16fcb5abd4be01a78a7663ac9a7120c74fa1e567b2172a1c4bebe.m3u8
-
-cctv14@@60[1920x1080][5.0mb],https://epg.pw/stream/194d3e8bb5bbaa9e1e4f516ad981db974cf3d2716077b51508403f322d2f554f.m3u8
-
-cctv13@@62[1920x1080][9.0mb],https://epg.pw/stream/76df625b637daccea6cb684440a18b196f8805bf63ebe56630b5d24a9fc581e8.m3u8
-
-cctv13@@63[1920x1080][h264xaac],https://epg.pw/stream/8007c0dcc27cfe062d8ecbb77cb5870f483360949590908e9ba2eca2fb5d62b1.m3u8
-
-cctv13@@64[1920x1080][h264xaac],https://epg.pw/stream/32805a8e6a46d10bc8718fa5ee8937044f95af02dab5a426fb522519475511c7.m3u8
-
-cctv15@@48[1920x1080][8.0mb],https://epg.pw/stream/0fb4658a8dce080f3c64dc1b960b0f69289c30ec1624fc02b32be99671cf49b8.m3u8
-
-cctv15@@49[1920x1080][h264xaac],https://epg.pw/stream/05e54f738363473f72a71f712b2c6e5549a5a813c2221fdb96a9d78aae2b8811.m3u8
-
-cctv15@@50[1920x1080][h264xmp2],https://epg.pw/stream/2f5475f87f6cc42329a050a5cae3f66de6a4b4647a6c8254da445f9e9ce0657e.m3u8
-
-cctv17@@43[1920x1080][4.0mb],https://epg.pw/stream/ead040809618add85dbb4bb01a685eaf69afecd40f66823bfec1b5cfb6e74490.m3u8
-
-cctv第一剧场@@2[1920x1080][9.0mb],https://epg.pw/stream/2be8e98d2054b79a7f75f94907b2eb3d41430e1c7b7b7e16608aec7c944a8c07.ctv
-翡翠台@@10[1280x720][2.0mb],https://epg.pw/stream/d1df2d0fad137ee9cae03528f1e33922814c5ccfafc2fb39a68ed88080508f47.m3u8
-
-nhk华语视界[1280x720][1.0mb],https://epg.pw/stream/ca896264f79939f6bbcd3a8ce45d382538752d215984f2696373275d9089ecff.m3u8
-
-港台电视32@@1[1280x720][2.0mb],https://epg.pw/stream/e5306d6b161040dfa56bdd373bc9ec86c379b16f62c44505255fc42f47c655a4.m3u8
-
-澳门卫视@@3[1280x720][1.0mb],https://epg.pw/stream/abf7c9ef46cbcd0575cab1e8c511bc388acdcdbdf84e95dd5dbfa1b56c3a2955.m3u8
-
-澳视葡语@@1[1280x720][1.0mb],https://epg.pw/stream/2c190baf9b4fe4f90b2137f9f0112445c59784db864a08d8a8cd6670c27618ba.m3u8
-
-cctv风云音乐@@1[1920x1080][h264xaac],https://epg.pw/stream/7d3e3a432fda17d3489940c407b448276c43f9a63c9a98196b2498fa6d20ea38.ctv
-
-澳视澳门@@4[1280x720][1.0mb],https://epg.pw/stream/903f6dd644a13b44afefc0219801147c659e04d3fd7c1486495c50d2bf451acd.m3u8
-
-cctv兵器科技@@1[1920x1080][h264xaac],https://epg.pw/stream/879fcb4c0d00c7a92a2a2073c60d03596bb1f9ad5d3446f6b85861c755982645.ctv
-
-cgtn纪录@@1[720x576][4.0mb],https://epg.pw/stream/911092b8336040b10af5bfbf03d8a60cea1e1536879f106d1552aee73a5a7ca1.m3u8
-
-澳门信息@@1[1280x720][1.0mb],https://epg.pw/stream/19f523be3c920acbdd894d113807754a115ea117a28be290e848ccf885efe2dd.m3u8
-四大裁子之首- 20230223-06[1280x720][2.0mb],https://epg.pw/stream/7ccc82abb89df821e3082cb7dd9e595014fd1d23dec42acd714c1b4722ab80a4.ctv
-
-tvb动作大片- 20230223-06[1280x720][5.0mb],https://epg.pw/stream/bbc0e57a8b4dce28ca5f2ae0e1aad312925642f14cc0b06495ceda8efdef0f8f.ctv
-浙江卫视8m[1920x1080][2.0mb][geo-limited],https://epg.pw/stream/ae748bfe5b362926619986422e99c18798bd67671fb0b1ac5da6ec9af27893d6.ctv
-
-辽宁卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/03ee47223b5d24bc6f86f1f718728fe65e775c280b6c6ae9db885452dbcf9fce.ctv
-
-青海卫视@@17[1920x1080][h264xaac][geo-limited],https://epg.pw/stream/a6f3ce8b9ac8f443b56e159f9addd2e41db958eeb95f8982e570fa60b3bc80e5.m3u8
-
-宁夏卫视@@16[720x576][h264xaac][geo-limited],https://epg.pw/stream/3e0b4390a42f0ff842b70686b32ea4af3c908fa8b41e69da11c10131634e6fd3.m3u8
-
-新疆卫视@@21[720x576][h264xaac][geo-limited],https://epg.pw/stream/73cd1d8d123f33fa416e1355c367b5e06d484dcd82da20280e89bb74d7bbfc76.m3u8
-
-广东卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/e86feb96c98dab8d90f8206455b3c81781852c89c07d2dc004dcdba5d46d277a.ctv
-
-吉林卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/77d20b00cfd6877d3fa12cde3e0dfb5f215cbe1799c95711485a7d36b2b5d4fc.ctv
-
-广西卫视8m[1920x1080][5.0mb][geo-limited],https://epg.pw/stream/e204cc888eb51ab93ac249a3f20f83807dbaedd91b9e881f46d421c4ce370b17.ctv
-
-西藏卫视@@18[720x576][h264xaac][geo-limited],https://epg.pw/stream/1cd4afe70519292a0892ee27265e090db518aa6ba48c09afdaf31f9f64915c65.m3u8
-
-安徽卫视8m[3840x2160][11.0mb][geo-limited],https://epg.pw/stream/c5c2849368812d5ab1a7520d8aa91dddc6a37ff4b73ddf8a87fdcda54f55feaa.ctv
-
-北京卫视8m[3840x2160][11.0mb][geo-limited],https://epg.pw/stream/f6c6379ed1fa986694a7a585d07fd3a7e1d5816a74cb352c881548efb6abe0dc.ctv
-
-湖北卫视8m[720x576][3.0mb][geo-limited],https://epg.pw/stream/a57ae35c728400bc6cbda8f2e8fe4842b8095847cdf86fb543384677c64654b5.ctv
-
-河南卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/9cad472916a0feb9f21af04cb6dd993afdd9fe020529aa35d94aff5332888761.ctv
-
-江西卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/c5f88cc60ed189b40d48528de958d3b3eeb186609ec589655e0a9c427cedc986.ctv
-
-天津卫视8m[1920x1080][9.0mb][geo-limited],https://epg.pw/stream/ebea3dcce6b5baa5423652cb93a46ee335803a4f757f3f0827ad337914a21170.ctv
-
-东南卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/e8c3f15fd6d0a7b5c50feeb5f893cd3117a19695897e8acdee7991212fa36d4e.ctv
-
-云南卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/11c6fd7a68d3b82858781f62cf3621c97f17193c5d46789449380bea564a4bce.ctv
-
-海南卫视8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/0eb8c93873c3916a8184ac13c2623961c8978fe090a8b28c41dc27e55253e668.ctv
-
-深圳卫视8m[3840x2160][11.0mb][geo-limited],https://epg.pw/stream/822dbae7f1d96daeac1fa898f816ccfa9f13fa986c40e7b913ec823c162f078a.ctv
-
-上海卫视8m[1920x1080][5.0mb][geo-limited],https://epg.pw/stream/6b057ed5f013ba2c8c304821bbcf09a1bfbaf702a46fd968d4b2676d7f05山东卫视8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/6bc0484bee6d653bac29d68a3953c71dcf7d03921a8bc8cb1606a284ee733bdc.ctv
-
-欢笑剧场4k@@7[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/ff14d0b269863464977610eabce1cf13b01e6fe012484d13f5ec1331c4bb4426.ctv
-
-贵州卫视8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/06ccc015cde015bda503df0b669268e6a6c206b753f2c077f54e8df91bbc50f5.ctv
-
-东方影视8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/acc5748395895807a0e905c4460eb377533ccab873956023d41d71389dd6dffe.ctv
-
-戏曲精选8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/c2255cbb140d88ca81f0a4128e858138a6892fcbde623345bf64e446334bbebc.ctv
-
-金鹰纪实8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/521cd199d50a3027d5ec53ded9738f2d91ee74ae44c961f56a80435cd4636dd8.ctv
-
-上海纪实8m[1920x1080][5.0mb][geo-limited],https://epg.pw/stream/7bef77de274d9cf831ed74bd16741c88d905eb2970743a9770ba5f75f124fb3e.ctv
-
-上视新闻8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/7178670680f120187624b4ebf77770ed939fbac81b5687dbd32b4ed1293a3040.ctv
-
-黑龙江卫视8m[1920x1080][9.0mb][geo-limited],https://epg.pw/stream/9edb5059e185c25a839a664e232c6c0d33c56ed7894cadf374918c6f2408b567.ctv
-
-全纪实8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/0ea31ded7e3f453c829ebf10a5094d0279aa44b422712713ae8b64988dab2cb6.ctv
-
-生活时尚8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/1dbd66ebfaa81cebf04f53eea40a58c848911f078309e90eba3339a922368f84.ctv
-
-上海教育8m[1920x1080][11.0mb][geo-limited],https://epg.pw/stream/6f10c60ea84e1bc2e483889e0d36955e935d7441a373803cc3018456b3664b27.ctv
-
-甘肃卫视8m[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/1993061e868b4294d6abcf3b908da4a70d93b4ddf9ae1c956435ed254ba3dfc3.ctv
-
-上海都市8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/34cfaa6fa4320bc30ac652bb7bf09a34ae524989d5760ae16e12311eda14bf0d.ctv
-
-新视觉8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/1f5deac6badcb61e1712f31aba7e1f4dfe67da47adb224023b225180f1fa5734.ctv
-
-游戏风云8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/e28e2ba765b57aa8a6555de87ea01992fda67e2333fca78c9ffb75f20ff56348.ctv
-
-上视外语8m[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/d507ebd9c4e08bb6bc21bab761e98b5947c3a40dd9a8b4e319ab404c9495b719.ctv
-星光影院8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/35768d2fd6f16dfdb61b5d3f28b93294b1918da0b097e681958e8e0648533fc4.ctv
-重庆卫视8m[1920x1080][6.0mb][geo-limited],https://epg.pw/stream/5a7958bd88e38e3e081b185da2879fa4fc0764937c55206615b4c6bc9aae9e80.ctv
-
-纪实科教8m[1920x1080][7.0mb][geo-limited],https://epg.pw/stream/2d08d38868b080fbf3573dd061203379b0bac06f7471aca73ec7a93f003989b9.ctv
-
-全球大片8m[1920x1080][8.0mb][geo-limited],https://epg.pw/stream/2326b4826b777ed082effb044b58790b622a8203172b312936dc63ca505e37e5.ctv
-上海第一财经8m[1920x1080][7.0mb],https://epg.pw/stream/f226a0b3e46f39104a294bce033744c07b768d6ca1d91da3eaaffd54794bd9b2.ctv
-华语影院8m[1920x1080][h264xmp2],https://epg.pw/stream/1b9496b255c86acb255c649b1c5fb9259a7ef747071dbb4a5b7895c400f469bd.ctv
-越·hbtv@@1[720x406][1.0mb],https://epg.pw/stream/80fa193a362d01d519c194003087f74bcfb7a029209b8f9126bfd4a8ce312fc2.m3u8
-
-乌·m2音乐[1280x720][3.0mb],https://epg.pw/stream/2235d7fbacb95c165ecfc11cf8910401055222ce2a3bc3775748a19479e36a02.m3u8
-
-泰·thaipbs[1280x720][1.0mb],https://epg.pw/stream/91b03f1e395cf9bfe9a4f1b941d05b3d8fc987243144e0d77f772bd762e2d575.m3u8
-
-斯·tvnz[864x486][2.0mb],https://epg.pw/stream/e96b59c0f9e11614438905a9a132d09abf718f1be4260ba6b5ed6d30de98f0c3.m3u8
-
-abc新闻[1280x720][1.0mb],https://epg.pw/stream/8496d7720aaff6e4624a5db6d3a815a8bdc1d8d9751c6587362c5cc15ff4b480.m3u8
-
-tvb j2@@2[1280x720][1.0mb],https://epg.pw/stream/c0932802a027f0c251be0b72a3fd559042cf70504210bde1d4fa6c2e70b8e7da.m3u8
-
-cctv-4 国际[1920x1080][h264xaac],https://epg.pw/stream/a71ccc6a45aa834b3477ccb09c2770565caf8227301d1c54b98572617a187e75.m3u8
-
-canadaone[1280x720][3.0mb],https://epg.pw/stream/b1f0ea61c4defff2bbe581a709ce58b8d23eb4f9aca346b6757ccc4ea8d9a3ea.m3u8
-
-
-
-
-
-
-
-
-
-
 峨眉电影,http://r.jdshipin.com/XIjta
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 八大第一,http://123.51.230.108:18539/.m3u8
@@ -266,6 +7,192 @@ canadaone[1280x720][3.0mb],https://epg.pw/stream/b1f0ea61c4defff2bbe581a709ce58b
 4K超高清电影,http://r.jdshipin.com/5DWJk
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
+CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
+CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
+CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
+CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
+CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
+CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
+CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
+CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
+CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
+CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
+CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
+CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
+CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
+CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
+CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
+CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
+CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
+江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000
+天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
+重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
+黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
+吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
+海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
+北京iptv4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+4K超高清电影,http://r.jdshipin.com/5DWJk
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+八大第一,http://123.51.230.108:18539/.m3u8
+东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+上海第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+上视新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
+北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
+广西卫视,https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000
+辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
+安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
+江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
+东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
+东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
+湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
+湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
+广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
+深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
+四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
+山东卫视,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000
+河南卫视,https://live.v1.mk/api/ghyx.php?id=HeNanHD_6000
+西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls
+黑龙江卫视,http://124.220.17.172:1100/aas.php?id=40
+黑龙江卫视,http://39.135.138.60:18890/PLTV/88888888/224/3221225736/index.m3u8
+黑龙江卫视,http://39.135.138.60:18890/PLTV/88888888/224/3221225690/index.m3u8
+海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
+海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8?zweimd
+重庆卫视,http://124.220.17.172:1100/aas.php?id=36
+重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
+重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
+河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+东南卫视,http://124.220.17.172:1100/aas.php?id=28
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+贵州卫视,http://124.220.17.172:1100/aas.php?id=35
+贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+贵州卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+江西卫视,http://124.220.17.172:1100/aas.php?id=34
+辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
+辽宁卫视,http://124.220.17.172:1100/aas.php?id=41
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
+吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
+吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+吉林卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225680/index.m3u8
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+新疆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+新疆卫视,http://222.175.159.226:808/hls/68/index.m3u8
+兵团卫视,http://222.175.159.226:808/hls/76/index.m3u8
+甘肃卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+河北卫视,http://115.149.139.141:10001/tsfile/live/1033_1.m3u8?blog.ntnas.top
+河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+河北卫视,http://115.149.139.141:10001/tsfile/live/1033_1.m3u8
+河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225732/index.m3u8
+浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
+山东卫视,http://124.220.17.172:1100/aas.php?id=29
+山东卫视,http://39.135.138.60:18890/PLTV/88888888/224/3221225697/index.m3u8
+山东卫视,http://39.135.138.60:18890/PLTV/88888888/224/3221225738/index.m3u8
+天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8
+天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top
+天津卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225698/1653141771-1-1651284161.m3u8
+天津卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225739/1653141888-1-1648950485.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+西藏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+宁夏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+内蒙古卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+广西卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225731/index.m3u8
+广西卫视,http://115.149.139.141:10001/tsfile/live/1037_1.m3u8?blog.ntnas.top
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225734/index.m3u8
+江西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225746/index.m3u8
+四川卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225733/index.m3u8
+山西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225730/index.m3u8
+青海卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
+宁夏卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225726/index.m3u8
+新疆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225725/index.m3u8
+西藏卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
+西藏卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225723/index.m3u8
+海南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
+CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+CCTV-4K,http://cfss.cc/ds/bst.php?id=Cf-0
 CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
 CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
 CCTV-3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
@@ -275,6 +202,7 @@ CCTV-5+ 8M,http://cfss.cc/ds/bst.php?id=Cf-6
 CCTV-6 8M,http://cfss.cc/ds/bst.php?id=Cf-7
 CCTV-7 8M,http://cfss.cc/ds/bst.php?id=Cf-8
 CCTV-8 8M,http://cfss.cc/ds/bst.php?id=Cf-9
+CCTV-9 8M,http://cfss.cc/ds/bst.php?id=Cf-10
 CCTV-10 8M,http://cfss.cc/ds/bst.php?id=Cf-11
 CCTV-11 8M,http://cfss.cc/ds/bst.php?id=Cf-12
 CCTV-12 8M,http://cfss.cc/ds/bst.php?id=Cf-13
@@ -287,6 +215,7 @@ CCTV-16 4K,http://cfss.cc/ds/bst.php?id=Cf-19
 江苏卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-20
 广西卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-21
 四川卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-22
+上海卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-23
 湖南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-24
 浙江卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-25
 北京卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-26
@@ -296,37 +225,14 @@ CCTV-16 4K,http://cfss.cc/ds/bst.php?id=Cf-19
 广东卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-30
 深圳卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-31
 湖北卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-32
-吉林卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-33
+山东卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-34
 江西卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-35
 河南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-36
 河北卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-37
 甘肃卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-38
 重庆卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-39
 东南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-40
-云南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-41
 贵州卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-42
 海南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-43
 黑龙江卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-44
 欢笑剧场4k,http://cfss.cc/ds/bst.php?id=Cf-45
-欢笑剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-46
-金鹰纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-48
-戏曲精选 8M,http://cfss.cc/ds/bst.php?id=Cf-49
-上视新闻 8M,http://cfss.cc/ds/bst.php?id=Cf-50
-上海纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-52
-五星体育 8M,http://cfss.cc/ds/bst.php?id=Cf-54
-七彩戏剧 8M,http://cfss.cc/ds/bst.php?id=Cf-56
-上海教育 8M,http://cfss.cc/ds/bst.php?id=Cf-57
-全纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-58
-生活时尚 8M,http://cfss.cc/ds/bst.php?id=Cf-59
-新视觉 8M,http://cfss.cc/ds/bst.php?id=Cf-60
-热门综艺 8M,http://cfss.cc/ds/bst.php?id=Cf-62
-星光影院 8M,http://cfss.cc/ds/bst.php?id=Cf-70
-谍战剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-71
-全球大片 8M,http://cfss.cc/ds/bst.php?id=Cf-72
-热门剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-73
-陶瓷高清 8M,http://cfss.cc/ds/bst.php?id=Cf-74
-中国教育-1 8M,http://cfss.cc/ds/bst.php?id=Cf-75
-中国教育-4 8M,http://cfss.cc/ds/bst.php?id=Cf-76
-东方财经 8M,http://cfss.cc/ds/bst.php?id=Cf-82
-都市剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-83
-上海第一财经 8M,http://cfss.cc/ds/bst.php?id=Cf-87
