@@ -153,6 +153,10 @@ http://r.jdshipin.com/5DWJk
 http://107.151.203.111:2209/135/hk.php?id=fhzw
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
 http://107.151.203.111:2209/135/hk.php?id=fhzx
+#EXTINF:-1,金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,峨眉电影
+http://r.jdshipin.com/XIjta
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png",八大第一
 http://123.51.230.108:18539/.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
