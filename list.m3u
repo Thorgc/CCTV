@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV-16 奥林匹克4K 
-https://live.v1.mk/aishang/cctv164k
-#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K
-https://live.v1.mk/aishang/as4k
-#EXTM3U
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
@@ -164,6 +157,12 @@ http://107.151.203.111:2209/135/hk.php?id=fhzx
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,峨眉电影
 http://r.jdshipin.com/XIjta
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV-16 奥林匹克4K 
+https://live.v1.mk/aishang/cctv164k
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K
+https://live.v1.mk/aishang/as4k
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png",八大第一
 http://123.51.230.108:18539/.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
