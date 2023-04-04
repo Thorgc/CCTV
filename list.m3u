@@ -37,13 +37,22 @@ http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/4K电影.png",4K超高清电影
 http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 ,4K超高清电影 4K
+https://live.v1.mk/api/sxg.php?id=emdy4k_8000
+#EXTINF:-1 ,欢笑剧场4K
+https://live.v1.mk/api/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1 ,凤凰中文
+https://live.v1.mk/api/sxg.php?id=test1_4000
+#EXTINF:-1 ,凤凰资讯
+https://live.v1.mk/api/sxg.php?id=test2_4000
+
 #EXTINF:-1 ,峨眉电影
-http://r.jdshipin.com/XIjta
-#EXTINF:-1 ,
+http://r.jdshipin.com/XIjta#https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
+#EXTINF:-1 ,douyu276200
 http://epg.112114.xyz/douyu/276200
-#EXTINF:-1 ,
+#EXTINF:-1 ,dy4789563
 http://epg.112114.xyz/douyu/7489563
-#EXTINF:-1 ,
+#EXTINF:-1 ,dy747764
 http://epg.112114.xyz/douyu/747764
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
