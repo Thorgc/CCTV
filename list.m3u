@@ -45,20 +45,18 @@ https://live.v1.mk/api/sxg.php?id=hxjc-4k_8000
 https://live.v1.mk/api/sxg.php?id=test1_4000
 #EXTINF:-1 ,凤凰资讯
 https://live.v1.mk/api/sxg.php?id=test2_4000
-#EXTINF:-1,CHC动作电影
+#EXTINF:-1 ,CHC动作电影
 https://live.v1.mk/api/sxg.php?id=wqCHCdzdyH265_4000
-#EXTINF:-1,CHC高清电影
+#EXTINF:-1 ,CHC高清电影
 https://live.v1.mk/api/sxg.php?id=lnwsCHC-HDH265_4000
-#EXTINF:-1,CHC家庭影院
+#EXTINF:-1 ,CHC家庭影院
 https://live.v1.mk/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-#EXTINF:-1,动漫秀场
-https://live.v1.mk/api/sxg.php?id=yybb-dmxc-H265_4000
-#EXTINF:-1,都市剧场
+#EXTINF:-1 ,都市剧场
 https://live.v1.mk/api/sxg.php?id=yxfydsjcHDH265_4000
-#EXTINF:-1,法治天地
-https://live.v1.mk/api/sxg.php?id=fztx_4000
 #EXTINF:-1 ,峨眉电影
-http://r.jdshipin.com/XIjta#https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
+http://r.jdshipin.com/XIjta
+#EXTINF:-1 ,峨眉电影
+https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
 #EXTINF:-1 ,douyu276200
 http://epg.112114.xyz/douyu/276200
 #EXTINF:-1 ,dy4789563
@@ -69,10 +67,6 @@ http://epg.112114.xyz/douyu/747764
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png",八大第一
 http://123.51.230.108:18539/.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png",西藏卫视
-https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/影视文化.png",影视文化
-https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
@@ -221,14 +215,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV-4K
-http://cfss.cc/ds/bst.php?id=Cf-0
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 8M
-http://cfss.cc/ds/bst.php?id=Cf-1
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2 8M
-http://cfss.cc/ds/bst.php?id=Cf-2
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV-3 8M
-http://cfss.cc/ds/bst.php?id=Cf-3
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV-4 8M
 http://cfss.cc/ds/bst.php?id=Cf-4
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5 8M
@@ -247,56 +233,24 @@ http://cfss.cc/ds/bst.php?id=Cf-11
 http://cfss.cc/ds/bst.php?id=Cf-13
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV-13 8M
 http://cfss.cc/ds/bst.php?id=Cf-14
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV-14 8M
-http://cfss.cc/ds/bst.php?id=Cf-15
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV-15 8M
-http://cfss.cc/ds/bst.php?id=Cf-16
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV-16 4K
-http://cfss.cc/ds/bst.php?id=Cf-19
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-20
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-21
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-22
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/上海卫视.png",上海卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-23
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-24
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-25
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-27
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-28
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-29
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-30
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-31
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-34
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-35
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-36
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-37
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png",甘肃卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-38
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-39
-#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视 8M
-http://cfss.cc/ds/bst.php?id=Cf-40
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-42
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-43
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视 8M
 http://cfss.cc/ds/bst.php?id=Cf-44
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png",欢笑剧场4k
-http://cfss.cc/ds/bst.php?id=Cf-45
 #EXTINF:-1 group-title="台灣新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png",東森新聞
 http://2023.stream-link.org/live/1793825065
 #EXTINF:-1 group-title="台灣新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png",東森財經新聞
@@ -329,8 +283,6 @@ http://2023.stream-link.org/live/1711676066
 http://2023.stream-link.org/live/35397979
 #EXTINF:-1 group-title="台灣" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png",中天亞洲台
 http://2023.stream-link.org/live/1096161090
-#EXTINF:-1 group-title="台灣" tvg-logo="http://or00.stream-link.org/tv_logo/ttv.png",台視
-http://2023.stream-link.org/live/280878870
 #EXTINF:-1 group-title="台灣綜藝" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png",天才衝衝衝
 http://2023.stream-link.org/live/1311166619
 #EXTINF:-1 group-title="兒童節目" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png",東森yoyo
