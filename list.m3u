@@ -45,7 +45,18 @@ https://live.v1.mk/api/sxg.php?id=hxjc-4k_8000
 https://live.v1.mk/api/sxg.php?id=test1_4000
 #EXTINF:-1 ,凤凰资讯
 https://live.v1.mk/api/sxg.php?id=test2_4000
-
+#EXTINF:-1,CHC动作电影
+https://live.v1.mk/api/sxg.php?id=wqCHCdzdyH265_4000
+#EXTINF:-1,CHC高清电影
+https://live.v1.mk/api/sxg.php?id=lnwsCHC-HDH265_4000
+#EXTINF:-1,CHC家庭影院
+https://live.v1.mk/api/sxg.php?id=jbtygqCHCjtyyH265_4000
+#EXTINF:-1,动漫秀场
+https://live.v1.mk/api/sxg.php?id=yybb-dmxc-H265_4000
+#EXTINF:-1,都市剧场
+https://live.v1.mk/api/sxg.php?id=yxfydsjcHDH265_4000
+#EXTINF:-1,法治天地
+https://live.v1.mk/api/sxg.php?id=fztx_4000
 #EXTINF:-1 ,峨眉电影
 http://r.jdshipin.com/XIjta#https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
 #EXTINF:-1 ,douyu276200
