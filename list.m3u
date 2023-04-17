@@ -41,7 +41,18 @@ http://159.75.85.63:5681/sxg.php
 https://live.v1.mk/api/sxg.php?id=emdy4k_8000
 #EXTINF:-1 ,欢笑剧场4K
 https://live.v1.mk/api/sxg.php?id=hxjc-4k_8000
-
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
+https://live.v1.mk/api/fjgd.php?id=chcgq
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
+https://live.v1.mk/api/fjgd.php?id=chcdz
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
+https://live.v1.mk/api/fjgd.php?id=chcjt
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通高清
+https://live.v1.mk/api/fjgd.php?id=jykt
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+https://live.v1.mk/api/fjgd.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+https://live.v1.mk/api/fjgd.php?id=fhzx
 #EXTINF:-1 ,CHC动作电影
 https://live.v1.mk/api/sxg.php?id=wqCHCdzdyH265_4000
 #EXTINF:-1 ,CHC高清电影
