@@ -642,3 +642,237 @@ http://111.53.105.2:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u
 http://111.53.105.2:8084/4b0bcd8509d748358b4450921fc3443b/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1,山西|长子综合频道
 http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#EXTINF:-1,凤凰中文
+http://home.111818.xyz:8888/udp/239.76.253.134:9000
+#EXTINF:-1,凤凰中文
+http://107.151.203.111:2209/135/hk.php?id=fhzw
+#EXTINF:-1,凤凰中文
+http://117.169.124.149:8080/live/fhchinese/index.m3u8
+#EXTINF:-1,凤凰中文
+http://2022.stream-link.org/playlist/phtv_live.ts
+#EXTINF:-1,凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,凤凰资讯
+http://home.111818.xyz:8888/udp/239.76.253.135:9000
+#EXTINF:-1,凤凰资讯
+http://107.151.203.111:2209/135/hk.php?id=fhzx
+#EXTINF:-1,凤凰资讯
+http://2022.stream-link.org/playlist/phtv_info.ts
+#EXTINF:-1,凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,澳门莲花
+http://epg.112114.xyz/lotus
+#EXTINF:-1,澳门莲花
+http://2022.stream-link.org/playlist/macau_lotustv.ts
+#EXTINF:-1,澳门莲花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+#EXTINF:-1,澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1,澳门莲花
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1,星空卫视
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=xingkong_1500
+#EXTINF:-1,星空音乐
+http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+#EXTINF:-1,翡翠台
+https://live.astradamy.com/tvbfc/index.m3u8
+#EXTINF:-1,翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1,华丽台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1,华丽台
+http://2022.stream-link.org/playlist/astro_jade.ts
+#EXTINF:-1,明珠台
+https://live.astradamy.com/tvbpearl/index.m3u8
+#EXTINF:-1,明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1,TVB J2
+https://live.astradamy.com/tvbj2/index.m3u8
+#EXTINF:-1,TVB J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1,TVB 星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1,无线新闻
+http://2022.stream-link.org/playlist/tvb_news.ts
+#EXTINF:-1,无线财经
+http://2022.stream-link.org/playlist/tvb_finance.ts
+#EXTINF:-1,有线新闻
+http://2022.stream-link.org/playlist/cable_news.ts
+#EXTINF:-1,有线财经
+http://2022.stream-link.org/playlist/cable_finance.ts
+#EXTINF:-1,HoyTV
+http://2022.stream-link.org/playlist/hoy_tv.ts
+#EXTINF:-1,HoyTV资讯
+http://2022.stream-link.org/playlist/hoy_info.ts
+#EXTINF:-1,RTHK31
+http://2022.stream-link.org/playlist/rthk_31.ts
+#EXTINF:-1,RTHK32
+http://2022.stream-link.org/playlist/rthk_32.ts
+#EXTINF:-1,台视
+http://2023.stream-link.org/playlist/ttv.flv
+#EXTINF:-1,中视
+http://2023.stream-link.org/playlist/ctv.flv
+#EXTINF:-1,民视
+http://2023.stream-link.org/playlist/ftv.flv
+#EXTINF:-1,华视
+http://2023.stream-link.org/playlist/cts.flv
+#EXTINF:-1,台视新闻
+http://2023.stream-link.org/playlist/ttv_news.flv
+#EXTINF:-1,中视新闻
+http://2023.stream-link.org/playlist/ctv_news.flv
+#EXTINF:-1,民视新闻
+http://2023.stream-link.org/playlist/ftv_news.flv
+#EXTINF:-1,华视新闻
+http://2023.stream-link.org/playlist/cts_news.flv
+#EXTINF:-1,TVBS
+http://2023.stream-link.org/playlist/tvbs.flv
+#EXTINF:-1,TVBS新闻
+http://2023.stream-link.org/playlist/tvbs_news.flv
+#EXTINF:-1,东森新闻
+http://2023.stream-link.org/playlist/ebc_news.flv
+#EXTINF:-1,东森财经
+http://2023.stream-link.org/playlist/ebc_finance.flv
+#EXTINF:-1,东森幼幼
+http://2023.stream-link.org/playlist/ebc_yoyo.flv
+#EXTINF:-1,中天新闻
+http://2023.stream-link.org/playlist/cti_news.flv
+#EXTINF:-1,中天综合
+http://2023.stream-link.org/playlist/cti_zh.flv
+#EXTINF:-1,中天亚洲
+http://2023.stream-link.org/playlist/cti_asia.flv
+#EXTINF:-1,寰宇新闻
+http://2023.stream-link.org/playlist/global_news.flv
+#EXTINF:-1,寰宇新闻
+http://2023.stream-link.org/playlist/global_tw.flv
+#EXTINF:-1,三立新闻
+http://2023.stream-link.org/playlist/set_news.flv
+#EXTINF:-1,三立新闻+
+http://2023.stream-link.org/playlist/set_news+.flv
+#EXTINF:-1,三立财经
+http://2023.stream-link.org/playlist/set_inews.flv
+#EXTINF:-1,ABC News
+http://2022.stream-link.org/playlist/abc_news.ts
+#EXTINF:-1,ANN News
+http://2022.stream-link.org/playlist/ann_news.ts
+#EXTINF:-1,Asianet News
+http://2022.stream-link.org/playlist/asianet_news.ts
+#EXTINF:-1,CNA News
+http://2022.stream-link.org/playlist/cna_news.ts
+#EXTINF:-1,DW News
+http://2022.stream-link.org/playlist/dw_news.ts
+#EXTINF:-1,EURO News
+http://2022.stream-link.org/playlist/euro_news.ts
+#EXTINF:-1,France 24
+http://2022.stream-link.org/playlist/france_24e.ts
+#EXTINF:-1,NBC News
+http://2022.stream-link.org/playlist/nbc_news.ts
+#EXTINF:-1,Sky News
+http://2022.stream-link.org/playlist/sky_news.ts
+#EXTINF:-1,GB News
+http://2022.stream-link.org/playlist/gb_news.ts
+#EXTINF:-1,Haber Turk
+http://2022.stream-link.org/playlist/haber_turk.ts
+#EXTINF:-1,东森电影
+http://120.84.96.113:808/hls/32/index.m3u8
+#EXTINF:-1,东森洋片
+http://120.84.96.113:808/hls/33/index.m3u8
+#EXTINF:-1,龙祥时代
+http://120.84.96.113:808/hls/35/index.m3u8
+#EXTINF:-1,私人影院
+http://120.84.96.113:808/hls/135/index.m3u8
+#EXTINF:-1,私人影院
+http://107.151.203.111:2209/135/hk.php?id=ccmt
+#EXTINF:-1,好莱坞电影
+http://120.84.96.113:808/hls/24/index.m3u8
+#EXTINF:-1,中视菁采
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+#EXTINF:-1,爱丽达娱乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1,影迷纪实台
+http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+#EXTINF:-1,龙华日韩
+http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+#EXTINF:-1,靖洋戏剧
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1,采昌影剧
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1,靖天国际
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1,靖天戏剧
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1,靖天映画
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1,靖天欢乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1,靖天育乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1,靖天卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1,i-Fun动漫
+http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+#EXTINF:-1,宠物台
+http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+#EXTINF:-1,生活时尚
+http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+#EXTINF:-1,全球财经
+http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+#EXTINF:-1,LIVE互动英语
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1,ARIRANG阿里郎
+http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+#EXTINF:-1,ELTA生活旅游
+http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+#EXTINF:-1,Gobal
+http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+#EXTINF:-1,中天美食旅游
+http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+#EXTINF:-1,TRACE
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1,滚动力
+http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+#EXTINF:-1,智林体育
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1,TRACE Sport Stars
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1,GINX Esports TV
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1,Mezzo Live
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1,ELEVEN 1
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1,ELEVEN 2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1,DIGI sport 1
+http://84.17.61.203:8086/udp/238.2.25.79:1234
+#EXTINF:-1,DIGI sport 2
+http://84.17.61.203:8086/udp/238.2.25.78:1234
+#EXTINF:-1,DIGI sport 3
+http://84.17.61.203:8086/udp/238.2.25.90:1234
+#EXTINF:-1,DIGI sport 4
+http://84.17.61.203:8086/udp/238.2.25.83:1234
+#EXTINF:-1,番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1,面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,大爱1台
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1,创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+#EXTINF:-1,人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1,八度空间
+http://2022.stream-link.org/playlist/8tv.ts
+#EXTINF:-1,亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,FOX新闻台
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
