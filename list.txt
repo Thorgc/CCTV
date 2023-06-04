@@ -1,3 +1,13 @@
+凤凰资讯[1920x1080][3.0mb],https://epg.pw/stream/d938769b67a28428dcb989056d41c4e7e9e995e38b43de0701d89816ff4cb878.m3u8
+
+凤凰资讯[1920x1080][5.0mb],https://epg.pw/stream/e308f9f7b68fa9e5775c465ef63f3123bb7762f33976382e27a7755fb9332a79.m3u8
+
+翡翠台[1920x1080][4.0mb][geo-limited],https://epg.pw/stream/8ada930782f44a5b59d3a438494166566f4b27f795e8bd66cac0b81e81b232af.ctv
+
+
+
+
+
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
