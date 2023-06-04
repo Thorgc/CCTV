@@ -68,7 +68,9 @@ bestv電影19[1920x1080][h264xaac],https://epg.pw/stream/110abc32b2c881fbc6f6d02
 
 电影_怪兽[1024x576][1.0mb],https://epg.pw/stream/c88f46758c89dcc22fb37fc3ec4f950a1d88bb3bc66b99fd203d2a226af09a0a.m3u8
 
+Cinemax[1920x1080][3.0mb],https://epg.pw/stream/ff11d240be3bcc45cc5fe59e797f59c63e2031afc96b1bcb7c660132a1c26920.m3u8
 
+凤凰中文[1920x1080],https://epg.pw/stream/9734e5c9b64718eba8d6b5ba0ad4ecd9ff7b35fe9b0c35700d1ecf3b9f88a752.m3u8
 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
