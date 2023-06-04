@@ -1,6 +1,7 @@
 寰宇新闻台[1280x720],https://epg.pw/stream/61f2ea41a74cc3aa67af18fa7648f1ee3e9b0afbda53037baa7d0a8af536dd89.m3u8
 上海ics外语@@2[1920x1080][h264xaac],https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
 
+港台电视32[1280x720],https://epg.pw/stream/86450d831f1a481f1ccc6cb0bab688bb3d519af0aa0ffc0549a9fe6e7a2bbc14.m3u8
 第一财经@@5[1920x1080][h264xaac],https://epg.pw/stream/834002889b34e8fa1bb76ccdcba425dbcc59607ec573605f28fb21eab4d0a8e2.m3u8
 
 凤凰资讯[1280x720][1.0mb][geo-limited],https://epg.pw/stream/6e65b8d7e0d6dea706a1bb602a030510d3f9bb0b021864f598433b276d07d365.ctv
