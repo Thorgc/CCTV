@@ -5,7 +5,7 @@
 
 凤凰资讯[1280x720][1.0mb][geo-limited],https://epg.pw/stream/6e65b8d7e0d6dea706a1bb602a030510d3f9bb0b021864f598433b276d07d365.ctv
 
-东森新闻台@@3[1920x1080][1.0mb][geo-limited],https://epg.pw/stream/8f40f88d112fe7430449314adeff17856330dd45c76e808d93a1f0adf5fdebf1.m3u8
+壹新闻[1280x720],https://epg.pw/stream/b01ee7222eeeb48a5a4b884faa7ff4a8bca520bccb6e69924b6d7625952ea9eb.m3u8
 
 上海新闻[1920x1080][7.0mb],https://epg.pw/stream/41dacb1e5e4e31bf0a1dc383875778433344bddff0cbf07fb821e4cff2f88f89.m3u8
 
