@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,电影台
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8 
+#EXTINF:-1,TVB
+https://epg.pw/stream/9a12f9c390e7723bdf60c11d413624b216e83169ced3e847565c4372a88cf35d.m3u8
+#EXTINF:-1台式台
+https://epg.pw/stream/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
 #EXTINF:-1,寰宇新闻台[1280x720]
 https://epg.pw/stream/61f2ea41a74cc3aa67af18fa7648f1ee3e9b0afbda53037baa7d0a8af536dd89.m3u8
 #EXTINF:-1,民视新闻HD[1920x1080][3.0mb]
