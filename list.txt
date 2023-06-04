@@ -4,6 +4,15 @@
 中视[1280x720][2.0mb],https://epg.pw/stream/6478902e04ad499ce467058635c654d97c58f48c47a2d4083253e79c6ecc2429.m3u8
 
 中天亚洲台[1280x720][2.0mb],https://epg.pw/stream/9a292108a81d4f972bb58f5637b2d4d46c98a13b887cded3cf663c90532131c8.ctv
+东森洋片[1280x720][2.0mb][geo-limited],https://epg.pw/stream/3c88da979f696eed7a0c30ab17d5f29bfe41bcfb61d702b66af059ca81d61d18.m3u8
+
+东森卫视[1920x1080][5.0mb],https://epg.pw/stream/38dee9964355882b0d7e00575e57e62e8ffb316974e7efee2786e064dc66b95a.ctv
+
+东森戏剧[1280x720][2.0mb],https://epg.pw/stream/0bc658e0ec0801b4ff6b43fb07831f7a4e58c0032050bf434e0091706f662c58.m3u8
+
+东森电影[1280x720][2.0mb],https://epg.pw/stream/d49e9dca478b402e1943272ecd07fa8becf59329ffab68cbb84a9ba591de3203.m3u8
+
+美国中文电视[1280x720][1.0mb],https://epg.pw/stream/201d4cb5e287d9644e50c95d8c1a25ed03ba8f24d9e20f0fad2b354b0cc63cb0.m3u8
 
 上海ics外语@@2[1920x1080][h264xaac],https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
 now新闻台[1920x1080],https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.m3u8
