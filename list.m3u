@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://epg.112114.xyz/logo/金马影院.png" group-title="其他",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,台视[1280x720][2.0mb]
-https://epg.pw/stream/b6ef139af72b61f7963bb54d0bf7c1c33f13d61f4eb50c9346e2c8ce8812c3e9.m3u8
 #EXTINF:-1,寰宇新闻台[1280x720]
 https://epg.pw/stream/61f2ea41a74cc3aa67af18fa7648f1ee3e9b0afbda53037baa7d0a8af536dd89.m3u8
 #EXTINF:-1,民视新闻HD[1920x1080][3.0mb]
