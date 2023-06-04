@@ -1,5 +1,3 @@
-[2023-06-03]
-Here are the the newly discovered free public live streams:
 上海都市[1920x1080][5.0mb],https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.m3u8
 
 五星体育@@1[1920x1080][8.0mb],https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
