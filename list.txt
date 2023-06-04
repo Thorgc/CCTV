@@ -4,8 +4,9 @@
 
 翡翠台[1920x1080][4.0mb][geo-limited],https://epg.pw/stream/8ada930782f44a5b59d3a438494166566f4b27f795e8bd66cac0b81e81b232af.ctv
 
+凤凰中文[1920x1080][2.0mb],https://epg.pw/stream/9734e5c9b64718eba8d6b5ba0ad4ecd9ff7b35fe9b0c35700d1ecf3b9f88a752.m3u8
 
-
+凤凰中文[1920x1080][3.0mb],https://epg.pw/stream/9564fcae03348374009a94fee9814fdf4d07e8bf8c469357e7fb5e69eca8ff1a.m3u8
 
 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
