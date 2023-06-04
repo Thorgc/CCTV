@@ -1,3 +1,15 @@
+
+上海ics外语@@2[1920x1080][h264xaac],https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
+
+第一财经@@5[1920x1080][h264xaac],https://epg.pw/stream/834002889b34e8fa1bb76ccdcba425dbcc59607ec573605f28fb21eab4d0a8e2.m3u8
+
+凤凰资讯[1280x720][1.0mb][geo-limited],https://epg.pw/stream/6e65b8d7e0d6dea706a1bb602a030510d3f9bb0b021864f598433b276d07d365.ctv
+
+东森新闻台@@3[1920x1080][1.0mb][geo-limited],https://epg.pw/stream/8f40f88d112fe7430449314adeff17856330dd45c76e808d93a1f0adf5fdebf1.m3u8
+
+上海新闻[1920x1080][7.0mb],https://epg.pw/stream/41dacb1e5e4e31bf0a1dc383875778433344bddff0cbf07fb821e4cff2f88f89.m3u8
+
+
 上海都市[1920x1080][5.0mb],https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.m3u8
 
 五星体育@@1[1920x1080][8.0mb],https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
