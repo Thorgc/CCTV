@@ -1,4 +1,10 @@
 寰宇新闻台[1280x720],https://epg.pw/stream/61f2ea41a74cc3aa67af18fa7648f1ee3e9b0afbda53037baa7d0a8af536dd89.m3u8
+台视[1280x720][2.0mb],https://epg.pw/stream/b6ef139af72b61f7963bb54d0bf7c1c33f13d61f4eb50c9346e2c8ce8812c3e9.m3u8
+
+中视[1280x720][2.0mb],https://epg.pw/stream/6478902e04ad499ce467058635c654d97c58f48c47a2d4083253e79c6ecc2429.m3u8
+
+中天亚洲台[1280x720][2.0mb],https://epg.pw/stream/9a292108a81d4f972bb58f5637b2d4d46c98a13b887cded3cf663c90532131c8.ctv
+
 上海ics外语@@2[1920x1080][h264xaac],https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
 now新闻台[1920x1080],https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.m3u8
 
