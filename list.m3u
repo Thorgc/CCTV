@@ -1,4 +1,302 @@
 #EXTM3U
+#EXTINF:-1,CCTV-1 8M
+http://cfss.cc/ds/bst.php?id=Cf-1
+#EXTINF:-1,CCTV-2 8M
+http://cfss.cc/ds/bst.php?id=Cf-2
+#EXTINF:-1,CCTV-3 8M
+http://cfss.cc/ds/bst.php?id=Cf-3
+#EXTINF:-1,CCTV-4 8M
+http://cfss.cc/ds/bst.php?id=Cf-4
+#EXTINF:-1,CCTV-5 8M
+http://cfss.cc/ds/bst.php?id=Cf-5
+#EXTINF:-1,CCTV-5+ 8M
+http://cfss.cc/ds/bst.php?id=Cf-6
+#EXTINF:-1,CCTV-6 8M
+http://cfss.cc/ds/bst.php?id=Cf-7
+#EXTINF:-1,CCTV-7 8M
+http://cfss.cc/ds/bst.php?id=Cf-8
+#EXTINF:-1,CCTV-8 8M
+http://cfss.cc/ds/bst.php?id=Cf-9
+#EXTINF:-1,CCTV-9 8M
+http://cfss.cc/ds/bst.php?id=Cf-10
+#EXTINF:-1,CCTV-10 8M
+http://cfss.cc/ds/bst.php?id=Cf-11
+#EXTINF:-1,CCTV-11 8M
+http://cfss.cc/ds/bst.php?id=Cf-12
+#EXTINF:-1,CCTV-12 8M
+http://cfss.cc/ds/bst.php?id=Cf-13
+#EXTINF:-1,CCTV-13 8M
+http://cfss.cc/ds/bst.php?id=Cf-14
+#EXTINF:-1,CCTV-14 8M
+http://cfss.cc/ds/bst.php?id=Cf-15
+#EXTINF:-1,CCTV-15 8M
+http://cfss.cc/ds/bst.php?id=Cf-16
+#EXTINF:-1,CCTV-16 8M
+http://cfss.cc/ds/bst.php?id=Cf-17
+#EXTINF:-1,CCTV-17 8M
+http://cfss.cc/ds/bst.php?id=Cf-18
+#EXTINF:-1,CCTV-16 4K
+http://cfss.cc/ds/bst.php?id=Cf-19
+#EXTINF:-1,江苏卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-20
+#EXTINF:-1,广西卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-21
+#EXTINF:-1,四川卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-22
+#EXTINF:-1,上海卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-23
+#EXTINF:-1,湖南卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-24
+#EXTINF:-1,浙江卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-25
+#EXTINF:-1,北京卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-26
+#EXTINF:-1,天津卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-27
+#EXTINF:-1,辽宁卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-28
+#EXTINF:-1,安徽卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-29
+#EXTINF:-1,广东卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-30
+#EXTINF:-1,深圳卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-31
+#EXTINF:-1,湖北卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-32
+#EXTINF:-1,山东卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-34
+#EXTINF:-1,江西卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-35
+#EXTINF:-1,河南卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-36
+#EXTINF:-1,河北卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-37
+#EXTINF:-1,甘肃卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-38
+#EXTINF:-1,重庆卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-39
+#EXTINF:-1,东南卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-40
+#EXTINF:-1,贵州卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-42
+#EXTINF:-1,海南卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-43
+#EXTINF:-1,黑龙江卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-44
+#EXTINF:-1,欢乐剧场4k
+http://cfss.cc/ds/bst.php?id=Cf-45
+#EXTINF:-1,CCTV1
+http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+#EXTINF:-1,CCTV2
+http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+#EXTINF:-1,CCTV3
+http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+#EXTINF:-1,CCTV4
+http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+#EXTINF:-1,CCTV5
+http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+#EXTINF:-1,CCTV6
+http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+#EXTINF:-1,CCTV7
+http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+#EXTINF:-1,CCTV8
+http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+#EXTINF:-1,CCTV9
+http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+#EXTINF:-1,CCTV10
+http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+#EXTINF:-1,CCTV11
+http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+#EXTINF:-1,CCTV12
+http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+#EXTINF:-1,CCTV13
+http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+#EXTINF:-1,CCTV14
+http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+#EXTINF:-1,CCTV15
+http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+#EXTINF:-1,CCTV16
+http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+#EXTINF:-1,CCTV17
+http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+#EXTINF:-1,4K超高清电影
+http://159.75.85.63:5681/sxg.php
+#EXTINF:-1,斗鱼276200
+http://epg.112114.xyz/douyu/276200
+#EXTINF:-1,dy4789563
+http://epg.112114.xyz/douyu/7489563
+#EXTINF:-1,dy747764
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1,CCTV-4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,八大第一
+http://123.51.230.108:18539/.m3u8
+#EXTINF:-1,广西卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1,广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls
+#EXTINF:-1,黑龙江卫视
+http://39.135.138.60:18890/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.135.138.60:18890/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1,海南卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
+#EXTINF:-1,海南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8?zweimd
+#EXTINF:-1,重庆卫视，https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+undefined
+#EXTINF:-1,重庆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1,河南卫视
+http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
+#EXTINF:-1,辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
+#EXTINF:-1,吉林卫视
+http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
+#EXTINF:-1,吉林卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1,新疆卫视
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#EXTINF:-1,新疆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1,新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1,河北卫视
+http://115.149.139.141:10001/tsfile/live/1033_1.m3u8?blog.ntnas.top
+#EXTINF:-1,河北卫视
+http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+#EXTINF:-1,河北卫视
+http://115.149.139.141:10001/tsfile/live/1033_1.m3u8
+#EXTINF:-1,河北卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.135.138.60:18890/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.135.138.60:18890/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1,天津卫视
+http://115.149.139.141:10001/tsfile/live/1036_1.m3u8
+#EXTINF:-1,天津卫视
+http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top
+#EXTINF:-1,天津卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225698/1653141771-1-1651284161.m3u8
+#EXTINF:-1,天津卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225739/1653141888-1-1648950485.m3u8
+#EXTINF:-1,三沙卫视
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+#EXTINF:-1,延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1,云南卫视
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+#EXTINF:-1,藏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1,藏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1,山西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1,浙江卫视
+http://hw-ml.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1,浙江卫视
+http://hw-ml.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1,广西卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225731/index.m3u8
+#EXTINF:-1,广西卫视
+http://115.149.139.141:10001/tsfile/live/1037_1.m3u8?blog.ntnas.top
+#EXTINF:-1,江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1,江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1,四川卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1,山西卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1,新疆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1,藏卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
+#EXTINF:-1,藏卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1,海南卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1,CCTV-4 8M
+http://cfss.cc/ds/bst.php?id=Cf-4
+#EXTINF:-1,CCTV-5 8M
+http://cfss.cc/ds/bst.php?id=Cf-5
+#EXTINF:-1,CCTV-6 8M
+http://cfss.cc/ds/bst.php?id=Cf-7
+#EXTINF:-1,CCTV-8 8M
+http://cfss.cc/ds/bst.php?id=Cf-9
+#EXTINF:-1,CCTV-9 8M
+http://cfss.cc/ds/bst.php?id=Cf-10
+#EXTINF:-1,CCTV-10 8M
+http://cfss.cc/ds/bst.php?id=Cf-11
+#EXTINF:-1,CCTV-12 8M
+http://cfss.cc/ds/bst.php?id=Cf-13
+#EXTINF:-1,上海卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-23
+#EXTINF:-1,江西卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-35
+#EXTINF:-1,贵州卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-42
+#EXTINF:-1,海南卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-43
+#EXTINF:-1,黑龙江卫视8M
+http://cfss.cc/ds/bst.php?id=Cf-44
+#EXTINF:-1 ,douyu276200
+http://epg.112114.xyz/douyu/276200
+#EXTINF:-1 ,dy4789563
+http://epg.112114.xyz/douyu/7489563
+#EXTINF:-1 ,dy747764
+http://epg.112114.xyz/douyu/747764
+
+
 #EXTINF:-1,电影台
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8 
 #EXTINF:-1,TVB
@@ -542,9 +840,4 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,douyu276200
-http://epg.112114.xyz/douyu/276200
-#EXTINF:-1 ,dy4789563
-http://epg.112114.xyz/douyu/7489563
-#EXTINF:-1 ,dy747764
-http://epg.112114.xyz/douyu/747764
+
