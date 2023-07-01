@@ -1,4 +1,73 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 ,CCTV5+
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 ,CCTV16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 ,CCTV16
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 ,CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 ,CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 ,CETV-1
+http://txycetvbl.centv.cn/cetv1/ypd.m3u8
+#EXTINF:-1 ,CETV-2
+http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+#EXTINF:-1 ,CETV-3
+http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+#EXTINF:-1 ,CETV-4
+http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
+#EXTINF:-1 ,CCTV1
+http://39.134.136.151:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV2
+http://39.134.136.151:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV3
+http://39.134.136.151:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV4
+http://39.134.136.151:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV5
+http://39.134.136.151:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV5+
+http://39.134.136.151:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV6
+http://39.134.136.151:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV7
+http://39.134.136.151:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV8
+http://39.134.136.151:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV9
+http://39.134.136.151:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV10
+http://39.134.136.151:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV11
+http://39.134.136.151:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV12
+http://39.134.136.151:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV13
+http://39.134.136.151:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV15
+http://39.134.136.151:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00
+#EXTINF:-1 ,CCTV17
+http://39.134.136.151:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,CCTV-1 8M
 http://cfss.cc/ds/bst.php?id=Cf-1
 #EXTINF:-1,CCTV-2 8M
