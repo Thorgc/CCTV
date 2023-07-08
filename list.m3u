@@ -141,54 +141,16 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 ,云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-#EXTINF:-1 ,东森戏剧[1280x720][2.0mb]
-https://epg.pw/stream/0bc658e0ec0801b4ff6b43fb07831f7a4e58c0032050bf434e0091706f662c58.m3u8
-#EXTINF:-1 ,美国中文电视[1280x720][1.0mb]
-https://epg.pw/stream/201d4cb5e287d9644e50c95d8c1a25ed03ba8f24d9e20f0fad2b354b0cc63cb0.m3u8
-#EXTINF:-1 ,东森电影[1280x720][2.0mb]
-https://epg.pw/stream/d49e9dca478b402e1943272ecd07fa8becf59329ffab68cbb84a9ba591de3203.m3u8
-#EXTINF:-1 ,上海ics外语@@2[1920x1080][h264xaac]
-https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
-#EXTINF:-1 ,now新闻台[1920x1080]
-https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.m3u8
-#EXTINF:-1 ,港台电视32[1280x720]
-https://epg.pw/stream/86450d831f1a481f1ccc6cb0bab688bb3d519af0aa0ffc0549a9fe6e7a2bbc14.m3u8
-#EXTINF:-1 ,第一财经@@5[1920x1080][h264xaac]
-https://epg.pw/stream/834002889b34e8fa1bb76ccdcba425dbcc59607ec573605f28fb21eab4d0a8e2.m3u8
-#EXTINF:-1 ,壹新闻[1280x720]
-https://epg.pw/stream/b01ee7222eeeb48a5a4b884faa7ff4a8bca520bccb6e69924b6d7625952ea9eb.m3u8
-#EXTINF:-1 ,上海新闻[1920x1080][7.0mb]
-https://epg.pw/stream/41dacb1e5e4e31bf0a1dc383875778433344bddff0cbf07fb821e4cff2f88f89.m3u8
+
 #EXTINF:-1 ,上海都市[1920x1080][5.0mb]
 https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.m3u8
 #EXTINF:-1 ,五星体育@@1[1920x1080][8.0mb]
 https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
 #EXTINF:-1 ,第一财经[1920x1080][8.0mb]
 https://epg.pw/stream/e50901f8d91bbea01029258a74bf28b9c48044453b1dc2e8bc86d338f841e7d1.m3u8
-#EXTINF:-1 ,上海新闻[1920x1080][8.0mb]
-https://epg.pw/stream/4bcb572986052db48cd2146c308aa2a749d526e085e6f433b252ad9ea4fcb7e1.m3u8
 #EXTINF:-1 ,第一财经@@1[1920x1080][8.0mb]
 https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8
-#EXTINF:-1 ,viutv[1920x1080][2.0mb]
-https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.m3u8
-#EXTINF:-1 ,无线新闻台[1280x720][2.0mb]
-https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
-#EXTINF:-1 ,上海都市@@1[1920x1080][8.0mb]
-https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
-#EXTINF:-1 ,东森新闻台@@1[1920x1080][2.0mb]
-https://epg.pw/stream/0ad8a3d3673ab97a976a9095f65c829742dee8f2c9fc7ae4fb4c76b6ba59d939.m3u8
-#EXTINF:-1 ,tvbs@@1[1920x1080][3.0mb]
-https://epg.pw/stream/55b53702b5b1adb04cdd1de3f5837efb2775cb11c105a8e90882e0da57601b5a.m3u8
-#EXTINF:-1 ,上海ics外语@@1[1920x1080][9.0mb]
-https://epg.pw/stream/1141f78b5322aec20c402bcfcec4349ca9062fc157afcec63e4a9a5893b2d304.m3u8
-#EXTINF:-1 ,j2@@2[1920x1080][2.0mb]
-https://epg.pw/stream/822a2f16e6587aa1a36016417edd4c726ccb1a13562aebfe1a400560de8a249d.m3u8
-#EXTINF:-1 ,tvbs@@2[1920x1080][3.0mb]
-https://epg.pw/stream/cfd621fd1ff5ae5ed4084d4b08205a1acf92fa9593e5ae22f5be9a66006084d7.m3u8
-#EXTINF:-1 ,tvbs新闻台@@3[1920x1080][3.0mb]
-https://epg.pw/stream/98bb6524ea5fecbe2a86febf9c903c49091e4565708e2e06c7a7f227f19638bf.m3u8
-#EXTINF:-1 ,舟山群岛旅游[640x360][0.0mb][geo-limited]
-https://epg.pw/stream/d8dbf9ac2b690770eb3fc0d97397b950b64fc699b27c4e6d46a5df7d47c61a43.m3u8
+
 #EXTINF:-1 ,重庆卫视[1920x1080][9.0mb]
 https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
 #EXTINF:-1 ,黑龙江卫视[1920x1080][8.0mb]
@@ -197,24 +159,6 @@ https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f64485
 https://epg.pw/stream/0b83429accbb5e7cabfb97b00c8748a5606237decccf6e738e3da423ff20fc4c.m3u8
 #EXTINF:-1 ,新疆卫视[720x576][2.0mb]
 https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8
-#EXTINF:-1 ,cctv5[1920x1080][5.0mb]
-https://epg.pw/stream/61df3be1490c927a746d671e52c9f9cb197fba5a08184c147a68eb80f84c4824.m3u8
-#EXTINF:-1 ,凤凰资讯[1920x1080]
-https://epg.pw/stream/d938769b67a28428dcb989056d41c4e7e9e995e38b43de0701d89816ff4cb878.m3u8
-#EXTINF:-1 ,凤凰资讯[1920x1080]
-https://epg.pw/stream/e308f9f7b68fa9e5775c465ef63f3123bb7762f33976382e27a7755fb9332a79.m3u8
-#EXTINF:-1 ,凤凰中文[1920x1080][2.0mb]
-https://epg.pw/stream/9734e5c9b64718eba8d6b5ba0ad4ecd9ff7b35fe9b0c35700d1ecf3b9f88a752.m3u8
-#EXTINF:-1 ,CHC高清电影[1920x1080][9.0mb]
-https://epg.pw/stream/2624c4dd7893661ced1e4610a41a9aa0fa40e1e54ef50f94b09c44dd894ce577.m3u8
-#EXTINF:-1 ,凤凰中文[1920x1080][3.0mb]
-https://epg.pw/stream/9564fcae03348374009a94fee9814fdf4d07e8bf8c469357e7fb5e69eca8ff1a.m3u8
-#EXTINF:-1 ,CHC家庭电影[1920x1080][9.0mb]
-https://epg.pw/stream/e603b77efeb5bfcf7fc24fb5cd0797823996da22a82e7ccd0fddad26313e325a.m3u8
-#EXTINF:-1 ,电影_贺岁片[1280x720][aacxh264]
-https://epg.pw/stream/70de6abe23701d8d4d3e76eab66e76c1f0d4f9dc9f01e437b2231fc647a40258.m3u8
-#EXTINF:-1 ,中天亞洲[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/a92e1577731eb5b425f5c613f4596d1f2daf7c4fb21e88ea222945c0f4f076a8.m3u8
 #EXTINF:-1 ,bestv電影03[1920x1080][6.0mb]
 https://epg.pw/stream/384d6c79c78367cb2885a317898231032b5fe026dd215e36762cfd8fef8c0be7.m3u8
 #EXTINF:-1 ,bestv電影05[1920x1080][14.0mb]
@@ -255,16 +199,8 @@ https://epg.pw/stream/33a3b07dad10817e739ae48e2152ca17d8c6d8060b9719192375951e51
 https://epg.pw/stream/9cd703d0bbc2f4239c14bd81325165a4d03735ccd465b5f3b68dc4a0f93f08e2.m3u8
 #EXTINF:-1 ,bestv電影19[1920x1080][h264xaac]
 https://epg.pw/stream/110abc32b2c881fbc6f6d0201724d9931731f72acedd01c4b5ec3815b69bb7cc.m3u8
-#EXTINF:-1 ,Cinemax[1920x1080][3.0mb]
-https://epg.pw/stream/ff11d240be3bcc45cc5fe59e797f59c63e2031afc96b1bcb7c660132a1c26920.m3u8
 #EXTINF:-1 ,电影_怪兽[1024x576][1.0mb]
 https://epg.pw/stream/c88f46758c89dcc22fb37fc3ec4f950a1d88bb3bc66b99fd203d2a226af09a0a.m3u8
-#EXTINF:-1 ,重庆卫视
-https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-#EXTINF:-1 ,浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 ,浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 ,CCTV-4K
 http://cfss.cc/ds/bst.php?id=Cf-0
 #EXTINF:-1 ,CCTV1
