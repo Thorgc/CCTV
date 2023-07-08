@@ -122,42 +122,7 @@ http://cfss.cc/ds/bst.php?id=Cf-43
 http://cfss.cc/ds/bst.php?id=Cf-44
 #EXTINF:-1,欢乐剧场4k
 http://cfss.cc/ds/bst.php?id=Cf-45
-#EXTINF:-1,CCTV1
-http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-#EXTINF:-1,CCTV2
-http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-#EXTINF:-1,CCTV3
-http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-#EXTINF:-1,CCTV4
-http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-#EXTINF:-1,CCTV5
-http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-#EXTINF:-1,CCTV6
-http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-#EXTINF:-1,CCTV7
-http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-#EXTINF:-1,CCTV8
-http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-#EXTINF:-1,CCTV9
-http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-#EXTINF:-1,CCTV10
-http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-#EXTINF:-1,CCTV11
-http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-#EXTINF:-1,CCTV12
-http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-#EXTINF:-1,CCTV13
-http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-#EXTINF:-1,CCTV14
-http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-#EXTINF:-1,CCTV15
-http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-#EXTINF:-1,CCTV16
-http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-#EXTINF:-1,CCTV17
-http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-#EXTINF:-1,4K超高清电影
-http://159.75.85.63:5681/sxg.php
+
 #EXTINF:-1,斗鱼276200
 http://epg.112114.xyz/douyu/276200
 #EXTINF:-1,dy4789563
@@ -302,20 +267,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1,海南卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1,CCTV-4 8M
-http://cfss.cc/ds/bst.php?id=Cf-4
-#EXTINF:-1,CCTV-5 8M
-http://cfss.cc/ds/bst.php?id=Cf-5
-#EXTINF:-1,CCTV-6 8M
-http://cfss.cc/ds/bst.php?id=Cf-7
-#EXTINF:-1,CCTV-8 8M
-http://cfss.cc/ds/bst.php?id=Cf-9
-#EXTINF:-1,CCTV-9 8M
-http://cfss.cc/ds/bst.php?id=Cf-10
-#EXTINF:-1,CCTV-10 8M
-http://cfss.cc/ds/bst.php?id=Cf-11
-#EXTINF:-1,CCTV-12 8M
-http://cfss.cc/ds/bst.php?id=Cf-13
 #EXTINF:-1,上海卫视8M
 http://cfss.cc/ds/bst.php?id=Cf-23
 #EXTINF:-1,江西卫视8M
