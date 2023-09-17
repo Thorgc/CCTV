@@ -17,100 +17,6 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 ,CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 ,CETV-1
-http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1 ,CETV-2
-http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-#EXTINF:-1 ,CETV-3
-http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-#EXTINF:-1 ,CETV-4
-http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-#EXTINF:-1 ,CCTV-1 8M
-http://cfss.cc/ds/bst.php?id=Cf-1
-#EXTINF:-1 ,CCTV-2 8M
-http://cfss.cc/ds/bst.php?id=Cf-2
-#EXTINF:-1 ,CCTV-3 8M
-http://cfss.cc/ds/bst.php?id=Cf-3
-#EXTINF:-1 ,CCTV-4 8M
-http://cfss.cc/ds/bst.php?id=Cf-4
-#EXTINF:-1 ,CCTV-5 8M
-http://cfss.cc/ds/bst.php?id=Cf-5
-#EXTINF:-1 ,CCTV-5+ 8M
-http://cfss.cc/ds/bst.php?id=Cf-6
-#EXTINF:-1 ,CCTV-6 8M
-http://cfss.cc/ds/bst.php?id=Cf-7
-#EXTINF:-1 ,CCTV-7 8M
-http://cfss.cc/ds/bst.php?id=Cf-8
-#EXTINF:-1 ,CCTV-8 8M
-http://cfss.cc/ds/bst.php?id=Cf-9
-#EXTINF:-1 ,CCTV-9 8M
-http://cfss.cc/ds/bst.php?id=Cf-10
-#EXTINF:-1 ,CCTV-10 8M
-http://cfss.cc/ds/bst.php?id=Cf-11
-#EXTINF:-1 ,CCTV-11 8M
-http://cfss.cc/ds/bst.php?id=Cf-12
-#EXTINF:-1 ,CCTV-12 8M
-http://cfss.cc/ds/bst.php?id=Cf-13
-#EXTINF:-1 ,CCTV-13 8M
-http://cfss.cc/ds/bst.php?id=Cf-14
-#EXTINF:-1 ,CCTV-14 8M
-http://cfss.cc/ds/bst.php?id=Cf-15
-#EXTINF:-1 ,CCTV-15 8M
-http://cfss.cc/ds/bst.php?id=Cf-16
-#EXTINF:-1 ,CCTV-16 8M
-http://cfss.cc/ds/bst.php?id=Cf-17
-#EXTINF:-1 ,CCTV-17 8M
-http://cfss.cc/ds/bst.php?id=Cf-18
-#EXTINF:-1 ,CCTV-16 4K
-http://cfss.cc/ds/bst.php?id=Cf-19
-#EXTINF:-1 ,江苏卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-20
-#EXTINF:-1 ,广西卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-21
-#EXTINF:-1 ,四川卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-22
-#EXTINF:-1 ,上海卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-23
-#EXTINF:-1 ,湖南卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-24
-#EXTINF:-1 ,浙江卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-25
-#EXTINF:-1 ,北京卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-26
-#EXTINF:-1 ,天津卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-27
-#EXTINF:-1 ,辽宁卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-28
-#EXTINF:-1 ,安徽卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-29
-#EXTINF:-1 ,广东卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-30
-#EXTINF:-1 ,深圳卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-31
-#EXTINF:-1 ,湖北卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-32
-#EXTINF:-1 ,山东卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-34
-#EXTINF:-1 ,江西卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-35
-#EXTINF:-1 ,河南卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-36
-#EXTINF:-1 ,河北卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-37
-#EXTINF:-1 ,甘肃卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-38
-#EXTINF:-1 ,重庆卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-39
-#EXTINF:-1 ,东南卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-40
-#EXTINF:-1 ,贵州卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-42
-#EXTINF:-1 ,海南卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-43
-#EXTINF:-1 ,黑龙江卫视8M
-http://cfss.cc/ds/bst.php?id=Cf-44
-#EXTINF:-1 ,欢乐剧场4k
-http://cfss.cc/ds/bst.php?id=Cf-45
 #EXTINF:-1 ,4K超高清电影
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 ,斗鱼276200
@@ -129,8 +35,6 @@ http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 #EXTINF:-1 ,辽宁卫视
 http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
-#EXTINF:-1 ,吉林卫视
-http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 #EXTINF:-1 ,河北卫视
 http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 #EXTINF:-1 ,三沙卫视
@@ -139,9 +43,6 @@ https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 ,青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 ,云南卫视
-http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-
 #EXTINF:-1 ,上海都市[1920x1080][5.0mb]
 https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.m3u8
 #EXTINF:-1 ,五星体育@@1[1920x1080][8.0mb]
@@ -150,7 +51,6 @@ https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb
 https://epg.pw/stream/e50901f8d91bbea01029258a74bf28b9c48044453b1dc2e8bc86d338f841e7d1.m3u8
 #EXTINF:-1 ,第一财经@@1[1920x1080][8.0mb]
 https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8
-
 #EXTINF:-1 ,重庆卫视[1920x1080][9.0mb]
 https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
 #EXTINF:-1 ,黑龙江卫视[1920x1080][8.0mb]
@@ -201,8 +101,6 @@ https://epg.pw/stream/9cd703d0bbc2f4239c14bd81325165a4d03735ccd465b5f3b68dc4a0f9
 https://epg.pw/stream/110abc32b2c881fbc6f6d0201724d9931731f72acedd01c4b5ec3815b69bb7cc.m3u8
 #EXTINF:-1 ,电影_怪兽[1024x576][1.0mb]
 https://epg.pw/stream/c88f46758c89dcc22fb37fc3ec4f950a1d88bb3bc66b99fd203d2a226af09a0a.m3u8
-#EXTINF:-1 ,CCTV-4K
-http://cfss.cc/ds/bst.php?id=Cf-0
 #EXTINF:-1 ,CCTV1
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 ,CCTV1
@@ -213,16 +111,12 @@ https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNEPqrelFraDEoSoHLBBldo/ts
 #EXTINF:-1 ,CCTV3
 https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 ,CCTV3
-http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/3/index.m3u8?
 #EXTINF:-1 ,CCTV4
 https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 ,CCTV4K
 https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 ,CCTV5
 https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 ,CCTV5
-http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/5/index.m3u8?
 #EXTINF:-1 ,CCTV5+
 https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1 ,CCTV6
@@ -231,8 +125,6 @@ https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 #EXTINF:-1 ,CCTV8
 https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 ,CCTV8
-http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/8/index.m3u8?
 #EXTINF:-1 ,CCTV9
 https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 ,CCTV10
@@ -293,45 +185,6 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
-http://jiexi.bulisite.top/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
-http://jiexi.bulisite.top/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
-http://jiexi.bulisite.top/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
-http://jiexi.bulisite.top/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
-http://jiexi.bulisite.top/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
-http://jiexi.bulisite.top/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
-http://jiexi.bulisite.top/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
-http://jiexi.bulisite.top/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
-http://jiexi.bulisite.top/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
-http://jiexi.bulisite.top/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
-http://jiexi.bulisite.top/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
-http://jiexi.bulisite.top/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
-http://jiexi.bulisite.top/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-http://jiexi.bulisite.top/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
-http://jiexi.bulisite.top/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
-http://jiexi.bulisite.top/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
-http://jiexi.bulisite.top/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
-http://jiexi.bulisite.top/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
@@ -348,10 +201,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
@@ -368,20 +217,10 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
@@ -404,210 +243,26 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CETV1.png",CETV-1
-http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CETV2.png",CETV-2
-http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CETV3.png",CETV-3
-http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CETV4.png",CETV-4
-http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
-http://39.134.136.151:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
-http://39.134.136.151:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
-http://39.134.136.151:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
-http://39.134.136.151:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
-http://39.134.136.151:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
-http://39.134.136.151:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
-http://39.134.136.151:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
-http://39.134.136.151:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
-http://39.134.136.151:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
-http://39.134.136.151:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
-http://39.134.136.151:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
-http://39.134.136.151:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-http://39.134.136.151:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
-http://39.134.136.151:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=00
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
-http://39.134.136.151:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
-http://39.134.136.151:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃鍗.png",姹熻嫃鍗
-http://jiexi.bulisite.top/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞胯タ鍗.png",骞胯タ鍗
-http://jiexi.bulisite.top/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍗.png",鍥涘窛鍗
-http://jiexi.bulisite.top/bestv.php?id=scwshd/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡鍗.png",婀栧崡鍗
-http://jiexi.bulisite.top/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鍗.png",娴欐睙鍗
-http://jiexi.bulisite.top/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滄柟鍗.png",涓滄柟鍗
-http://jiexi.bulisite.top/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍖椾含鍗.png",鍖椾含鍗
-http://jiexi.bulisite.top/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂触鍗.png",澶╂触鍗
-http://jiexi.bulisite.top/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/杈藉畞鍗.png",杈藉畞鍗
-http://jiexi.bulisite.top/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘鍗.png",瀹夊窘鍗
-http://jiexi.bulisite.top/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛戦緳姹熷崼瑙 .png",榛戦緳姹熷崼瑙 
-http://jiexi.bulisite.top/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞夸笢鍗.png",骞夸笢鍗
-http://jiexi.bulisite.top/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣卞湷鍗.png",娣卞湷鍗
-http://jiexi.bulisite.top/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧寳鍗.png",婀栧寳鍗
-http://jiexi.bulisite.top/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍚夋灄鍗.png",鍚夋灄鍗
-http://jiexi.bulisite.top/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞变笢鍗.png",灞变笢鍗
-http://jiexi.bulisite.top/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ鍗.png",姹熻タ鍗
-http://jiexi.bulisite.top/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲崡鍗.png",娌冲崡鍗
-http://jiexi.bulisite.top/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳鍗.png",娌冲寳鍗
-http://jiexi.bulisite.top/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐢樿們鍗.png",鐢樿們鍗
-http://jiexi.bulisite.top/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲嶅簡鍗.png",閲嶅簡鍗
-http://jiexi.bulisite.top/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滃崡鍗.png",涓滃崡鍗
-http://jiexi.bulisite.top/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡鍗.png",浜戝崡鍗
-http://jiexi.bulisite.top/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鍗.png",璐靛窞鍗
-http://jiexi.bulisite.top/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴峰崡鍗.png",娴峰崡鍗
-http://jiexi.bulisite.top/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娆㈢瑧鍓У満.png",娆㈢瑧鍓у満
-http://jiexi.bulisite.top/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍔茬垎浣撹偛.png",鍔茬垎浣撹偛
-http://jiexi.bulisite.top/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/蹇箰鍨傞挀.png",蹇箰鍨傞挀
-http://jiexi.bulisite.top/bestv.php?id=klcd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戦拱绾疄.png",閲戦拱绾疄
-http://jiexi.bulisite.top/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎴忔洸绮鹃€ .png",鎴忔洸绮鹃€ 
-http://jiexi.bulisite.top/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婃捣绗竴璐㈢粡.png",涓婃捣绗竴璐㈢粡
-http://jiexi.bulisite.top/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婅鏂伴椈.png",涓婅鏂伴椈
-http://jiexi.bulisite.top/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婃捣閮藉競.png",涓婃捣閮藉競
-http://jiexi.bulisite.top/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婃捣绾疄.png",涓婃捣绾疄
-http://jiexi.bulisite.top/bestv.php?id=jspdhd/4000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滄柟褰辫.png",涓滄柟褰辫
-http://jiexi.bulisite.top/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜旀槦浣撹偛.png",浜旀槦浣撹偛
-http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婅澶栬.png",涓婅澶栬
-http://jiexi.bulisite.top/bestv.php?id=icshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓冨僵鎴忓墽.png",涓冨僵鎴忓墽
-http://jiexi.bulisite.top/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婃捣鏁欒偛.png",涓婃捣鏁欒偛
-http://jiexi.bulisite.top/bestv.php?id=setvhd/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏ㄧ邯瀹 .png",鍏ㄧ邯瀹 
-http://jiexi.bulisite.top/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐢熸椿鏃跺皻.png",鐢熸椿鏃跺皻
-http://jiexi.bulisite.top/bestv.php?id=shss8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏂拌瑙 .png",鏂拌瑙 
-http://jiexi.bulisite.top/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娓告垙椋庝簯.png",娓告垙椋庝簯
-http://jiexi.bulisite.top/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐑棬缁艰壓.png",鐑棬缁艰壓
-http://jiexi.bulisite.top/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瓒呯骇浣撹偛.png",瓒呯骇浣撹偛
-http://jiexi.bulisite.top/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍋ュ悍鍏荤敓.png",鍋ュ悍鍏荤敓
-http://jiexi.bulisite.top/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐧惧彉璇惧爞.png",鐧惧彉璇惧爞
-http://jiexi.bulisite.top/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐪嬪ぉ涓嬬簿閫 .png",鐪嬪ぉ涓嬬簿閫 
-http://jiexi.bulisite.top/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗庤褰遍櫌.png",鍗庤褰遍櫌
-http://jiexi.bulisite.top/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐢电珵澶╁爞.png",鐢电珵澶╁爞
-http://jiexi.bulisite.top/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掓槬鍔ㄦ极.png",闈掓槬鍔ㄦ极
-http://jiexi.bulisite.top/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹濆疂鍔ㄧ敾.png",瀹濆疂鍔ㄧ敾
-http://jiexi.bulisite.top/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏄熷厜褰遍櫌.png",鏄熷厜褰遍櫌
-http://jiexi.bulisite.top/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璋嶆垬鍓У満.png",璋嶆垬鍓у満
-http://jiexi.bulisite.top/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏ㄧ悆澶Х墖.png",鍏ㄧ悆澶х墖
-http://jiexi.bulisite.top/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐑棬鍓У満.png",鐑棬鍓у満
-http://jiexi.bulisite.top/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闄剁摲楂樻竻.png",闄剁摲楂樻竻
-http://jiexi.bulisite.top/bestv.php?id=taocihd/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓浗鏁欒偛1.png",涓浗鏁欒偛-1
-http://jiexi.bulisite.top/bestv.php?id=zgjy1t8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓浗鏁欒偛4.png",涓浗鏁欒偛-4
-http://jiexi.bulisite.top/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗￠叿灏戝効.png",鍗￠叿灏戝効
-http://jiexi.bulisite.top/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绾疄绉戞暀.png",绾疄绉戞暀
-http://jiexi.bulisite.top/bestv.php?id=dajs8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鑼堕閬 .png",鑼堕閬 
-http://jiexi.bulisite.top/bestv.php?id=cpdhdavs8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瓒崇悆楂樻竻.png",瓒崇悆楂樻竻
-http://jiexi.bulisite.top/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐐姩鍗￠€ .png",鐐姩鍗￠€ 
-http://jiexi.bulisite.top/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滄柟璐㈢粡.png",涓滄柟璐㈢粡
-http://jiexi.bulisite.top/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閮藉競鍓У満.png",閮藉競鍓у満
-http://jiexi.bulisite.top/bestv.php?id=dsjc8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍔ㄦ极绉€鍦 .png",鍔ㄦ极绉€鍦 
-http://jiexi.bulisite.top/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉曟不澶╁湴.png",娉曟不澶╁湴
-http://jiexi.bulisite.top/bestv.php?id=fztd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戣壊瀛﹀爞.png",閲戣壊瀛﹀爞
-http://jiexi.bulisite.top/bestv.php?id=jingsepd8m/8000000
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榄呭姏瓒崇悆.png",榄呭姏瓒崇悆
-http://jiexi.bulisite.top/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍗.png",鍥涘窛鍗
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滃崡鍗.png",涓滃崡鍗
@@ -636,19 +291,17 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/inde
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍖椾含鍗.png",鍖椾含鍗
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴峰崡鍗.png",娴峰崡鍗
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗楁柟鍗.png",鍗楁柟鍗
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍐滄灄鍗.png",鍐滄灄鍗
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛戦緳姹熷崼瑙 .png",榛戦緳姹熷崼瑙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛戦緳姹熷崼瑙 .png",榛戦緳姹熷崼瑙
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瑗胯棌鍗.png",瑗胯棌鍗
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寤惰竟鍗.png",寤惰竟鍗
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐐姩鍗￠€ .png",鐐姩鍗￠€ 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐐姩鍗￠€ .png",鐐姩鍗￠€
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏靛洟鍗.png",鍏靛洟鍗
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
@@ -658,129 +311,47 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/inde
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍑ゅ嚢涓枃.png",鍑ゅ嚢涓枃
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/棣欐腐鍗.png",棣欐腐鍗
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/棣欐腐鍗.png",棣欐腐鍗
-http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鍗.png",娴欐睙鍗
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲嶅簡鍗.png",閲嶅簡鍗
 https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掓捣鍗.png",闈掓捣鍗
-http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳鍗.png",娌冲寳鍗
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞辫タ鍗.png",灞辫タ鍗
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡鍗.png",婀栧崡鍗
-http://39.134.136.151:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鍗.png",娴欐睙鍗
-http://39.134.136.151:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鍗.png",娴欐睙鍗
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃鍗.png",姹熻嫃鍗
-http://39.134.136.151:6610/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞夸笢鍗.png",骞夸笢鍗
-http://39.134.136.151:6610/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣卞湷鍗.png",娣卞湷鍗
-http://39.134.136.151:6610/000000001000/1000000001000009227/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍖椾含鍗.png",鍖椾含鍗
-http://39.134.136.151:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍖椾含鍗.png",鍖椾含鍗
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂触鍗.png",澶╂触鍗
-http://39.134.136.151:6610/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍑ゅ嚢涓枃.png",鍑ゅ嚢涓枃
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滄柟鍗.png",涓滄柟鍗
-http://39.134.136.151:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞变笢鍗.png",灞变笢鍗
-http://39.134.136.151:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧寳鍗.png",婀栧寳鍗
-http://39.134.136.151:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍗.png",鍥涘窛鍗
-http://39.134.136.151:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲嶅簡鍗.png",閲嶅簡鍗
-http://39.134.136.151:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘鍗.png",瀹夊窘鍗
-http://39.134.136.151:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛戦緳姹熷崼瑙 .png",榛戦緳姹熷崼瑙 
-http://39.134.136.151:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛戦緳姹熷崼瑙 .png",榛戦緳姹熷崼瑙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛戦緳姹熷崼瑙 .png",榛戦緳姹熷崼瑙
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳鍗.png",娌冲寳鍗
-http://39.134.136.151:6610/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳鍗.png",娌冲寳鍗
-http://event.pull.hebtv.com/jishi/weishipindao.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳鍗.png",娌冲寳鍗
 http://event.pull.hebtv.com/jishi/weishipindao.flv
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲崡鍗.png",娌冲崡鍗
-http://39.134.136.151:6610/000000001000/7304224304099543804/index.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲崡鍗.png",娌冲崡鍗
-http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓滃崡鍗.png",涓滃崡鍗
-http://39.134.136.151:6610/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞胯タ鍗.png",骞胯タ鍗
-http://39.134.136.151:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞辫タ鍗.png",灞辫タ鍗
-http://39.134.136.151:6610/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞辫タ鍗.png",灞辫タ鍗
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闄曡タ鍗.png",闄曡タ鍗
-http://39.134.136.151:6610/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴峰崡鍗.png",娴峰崡鍗
-http://39.134.136.151:6610/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴峰崡鍗.png",娴峰崡鍗
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡鍗.png",浜戝崡鍗
-http://39.134.136.151:6610/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡鍗.png",浜戝崡鍗
-http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍚夋灄鍗.png",鍚夋灄鍗
-http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍚夋灄鍗.png",鍚夋灄鍗
-http://39.134.136.151:6610/000000001000/6042486520432105075/index.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鍗.png",璐靛窞鍗
-http://39.134.136.151:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶Ф咕鍖哄崼瑙 .png",澶ф咕鍖哄崼瑙 
-http://39.134.136.151:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶Ф咕鍖哄崼瑙 .png",澶ф咕鍖哄崼瑙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶Ф咕鍖哄崼瑙 .png",澶ф咕鍖哄崼瑙
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婢充簹鍗.png",婢充簹鍗
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掓捣鍗.png",闈掓捣鍗
-http://39.134.136.151:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍐呰挋鍙ゅ崼瑙 .png",鍐呰挋鍙ゅ崼瑙 
-http://39.134.136.151:6610/000000001000/5559214655508729688/index.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸鍗.png",瀹佸鍗
 https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸鍗.png",瀹佸鍗
-http://39.134.136.151:6610/000000001000/7527747602951312973/index.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐢樿們鍗.png",鐢樿們鍗
-http://39.134.136.151:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏂扮枂鍗.png",鏂扮枂鍗
-http://39.134.136.151:6610/000000001000/5802765535081445534/index.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=00
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瑗胯棌鍗.png",瑗胯棌鍗
-http://39.134.136.151:6610/000000001000/6603041244077933770/index.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瑗胯棌鍗.png",瑗胯棌鍗
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寤惰竟鍗.png",寤惰竟鍗
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寤惰竟鍗.png",寤惰竟鍗
 http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寤惰竟鍗.png",寤惰竟鍗
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍐滄灄鍗.png",鍐滄灄鍗
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓夋矙鍗.png",涓夋矙鍗
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞变笢鏁欒偛鍗.png",灞变笢鏁欒偛鍗
-http://39.134.136.151:6610/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=00
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊鍗.png",瀹夊鍗
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍐滄灄鍗.png",鍐滄灄鍗
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闄曡タ涓€濂 .png",闄曡タ涓€濂 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闄曡タ涓€濂 .png",闄曡タ涓€濂
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闄曡タ鍥涘.png",闄曡タ鍥涘
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
@@ -850,10 +421,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/缁嶅叴鏂囧寲褰遍櫌.png",缁嶅叴鏂囧寲褰遍櫌
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戝崕鏂伴椈缁煎悎.png",閲戝崕鏂伴椈缁煎悎
-http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戝崕鍏叡棰戦亾.png",閲戝崕鍏叡棰戦亾
-http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戝崕閮藉競鍐滄潙.png",閲戝崕閮藉競鍐滄潙
 http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姝︿箟鏂伴椈缁煎悎.png",姝︿箟鏂伴椈缁煎悎
@@ -864,8 +431,6 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/钀У北鐢熸椿棰戦亾.png",钀у北鐢熸椿棰戦亾
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣冲畨鐢佃鍙 .png",娣冲畨鐢佃鍙 
-https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浣欐澀缁煎悎棰戦亾.png",浣欐澀缁煎悎棰戦亾
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浣欐澀鏈潵E棰戦亾.png",浣欐澀鏈潵E棰戦亾
@@ -884,7 +449,7 @@ http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婅櫈鏂囧寲褰遍櫌.png",涓婅櫈鏂囧寲褰遍櫌
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婅櫈鏂板晢閮 .png",涓婅櫈鏂板晢閮 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓婅櫈鏂板晢閮 .png",涓婅櫈鏂板晢閮
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴峰畞鏂伴椈缁煎悎.png",娴峰畞鏂伴椈缁煎悎
 http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
@@ -906,13 +471,13 @@ http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏅檧鏂伴椈缁煎悎.png",鏅檧鏂伴椈缁煎悎
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閯炲窞涓€濂 .png",閯炲窞涓€濂 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閯炲窞涓€濂 .png",閯炲窞涓€濂
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╁彴鍜屽悎棰戦亾.png",澶╁彴鍜屽悎棰戦亾
 http://hlsv2.quklive.com/live/1617072208961931/index.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/甯稿北鏂伴椈缁煎悎.png",甯稿北鏂伴椈缁煎悎
 https://hlsv2.quklive.com/live/1621306190044902/index.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮€鍖栧浗瀹跺叕鍥 .png",寮€鍖栧浗瀹跺叕鍥 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮€鍖栧浗瀹跺叕鍥 .png",寮€鍖栧浗瀹跺叕鍥
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榫欐父鏂伴椈缁煎悎.png",榫欐父鏂伴椈缁煎悎
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
@@ -934,7 +499,7 @@ http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝拰鏂伴椈缁煎悎.png",浜戝拰鏂伴椈缁煎悎
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍖椾粦鐢佃鍙 .png",鍖椾粦鐢佃鍙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍖椾粦鐢佃鍙 .png",鍖椾粦鐢佃鍙
 http://play-sh.quklive.com/live/1626327731714170.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐢扮數瑙嗗彴.png",鐢扮數瑙嗗彴
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
@@ -953,8 +518,6 @@ http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣畨褰遍櫌濞变箰.png",娣畨褰遍櫌濞变箰
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃犻敗鏂伴椈缁煎悎.png",鏃犻敗鏂伴椈缁煎悎
-http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃犻敗鏂伴椈缁煎悎.png",鏃犻敗鏂伴椈缁煎悎
 http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃犻敗濞变箰.png",鏃犻敗濞变箰
 http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
@@ -964,9 +527,9 @@ http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃犻敗缁忔祹.png",鏃犻敗缁忔祹
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮犲娓柊闂荤患鍚 .png",寮犲娓柊闂荤患鍚 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮犲娓柊闂荤患鍚 .png",寮犲娓柊闂荤患鍚
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮犲娓皯鐢熼閬 .png",寮犲娓皯鐢熼閬 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮犲娓皯鐢熼閬 .png",寮犲娓皯鐢熼閬
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婊ㄦ捣鏂伴椈缁煎悎.png",婊ㄦ捣鏂伴椈缁煎悎
 http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8?zjiangsd
@@ -976,16 +539,12 @@ http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
 http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/濡備笢鏂伴椈缁煎悎.png",濡備笢鏂伴椈缁煎悎
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熷畞鏂伴椈棰戦亾.png",姹熷畞鏂伴椈棰戦亾
-https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婧Ф按鏂伴椈缁煎悎.png",婧ф按鏂伴椈缁煎悎
 http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婧Ф按褰遍櫌濞变箰.png",婧ф按褰遍櫌濞变箰
 http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣槾缁煎悎棰戦亾.png",娣槾缁煎悎棰戦亾
 http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣槾褰遍櫌棰戦亾.png",娣槾褰遍櫌棰戦亾
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戞箹鏂伴椈缁煎悎.png",閲戞箹鏂伴椈缁煎悎
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲戝潧鏂伴椈棰戦亾.png",閲戝潧鏂伴椈棰戦亾
@@ -1008,8 +567,6 @@ http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐫㈠畞涓夊啘棰戦亾.png",鐫㈠畞涓夊啘棰戦亾
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/濮滃牥鏂伴椈缁煎悎.png",濮滃牥鏂伴椈缁煎悎
-https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌槼缁煎悎棰戦亾.png",娌槼缁煎悎棰戦亾
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎵腑鏂伴椈棰戦亾.png",鎵腑鏂伴椈棰戦亾
@@ -1022,8 +579,6 @@ http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/楂橀偖缁煎悎棰戦亾.png",楂橀偖缁煎悎棰戦亾
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹胯鲍缁煎悎棰戦亾.png",瀹胯鲍缁煎悎棰戦亾
-https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐炬豹鏂伴椈棰戦亾.png",璐炬豹鏂伴椈棰戦亾
 http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐炬豹鏃呮父棰戦亾.png",璐炬豹鏃呮父棰戦亾
@@ -1046,45 +601,17 @@ http://221.2.36.34:8888/newlive/live/hls/54/live.m3u8
 http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗椾含灏戝効.png",鍗椾含灏戝効
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐚拰鑰侀紶.png",鐚拰鑰侀紶
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绔ュ勾缁忓吀.png",绔ュ勾缁忓吀
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐜╁叿涔愬洯.png",鐜╁叿涔愬洯
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎬€鏃У姩鐢 .png",鎬€鏃у姩鐢 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹濆疂璇惧爞.png",瀹濆疂璇惧爞
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/濂ョ壒鏇 .png",濂ョ壒鏇 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍠滅緤缇 .png",鍠滅緤缇 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍚嶄睛鎺㈡煰鍗 .png",鍚嶄睛鎺㈡煰鍗 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍔ㄧ敾灏忓ぉ鍦 .png",鍔ㄧ敾灏忓ぉ鍦 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏斿皬璐濆皵姝 .png",鍏斿皬璐濆皵姝 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍎跨涔愬洯.png",鍎跨涔愬洯
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍎挎瓕澶У叏.png",鍎挎瓕澶у叏
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍊掗湁鐔 .png",鍊掗湁鐔 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜插瓙灏忔父鎴 .png",浜插瓙灏忔父鎴 
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜插瓙鍚挋.png",浜插瓙鍚挋
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐔婂ぇ杩囧勾.png",鐔婂ぇ杩囧勾
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐩存挱涓浗绮剧紪鐩存挱.png",鐩存挱涓浗绮剧紪鐩存挱
 http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屾按缁曞洓闂 .png",婀栧崡寮犲鐣屾按缁曞洓闂 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屾按缁曞洓闂 .png",婀栧崡寮犲鐣屾按缁曞洓闂
 http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽皢鍐涘垪闃 .png",婀栧崡寮犲鐣屽皢鍐涘垪闃 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽皢鍐涘垪闃 .png",婀栧崡寮犲鐣屽皢鍐涘垪闃
 http://gcksc.v.kcdnvip.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣岄樋鍑¤揪鎮诞灞 .png",婀栧崡寮犲鐣岄樋鍑¤揪鎮诞灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣岄樋鍑¤揪鎮诞灞 .png",婀栧崡寮犲鐣岄樋鍑¤揪鎮诞灞
 http://gcksc.v.kcdnvip.com/gc/zjjafdxfs_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣岃糠榄傚彴.png",婀栧崡寮犲鐣岃糠榄傚彴
 http://gcksc.v.kcdnvip.com/gc/zjjmht_1/index.m3u8
@@ -1092,13 +619,13 @@ http://gcksc.v.kcdnvip.com/gc/zjjmht_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/zjjbfh_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽尽绗斿嘲.png",婀栧崡寮犲鐣屽尽绗斿嘲
 http://gcksc.v.kcdnvip.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑 .png",鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑 .png",鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑
 http://gcksc.v.kcdnvip.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑 .png",鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑 .png",鍥涘窛宄ㄧ湁灞变簯娴锋棩鍑
 http://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞辫繙鐪鸿础鍢庨洩灞 .png",鍥涘窛宄ㄧ湁灞辫繙鐪鸿础鍢庨洩灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞辫繙鐪鸿础鍢庨洩灞 .png",鍥涘窛宄ㄧ湁灞辫繙鐪鸿础鍢庨洩灞
 http://gcksc.v.kcdnvip.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞辨櫘璐よ彥钀ㄩ摐鍍 .png",鍥涘窛宄ㄧ湁灞辨櫘璐よ彥钀ㄩ摐鍍 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞辨櫘璐よ彥钀ㄩ摐鍍 .png",鍥涘窛宄ㄧ湁灞辨櫘璐よ彥钀ㄩ摐鍍
 http://gcksc.v.kcdnvip.com/gc/emspxps_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛宄ㄧ湁灞辫繙鐪轰竾浣涢《.png",鍥涘窛宄ㄧ湁灞辫繙鐪轰竾浣涢《
 http://gcksc.v.kcdnvip.com/gc/emswfs_1/index.m3u8
@@ -1106,17 +633,17 @@ http://gcksc.v.kcdnvip.com/gc/emswfs_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鏉窞浜戞爾灏忛晣.png",娴欐睙鏉窞浜戞爾灏忛晣
 http://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲嶅簡鐭虫煴鍗庢邯鏉 .png",閲嶅簡鐭虫煴鍗庢邯鏉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閲嶅簡鐭虫煴鍗庢邯鏉 .png",閲嶅簡鐭虫煴鍗庢邯鏉
 http://gcksc.v.kcdnvip.com/gc/jsh02_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ浜曞唸灞辩灞辨潙.png",姹熻タ浜曞唸灞辩灞辨潙
 http://gcksc.v.kcdnvip.com/gc/wysyxdhp_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘閲戝澶Ф咕鏉 .png",瀹夊窘閲戝澶ф咕鏉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘閲戝澶Ф咕鏉 .png",瀹夊窘閲戝澶ф咕鏉
 http://gcksc.v.kcdnvip.com/gc/szgk01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞辫タ鑻涘矚瀹嬪娌熸柊鏉 .png",灞辫タ鑻涘矚瀹嬪娌熸柊鏉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/灞辫タ鑻涘矚瀹嬪娌熸柊鏉 .png",灞辫タ鑻涘矚瀹嬪娌熸柊鏉
 http://gcksc.v.kcdnvip.com/gc/wysdhpcy_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳寮犲寳寰疯儨鏉 .png",娌冲寳寮犲寳寰疯儨鏉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳寮犲寳寰疯儨鏉 .png",娌冲寳寮犲寳寰疯儨鏉
 http://gcksc.v.kcdnvip.com/gc/pygc01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳寮犲寳寰疯儨鏉 .png",娌冲寳寮犲寳寰疯儨鏉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲寳寮犲寳寰疯儨鏉 .png",娌冲寳寮犲寳寰疯儨鏉
 http://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏂扮枂澶╁北(娴疯タ骞冲彴).png",鏂扮枂澶╁北(娴疯タ骞冲彴)
 http://gcksc.v.kcdnvip.com/gc/xjtchxpt_1/index.m3u8
@@ -1130,7 +657,7 @@ http://gcksc.v.kcdnvip.com/gc/xjtcmys_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/xjtcdgs_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽ぉ闂ㄥ北瑗跨嚎鐜荤拑鏍堥亾.png",婀栧崡寮犲鐣屽ぉ闂ㄥ北瑗跨嚎鐜荤拑鏍堥亾
 http://gcksc.v.kcdnvip.com/gc/tms05_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽ぉ闂ㄥ北澶╅棬娲 .png",婀栧崡寮犲鐣屽ぉ闂ㄥ北澶╅棬娲 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽ぉ闂ㄥ北澶╅棬娲 .png",婀栧崡寮犲鐣屽ぉ闂ㄥ北澶╅棬娲
 http://gcksc.v.kcdnvip.com/gc/tmstmd01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽ぉ闂ㄥ北澶╃┖姝ラ亾.png",婀栧崡寮犲鐣屽ぉ闂ㄥ北澶╃┖姝ラ亾
 http://gcksc.v.kcdnvip.com/gc/tms02_1/index.m3u8
@@ -1138,69 +665,69 @@ http://gcksc.v.kcdnvip.com/gc/tms02_1/index.m3u8
 http://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/婀栧崡寮犲鐣屽ぉ闂ㄥ北浜戞Ⅵ浠欓《.png",婀栧崡寮犲鐣屽ぉ闂ㄥ北浜戞ⅵ浠欓《
 http://gcksc.v.kcdnvip.com/gc/tms04_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍘﹂棬榧撴氮灞 .png",鍘﹂棬榧撴氮灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍘﹂棬榧撴氮灞 .png",鍘﹂棬榧撴氮灞
 http://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍘﹂棬榧撴氮灞 .png",鍘﹂棬榧撴氮灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍘﹂棬榧撴氮灞 .png",鍘﹂棬榧撴氮灞
 http://gccncc.v.wscdns.com/gc/gly01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞胯タ鐜夋灄澶У灞辫幉鑺卞北椤 .png",骞胯タ鐜夋灄澶у灞辫幉鑺卞北椤 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞胯タ鐜夋灄澶У灞辫幉鑺卞北椤 .png",骞胯タ鐜夋灄澶у灞辫幉鑺卞北椤
 http://gcksc.v.kcdnvip.com/gc/drs01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏噷娌熼鏅尯妗冭姳婀剧€戝竷.png",鍏噷娌熼鏅尯妗冭姳婀剧€戝竷
 http://gcksc.v.kcdnvip.com/gc/blg05_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏噷娌熼鏅尯澶╃晫灞辩幓鐠冩爤閬 .png",鍏噷娌熼鏅尯澶╃晫灞辩幓鐠冩爤閬 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏噷娌熼鏅尯澶╃晫灞辩幓鐠冩爤閬 .png",鍏噷娌熼鏅尯澶╃晫灞辩幓鐠冩爤閬
 http://gcksc.v.kcdnvip.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹跺窛鏄犵鏂板煄.png",姹跺窛鏄犵鏂板煄
 http://gcksc.v.kcdnvip.com/gc/wcyxxc01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗佸叓娲炴潙.png",鍗佸叓娲炴潙
 http://gcksc.v.kcdnvip.com/gc/sbd01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瓒电獊娉 .png",瓒电獊娉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瓒电獊娉 .png",瓒电獊娉
 http://gcksc.v.kcdnvip.com/gc/btq01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯鎷滅粡鍙 .png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯鎷滅粡鍙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯鎷滅粡鍙 .png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯鎷滅粡鍙
 http://gcksc.v.kcdnvip.com/gc/jhs02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞 .png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞 .png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞
 http://gcksc.v.kcdnvip.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞 .png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞 .png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯涔濆崕灞
 http://gccncc.v.wscdns.com/gc/jhs05_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘姹犲窞涔濆崕灞遍鏅尯鑺卞彴.png",瀹夊窘姹犲窞涔濆崕灞遍鏅尯鑺卞彴
 http://gcksc.v.kcdnvip.com/gc/jhs01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴瑗 .png",姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴瑗 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴瑗 .png",姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴瑗
 http://gcksc.v.kcdnvip.com/gc/ylh04_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗 .png",姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗 .png",姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗
 http://gcksc.v.kcdnvip.com/gc/ylh03_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗 .png",姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗 .png",姹熻嫃寰愬窞浜戦緳婀栭鏅尯浜戦緳灞辫鏅彴鍗
 http://gccncc.v.wscdns.com/gc/ylh03_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鏉窞鍗冨矝婀 .png",娴欐睙鏉窞鍗冨矝婀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鏉窞鍗冨矝婀 .png",娴欐睙鏉窞鍗冨矝婀
 http://gcksc.v.kcdnvip.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鏉窞鍗冨矝婀 .png",娴欐睙鏉窞鍗冨矝婀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鏉窞鍗冨矝婀 .png",娴欐睙鏉窞鍗冨矝婀
 http://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗椾含鐜勬婀栧叕鍥 .png",鍗椾含鐜勬婀栧叕鍥 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗椾含鐜勬婀栧叕鍥 .png",鍗椾含鐜勬婀栧叕鍥
 http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鐜夐緳闆北.png",浜戝崡涓芥睙鐜夐緳闆北
 http://gcksc.v.kcdnvip.com/gc/ylxs11_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鐜夋恫婀 .png",浜戝崡涓芥睙鐜夋恫婀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鐜夋恫婀 .png",浜戝崡涓芥睙鐜夋恫婀
 http://gcksc.v.kcdnvip.com/gc/hkylxs02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙钃濇湀璋 .png",浜戝崡涓芥睙钃濇湀璋 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙钃濇湀璋 .png",浜戝崡涓芥睙钃濇湀璋
 http://gcksc.v.kcdnvip.com/gc/ylxs12_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡鐧芥矙杩滅満鐜夐緳闆北.png",浜戝崡鐧芥矙杩滅満鐜夐緳闆北
 http://gcksc.v.kcdnvip.com/gc/hkylxs03_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙涓€婊存按杩囦附姹 .png",浜戝崡涓芥睙涓€婊存按杩囦附姹 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙涓€婊存按杩囦附姹 .png",浜戝崡涓芥睙涓€婊存按杩囦附姹
 http://gcksc.v.kcdnvip.com/gc/hkylxs04_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鐜夐緳闆北鑽夌敻.png",浜戝崡涓芥睙鐜夐緳闆北鑽夌敻
 http://gcksc.v.kcdnvip.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鐧芥按鍙 .png",浜戝崡涓芥睙鐧芥按鍙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鐧芥按鍙 .png",浜戝崡涓芥睙鐧芥按鍙
 http://gcksc.v.kcdnvip.com/gc/hkylxs07_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙钃濇湀璋蜂腑娓告箹闈 .png",浜戝崡涓芥睙钃濇湀璋蜂腑娓告箹闈 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙钃濇湀璋蜂腑娓告箹闈 .png",浜戝崡涓芥睙钃濇湀璋蜂腑娓告箹闈
 http://gcksc.v.kcdnvip.com/gc/hkylxs08_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙楂樺皵澶 .png",浜戝崡涓芥睙楂樺皵澶 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙楂樺皵澶 .png",浜戝崡涓芥睙楂樺皵澶
 http://gcksc.v.kcdnvip.com/gc/hkylxs09_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鍐板窛.png",浜戝崡涓芥睙鍐板窛
 http://gcksc.v.kcdnvip.com/gc/hkylxs05_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡涓芥睙鍗拌薄瀹炴櫙.png",浜戝崡涓芥睙鍗拌薄瀹炴櫙
 http://gcksc.v.kcdnvip.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃鍗椾含鐗涢灞 .png",姹熻嫃鍗椾含鐗涢灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻嫃鍗椾含鐗涢灞 .png",姹熻嫃鍗椾含鐗涢灞
 http://gcksc.v.kcdnvip.com/gc/nss01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓婕冲窞鍏硨缈＄繝婀 .png",绂忓缓婕冲窞鍏硨缈＄繝婀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓婕冲窞鍏硨缈＄繝婀 .png",绂忓缓婕冲窞鍏硨缈＄繝婀
 http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓婕冲窞閱夌編娌欐哗缈＄繝婀 .png",绂忓缓婕冲窞閱夌編娌欐哗缈＄繝婀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓婕冲窞閱夌編娌欐哗缈＄繝婀 .png",绂忓缓婕冲窞閱夌編娌欐哗缈＄繝婀
 http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂触涔嬬溂.png",澶╂触涔嬬溂
 http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
@@ -1210,29 +737,29 @@ http://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/xcqh01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛瑗挎槍閭涙捣鏅尯.png",鍥涘窛瑗挎槍閭涙捣鏅尯
 http://gccncc.v.wscdns.com/gc/xcqh01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏅檧灞 .png",鏅檧灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏅檧灞 .png",鏅檧灞
 http://gcksc.v.kcdnvip.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鑸熷北涓滄瀬宀 .png",娴欐睙鑸熷北涓滄瀬宀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙鑸熷北涓滄瀬宀 .png",娴欐睙鑸熷北涓滄瀬宀
 http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娌冲崡閮戜笢鏂板尯鍗冪幒骞垮満.png",娌冲崡閮戜笢鏂板尯鍗冪幒骞垮満
 http://gcksc.v.kcdnvip.com/gc/zdxq01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍥涘濞樺北骞哄宄 .png",鍥涘窛鍥涘濞樺北骞哄宄 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍥涘濞樺北骞哄宄 .png",鍥涘窛鍥涘濞樺北骞哄宄
 http://gcksc.v.kcdnvip.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍥涘濞樺北闅嗙彔鎺 .png",鍥涘窛鍥涘濞樺北闅嗙彔鎺 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍥涘窛鍥涘濞樺北闅嗙彔鎺 .png",鍥涘窛鍥涘濞樺北闅嗙彔鎺
 http://gcksc.v.kcdnvip.com/gc/sgns02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸娌欏潯澶撮暱娌宠惤鏃 .png",瀹佸娌欏潯澶撮暱娌宠惤鏃 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸娌欏潯澶撮暱娌宠惤鏃 .png",瀹佸娌欏潯澶撮暱娌宠惤鏃
 http://gcksc.v.kcdnvip.com/gc/nxsptdmgychlr_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸娌欏潯澶村ぇ婕犲鐑 .png",瀹佸娌欏潯澶村ぇ婕犲鐑 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸娌欏潯澶村ぇ婕犲鐑 .png",瀹佸娌欏潯澶村ぇ婕犲鐑
 http://gcksc.v.kcdnvip.com/gc/nxsptdmgy_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓芥睙鍙ゅ煄澶Х爺鑺卞贩瑙傛櫙.png",涓芥睙鍙ゅ煄澶х爺鑺卞贩瑙傛櫙
 http://gcksc.v.kcdnvip.com/gc/ljgcdyhxgjt_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓芥睙鍙ゅ煄澶Х爺鑺卞贩瑙傛櫙.png",涓芥睙鍙ゅ煄澶х爺鑺卞贩瑙傛櫙
 http://gccncc.v.wscdns.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓芥睙鍙ゅ煄澶Ф按杞 .png",涓芥睙鍙ゅ煄澶ф按杞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓芥睙鍙ゅ煄澶Ф按杞 .png",涓芥睙鍙ゅ煄澶ф按杞
 http://gcksc.v.kcdnvip.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓芥睙鍙ゅ煄涓囧彜妤奸仴鏈涚帀榫欓洩灞 .png",涓芥睙鍙ゅ煄涓囧彜妤奸仴鏈涚帀榫欓洩灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓芥睙鍙ゅ煄涓囧彜妤奸仴鏈涚帀榫欓洩灞 .png",涓芥睙鍙ゅ煄涓囧彜妤奸仴鏈涚帀榫欓洩灞
 http://gcksc.v.kcdnvip.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐙瓙灞遍笩鐬颁附姹熷彜鍩 .png",鐙瓙灞遍笩鐬颁附姹熷彜鍩 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鐙瓙灞遍笩鐬颁附姹熷彜鍩 .png",鐙瓙灞遍笩鐬颁附姹熷彜鍩
 http://gcksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝彴灞卞皬瀵ㄦ矡.png",浜戝彴灞卞皬瀵ㄦ矡
 http://gcksc.v.kcdnvip.com/gc/ytsxzg_1/index.m3u8
@@ -1248,25 +775,25 @@ http://gcksc.v.kcdnvip.com/gc/ytszyf_1/index.m3u8
 http://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂姊﹀够瀹跺洯.png",闆埂姊﹀够瀹跺洯
 http://gcksc.v.kcdnvip.com/gc/mdjxxmhjyxj_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂姊﹀够瀹跺洯瑙傛櫙鍙 .png",闆埂姊﹀够瀹跺洯瑙傛櫙鍙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂姊﹀够瀹跺洯瑙傛櫙鍙 .png",闆埂姊﹀够瀹跺洯瑙傛櫙鍙
 http://gcksc.v.kcdnvip.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂姊﹀够瀹跺洯瑙傛櫙鍙 .png",闆埂姊﹀够瀹跺洯瑙傛櫙鍙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂姊﹀够瀹跺洯瑙傛櫙鍙 .png",闆埂姊﹀够瀹跺洯瑙傛櫙鍙
 http://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂澶Х煶纰 .png",闆埂澶х煶纰 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闆埂澶Х煶纰 .png",闆埂澶х煶纰
 http://gcksc.v.kcdnvip.com/gc/mdjxxdsb_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣钃濆嵃鑺卞竷.png",涔岄晣钃濆嵃鑺卞竷
 http://gcksc.v.kcdnvip.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣瑗垮競娌 .png",涔岄晣瑗垮競娌 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣瑗垮競娌 .png",涔岄晣瑗垮競娌
 http://gcksc.v.kcdnvip.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣瑗垮競娌 .png",涔岄晣瑗垮競娌 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣瑗垮競娌 .png",涔岄晣瑗垮競娌
 http://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣榫欏舰鐢 .png",涔岄晣榫欏舰鐢 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣榫欏舰鐢 .png",涔岄晣榫欏舰鐢
 http://gcksc.v.kcdnvip.com/gc/zjwzlxt_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔岄晣鍏ㄦ櫙.png",涔岄晣鍏ㄦ櫙
 http://gcksc.v.kcdnvip.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍑ゅ嚢鍙ゅ煄鍗楀崕灞 .png",鍑ゅ嚢鍙ゅ煄鍗楀崕灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍑ゅ嚢鍙ゅ煄鍗楀崕灞 .png",鍑ゅ嚢鍙ゅ煄鍗楀崕灞
 http://gcksc.v.kcdnvip.com/gc/fhgcdnhs_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍑ゅ嚢鍙ゅ煄涓滃叧闂 .png",鍑ゅ嚢鍙ゅ煄涓滃叧闂 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍑ゅ嚢鍙ゅ煄涓滃叧闂 .png",鍑ゅ嚢鍙ゅ煄涓滃叧闂
 http://gcksc.v.kcdnvip.com/gc/fhgcdgm_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勮姳鍩庢按闀垮煄01.png",榛勮姳鍩庢按闀垮煄01
 http://gcksc.v.kcdnvip.com/gc/wgw01_1/index.m3u8
@@ -1278,59 +805,59 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勮姳鍩庢按闀垮煄04.png",榛勮姳鍩庢按闀垮煄04
 http://gcksc.v.kcdnvip.com/gc/wgw04_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/楦Ｆ矙灞 .png",楦ｆ矙灞 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/楦Ｆ矙灞 .png",楦ｆ矙灞
 http://gcksc.v.kcdnvip.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/楦Ｆ矙灞卞北闂 .png",楦ｆ矙灞卞北闂 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/楦Ｆ矙灞卞北闂 .png",楦ｆ矙灞卞北闂
 http://gcksc.v.kcdnvip.com/gc/dhyyqyyq_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏈堢墮娉 .png",鏈堢墮娉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏈堢墮娉 .png",鏈堢墮娉
 http://gcksc.v.kcdnvip.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜斿僵姹 .png",浜斿僵姹 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜斿僵姹 .png",浜斿僵姹
 http://gcksc.v.kcdnvip.com/gc/hlwcc_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜斿僵姹 .png",浜斿僵姹 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜斿僵姹 .png",浜斿僵姹
 http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勯緳.png",榛勯緳
 http://gcksc.v.kcdnvip.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏈涗埂鍙 .png",鏈涗埂鍙 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏈涗埂鍙 .png",鏈涗埂鍙
 http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娲楄韩娲 .png",娲楄韩娲 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娲楄韩娲 .png",娲楄韩娲
 http://gcksc.v.kcdnvip.com/gc/hlxsd_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娲楄韩娲 .png",娲楄韩娲 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娲楄韩娲 .png",娲楄韩娲
 http://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北涓诲嘲.png",娉板北涓诲嘲
 http://gcksc.v.kcdnvip.com/gc/taishan01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶Ц宄 .png",娉板北澶ц宄 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶Ц宄 .png",娉板北澶ц宄
 http://gcksc.v.kcdnvip.com/gc/taishan03_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鎷卞寳鐭 .png",娉板北鎷卞寳鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鎷卞寳鐭 .png",娉板北鎷卞寳鐭
 http://gcksc.v.kcdnvip.com/gc/taishan04_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐜夌殗椤 .png",娉板北鐜夌殗椤 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐜夌殗椤 .png",娉板北鐜夌殗椤
 http://gcksc.v.kcdnvip.com/gc/taishan06_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐜夌殗椤 .png",娉板北鐜夌殗椤 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐜夌殗椤 .png",娉板北鐜夌殗椤
 http://gccncc.v.wscdns.com/gc/taishan06_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鍗佸叓鐩 .png",娉板北鍗佸叓鐩 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鍗佸叓鐩 .png",娉板北鍗佸叓鐩
 http://gcksc.v.kcdnvip.com/gc/taishan05_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶╄.png",娉板北澶╄
 http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶╄.png",娉板北澶╄
 http://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北缁忕煶宄 .png",娉板北缁忕煶宄 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北缁忕煶宄 .png",娉板北缁忕煶宄
 http://gcksc.v.kcdnvip.com/gc/hkts04_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鏈涗汉鏉 .png",娉板北鏈涗汉鏉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鏈涗汉鏉 .png",娉板北鏈涗汉鏉
 http://gcksc.v.kcdnvip.com/gc/taishan02_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北榫欐江姘村簱.png",娉板北榫欐江姘村簱
 http://gcksc.v.kcdnvip.com/gc/hkts06_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北榫欐江姘村簱.png",娉板北榫欐江姘村簱
 http://gccncc.v.wscdns.com/gc/hkts06_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鍗楀ぉ闂 .png",娉板北鍗楀ぉ闂 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鍗楀ぉ闂 .png",娉板北鍗楀ぉ闂
 http://gcksc.v.kcdnvip.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐧戒簯浜偓宕 .png",娉板北鐧戒簯浜偓宕 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐧戒簯浜偓宕 .png",娉板北鐧戒簯浜偓宕
 http://gcksc.v.kcdnvip.com/gc/hkts02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鎵囧瓙宕 .png",娉板北鎵囧瓙宕 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鎵囧瓙宕 .png",娉板北鎵囧瓙宕
 http://gcksc.v.kcdnvip.com/gc/hkts08_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶钩宀 .png",娉板北澶钩宀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶钩宀 .png",娉板北澶钩宀
 http://gcksc.v.kcdnvip.com/gc/hkts09_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶钩宀 .png",娉板北澶钩宀 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北澶钩宀 .png",娉板北澶钩宀
 http://gccncc.v.wscdns.com/gc/hkts09_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北纰Ч湠绁 .png",娉板北纰ч湠绁 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北纰Ч湠绁 .png",娉板北纰ч湠绁
 http://gcksc.v.kcdnvip.com/gc/hkts03_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐜夌殗椤朵笢.png",娉板北鐜夌殗椤朵笢
 http://gcksc.v.kcdnvip.com/gc/hkts10_1/index.m3u8
@@ -1338,7 +865,7 @@ http://gcksc.v.kcdnvip.com/gc/hkts10_1/index.m3u8
 http://gccncc.v.wscdns.com/gc/hkts10_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娉板北鐜夌殗椤惰タ.png",娉板北鐜夌殗椤惰タ
 http://gcksc.v.kcdnvip.com/gc/hkts11_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北鍗Т簯宄 .png",榛勫北鍗т簯宄 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北鍗Т簯宄 .png",榛勫北鍗т簯宄
 http://gcksc.v.kcdnvip.com/gc/hswlf_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北濮嬩俊鏂伴亾.png",榛勫北濮嬩俊鏂伴亾
 http://gcksc.v.kcdnvip.com/gc/hsyg_1/index.m3u8
@@ -1346,21 +873,21 @@ http://gcksc.v.kcdnvip.com/gc/hsyg_1/index.m3u8
 http://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北姊︾瑪鐢熻姳.png",榛勫北姊︾瑪鐢熻姳
 http://gcksc.v.kcdnvip.com/gc/hsmbsh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北鎺掍簯浜 .png",榛勫北鎺掍簯浜 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北鎺掍簯浜 .png",榛勫北鎺掍簯浜
 http://gcksc.v.kcdnvip.com/gc/hspyt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北骞冲ぉ鐭 .png",榛勫北骞冲ぉ鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北骞冲ぉ鐭 .png",榛勫北骞冲ぉ鐭
 http://gcksc.v.kcdnvip.com/gc/hsptgz_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北骞冲ぉ鐭 .png",榛勫北骞冲ぉ鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北骞冲ぉ鐭 .png",榛勫北骞冲ぉ鐭
 http://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北椋炴潵鐭 .png",榛勫北椋炴潵鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北椋炴潵鐭 .png",榛勫北椋炴潵鐭
 http://gcksc.v.kcdnvip.com/gc/hsptgy_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北椋炴潵鐭 .png",榛勫北椋炴潵鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北椋炴潵鐭 .png",榛勫北椋炴潵鐭
 http://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北鍏夋槑椤 .png",榛勫北鍏夋槑椤 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北鍏夋槑椤 .png",榛勫北鍏夋槑椤
 http://gcksc.v.kcdnvip.com/gc/hsgmd_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/榛勫北.png",榛勫北
 http://gcksc.v.kcdnvip.com/gc/ahhs01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓瀹佸痉澶Д灞辨櫙鍖 .png",绂忓缓瀹佸痉澶Д灞辨櫙鍖 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓瀹佸痉澶Д灞辨櫙鍖 .png",绂忓缓瀹佸痉澶Д灞辨櫙鍖
 http://gcksc.v.kcdnvip.com/gc/tms01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闄曡タ娲嬪幙鍥藉疂鏈遍巩01.png",闄曡タ娲嬪幙鍥藉疂鏈遍巩01
 http://gcksc.v.kcdnvip.com/gc/zhhd01_1/index.m3u8
@@ -1374,9 +901,9 @@ http://gcksc.v.kcdnvip.com/gc/zh03_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/zh04_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘榛熷幙瑗块€掑崐灞变涵.png",瀹夊窘榛熷幙瑗块€掑崐灞变涵
 http://gcksc.v.kcdnvip.com/gc/yxxdbst_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘榛熷幙瑗块€掔墝鍧 .png",瀹夊窘榛熷幙瑗块€掔墝鍧 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘榛熷幙瑗块€掔墝鍧 .png",瀹夊窘榛熷幙瑗块€掔墝鍧
 http://gcksc.v.kcdnvip.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘榛熷幙瑗块€掔墝鍧 .png",瀹夊窘榛熷幙瑗块€掔墝鍧 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘榛熷幙瑗块€掔墝鍧 .png",瀹夊窘榛熷幙瑗块€掔墝鍧
 http://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹夊窘榛熷幙瀹忔潙鏈堟布.png",瀹夊窘榛熷幙瀹忔潙鏈堟布
 http://gcksc.v.kcdnvip.com/gc/yxhcyz_1/index.m3u8
@@ -1398,9 +925,9 @@ http://gcksc.v.kcdnvip.com/gc/ztd_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/ztn_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓ぎ鐢佃濉斿寳.png",涓ぎ鐢佃濉斿寳
 http://gcksc.v.kcdnvip.com/gc/ztb_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎭掑北鎮┖瀵哄叏鏅 .png",鎭掑北鎮┖瀵哄叏鏅 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎭掑北鎮┖瀵哄叏鏅 .png",鎭掑北鎮┖瀵哄叏鏅
 http://gcksc.v.kcdnvip.com/gc/hsxksqj_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎭掑北鎮┖瀵哄叏鏅 .png",鎭掑北鎮┖瀵哄叏鏅 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎭掑北鎮┖瀵哄叏鏅 .png",鎭掑北鎮┖瀵哄叏鏅
 http://gccncc.v.wscdns.com/gc/hsxksqj_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鎭掑畻.png",鎭掑畻
 http://gcksc.v.kcdnvip.com/gc/hsxkssqdzrqj_1/index.m3u8
@@ -1414,39 +941,37 @@ http://gccncc.v.wscdns.com/gc/hgsylztpb_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/hgsspzxdpb_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂动楦熺灠.png",澶╂动楦熺灠
 http://gcksc.v.kcdnvip.com/gc/tyhjtynl_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂动鐭 .png",澶╂动鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂动鐭 .png",澶╂动鐭
 http://gcksc.v.kcdnvip.com/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂动鐭 .png",澶╂动鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/澶╂动鐭 .png",澶╂动鐭
 http://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗楀ぉ涓€鏌 .png",鍗楀ぉ涓€鏌 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗楀ぉ涓€鏌 .png",鍗楀ぉ涓€鏌
 http://gcksc.v.kcdnvip.com/gc/tyhjntyz_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗楀ぉ涓€鏌 .png",鍗楀ぉ涓€鏌 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗楀ぉ涓€鏌 .png",鍗楀ぉ涓€鏌
 http://gccncc.v.wscdns.com/gc/tyhjntyz_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃ユ湀鐭 .png",鏃ユ湀鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃ユ湀鐭 .png",鏃ユ湀鐭
 http://gcksc.v.kcdnvip.com/gc/tyhjrys_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃ユ湀鐭 .png",鏃ユ湀鐭 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鏃ユ湀鐭 .png",鏃ユ湀鐭
 http://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞冲北婀栧ぇ宄¤胺鐭虫灄.png",骞冲北婀栧ぇ宄¤胺鐭虫灄
 http://gcksc.v.kcdnvip.com/gc/pshdxg02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞冲北婀栧ぇ宄¤胺鐭虫灄.png",骞冲北婀栧ぇ宄¤胺鐭虫灄
-http://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/妗傛灄璞″北鍏洯.png",妗傛灄璞″北鍏洯
 http://gcksc.v.kcdnvip.com/gc/glxs01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏洏灞辩孩鍐涢暱寰佹櫙鍖 .png",鍏洏灞辩孩鍐涢暱寰佹櫙鍖 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍏洏灞辩孩鍐涢暱寰佹櫙鍖 .png",鍏洏灞辩孩鍐涢暱寰佹櫙鍖
 http://gcksc.v.kcdnvip.com/gc/lpsgmjng01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/鍗庡北.png",鍗庡北
 http://gcksc.v.kcdnvip.com/gc/hkhs01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鐪佸叴涔夊競涓囧嘲鏋 .png",璐靛窞鐪佸叴涔夊競涓囧嘲鏋 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鐪佸叴涔夊競涓囧嘲鏋 .png",璐靛窞鐪佸叴涔夊競涓囧嘲鏋
 http://gcksc.v.kcdnvip.com/gc/xywfl_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鐪佸叴涔夊競椹箔娌冲场璋 .png",璐靛窞鐪佸叴涔夊競椹箔娌冲场璋 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鐪佸叴涔夊競椹箔娌冲场璋 .png",璐靛窞鐪佸叴涔夊競椹箔娌冲场璋
 http://gcksc.v.kcdnvip.com/gc/xymlh_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鐪佽礊涓板競鍙屼钩宄版櫙鍖 .png",璐靛窞鐪佽礊涓板競鍙屼钩宄版櫙鍖 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/璐靛窞鐪佽礊涓板競鍙屼钩宄版櫙鍖 .png",璐靛窞鐪佽礊涓板競鍙屼钩宄版櫙鍖
 http://gcksc.v.kcdnvip.com/gc/xysrf_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡澶Х悊宕囧湥瀵轰笁濉斾腑鏅 .png",浜戝崡澶х悊宕囧湥瀵轰笁濉斾腑鏅 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡澶Х悊宕囧湥瀵轰笁濉斾腑鏅 .png",浜戝崡澶х悊宕囧湥瀵轰笁濉斾腑鏅
 http://gcksc.v.kcdnvip.com/gc/dlst03_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡澶Х悊宕囧湥瀵轰笁濉旀箹闈 .png",浜戝崡澶х悊宕囧湥瀵轰笁濉旀箹闈 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡澶Х悊宕囧湥瀵轰笁濉旀箹闈 .png",浜戝崡澶х悊宕囧湥瀵轰笁濉旀箹闈
 http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡澶Х悊宕囧湥瀵轰笁濉旇繙鏅 .png",浜戝崡澶х悊宕囧湥瀵轰笁濉旇繙鏅 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡澶Х悊宕囧湥瀵轰笁濉旇繙鏅 .png",浜戝崡澶х悊宕囧湥瀵轰笁濉旇繙鏅
 http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞胯タ妗傛灄婕撴睙鏅尯.png",骞胯タ妗傛灄婕撴睙鏅尯
 http://gcksc.v.kcdnvip.com/gc/gllj01_1/index.m3u8
@@ -1456,47 +981,47 @@ http://gccncc.v.wscdns.com/gc/gllj01_1/index.m3u8
 http://gcksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掑矝宕傚北澶竻.png",闈掑矝宕傚北澶竻
 http://gcksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掑矝宕傚北鐏垫棗宄 .png",闈掑矝宕傚北鐏垫棗宄 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掑矝宕傚北鐏垫棗宄 .png",闈掑矝宕傚北鐏垫棗宄
 http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掑矝宕傚北鍏按娌 .png",闈掑矝宕傚北鍏按娌 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/闈掑矝宕傚北鍏按娌 .png",闈掑矝宕傚北鍏按娌
 http://gcksc.v.kcdnvip.com/gc/qdls02_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊 .png",涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊 .png",涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊
 http://gcksc.v.kcdnvip.com/gc/syns01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊 .png",涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊 .png",涓変簹鍗楀北鏂囧寲鏃呮父鍖烘捣涓婅闊
 http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浠欓兘椋庢櫙鍖 .png",浠欓兘椋庢櫙鍖 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浠欓兘椋庢櫙鍖 .png",浠欓兘椋庢櫙鍖
 http://gcksc.v.kcdnvip.com/gc/xdfjq01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浠欓兘椋庢櫙鍖 .png",浠欓兘椋庢櫙鍖 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浠欓兘椋庢櫙鍖 .png",浠欓兘椋庢櫙鍖
 http://gctxyc.liveplay.myqcloud.com/gc/xdfjq01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸榛勬渤澶У场璋 .png",瀹佸榛勬渤澶у场璋 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸榛勬渤澶У场璋 .png",瀹佸榛勬渤澶у场璋
 http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸榛勬渤澶У场璋 .png",瀹佸榛勬渤澶у场璋 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/瀹佸榛勬渤澶У场璋 .png",瀹佸榛勬渤澶у场璋
 http://gccncc.v.wscdns.com/gc/hhdxg01_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/寮犳帠涓冨僵涓归湠.png",寮犳帠涓冨僵涓归湠
 http://gcksc.v.kcdnvip.com/gc/zyqcdx01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/宓╁北灏戞灄瀵哄箍鍦 .png",宓╁北灏戞灄瀵哄箍鍦 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/宓╁北灏戞灄瀵哄箍鍦 .png",宓╁北灏戞灄瀵哄箍鍦
 http://gcksc.v.kcdnvip.com/gc/zsslsgc_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/濠烘簮01.png",濠烘簮01
 http://gcksc.v.kcdnvip.com/gc/wygjt1_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绁炲啘鏋堕噾涓濈尨01.png",绁炲啘鏋堕噾涓濈尨01
 http://gcksc.v.kcdnvip.com/gc/jshhd01_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閮芥睙鍫伴奔鍢 .png",閮芥睙鍫伴奔鍢 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/閮芥睙鍫伴奔鍢 .png",閮芥睙鍫伴奔鍢
 http://gcksc.v.kcdnvip.com/gc/djyqyl1_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓归湠灞变腹姊搧閿 .png",涓归湠灞变腹姊搧閿 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓归湠灞变腹姊搧閿 .png",涓归湠灞变腹姊搧閿
 http://gcksc.v.kcdnvip.com/gc/dxsdtts_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓归湠灞遍煻闊充涵.png",涓归湠灞遍煻闊充涵
 http://gcksc.v.kcdnvip.com/gc/dxssyt_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡绾㈡渤鍝堝凹姊敯澶氫緷鏍戞櫙鐐 .png",浜戝崡绾㈡渤鍝堝凹姊敯澶氫緷鏍戞櫙鐐 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡绾㈡渤鍝堝凹姊敯澶氫緷鏍戞櫙鐐 .png",浜戝崡绾㈡渤鍝堝凹姊敯澶氫緷鏍戞櫙鐐
 http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡绾㈡渤鍝堝凹姊敯鏅珮鑰佸.png",浜戝崡绾㈡渤鍝堝凹姊敯鏅珮鑰佸
 http://gcksc.v.kcdnvip.com/gc/hnttpgsz_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡绾㈡渤鍝堝凹姊敯鑰佽檸鍢 .png",浜戝崡绾㈡渤鍝堝凹姊敯鑰佽檸鍢 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浜戝崡绾㈡渤鍝堝凹姊敯鑰佽檸鍢 .png",浜戝崡绾㈡渤鍝堝凹姊敯鑰佽檸鍢
 http://gcksc.v.kcdnvip.com/gc/hnttlhzjd_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ榫欒檸灞变腑闂存按娉 .png",姹熻タ榫欒檸灞变腑闂存按娉 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ榫欒檸灞变腑闂存按娉 .png",姹熻タ榫欒檸灞变腑闂存按娉
 http://gcksc.v.kcdnvip.com/gc/lhszjsp_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ榫欒檸灞卞北娑Ф爤閬 .png",姹熻タ榫欒檸灞卞北娑ф爤閬 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ榫欒檸灞卞北娑Ф爤閬 .png",姹熻タ榫欒檸灞卞北娑ф爤閬
 http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ榫欒檸灞卞北娑Ф爤閬 .png",姹熻タ榫欒檸灞卞北娑ф爤閬 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/姹熻タ榫欒檸灞卞北娑Ф爤閬 .png",姹熻タ榫欒檸灞卞北娑ф爤閬
 http://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涔愬北澶Т經鍏ㄦ櫙.png",涔愬北澶т經鍏ㄦ櫙
 http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8
@@ -1504,7 +1029,7 @@ http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8
 http://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/绂忓缓姝﹀し灞辩帀濂冲嘲.png",绂忓缓姝﹀し灞辩帀濂冲嘲
 http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓哄ぉ浣挎姢鑸 .png",涓哄ぉ浣挎姢鑸 
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/涓哄ぉ浣挎姢鑸 .png",涓哄ぉ浣挎姢鑸
 http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴欐睙缁忔祹鐢熸椿.png",娴欐睙缁忔祹鐢熸椿
 http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
@@ -1520,7 +1045,5 @@ http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 http://hlsv2.quklive.com/live/1625061424267104/index.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/骞虫箹鏂伴椈缁煎悎.png",骞虫箹鏂伴椈缁煎悎
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娣冲畨鐢佃鍙 .png",娣冲畨鐢佃鍙 
-https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/娴峰畞鐢熸椿鏈嶅姟.png",娴峰畞鐢熸椿鏈嶅姟
 http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
